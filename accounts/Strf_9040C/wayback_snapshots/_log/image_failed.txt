@@ -20,14 +20,11 @@ https://pbs.twimg.com/media/Ggydd6paMAAvXpC.jpg
 https://pbs.twimg.com/media/GhQBw3tawAA1ny-.jpg
 https://pbs.twimg.com/media/Gfm5tCIbQAAMVKY.jpg
 https://pbs.twimg.com/media/Ghrv1tbacAAyiDD.jpg
-https://pbs.twimg.com/media/GhsVq-UbkAA4zOQ.jpg
 https://pbs.twimg.com/media/Gf4EJSTaUAAaqQI.jpg
 https://pbs.twimg.com/media/GgbCpKOa8AE5HQC.jpg
 https://pbs.twimg.com/media/Gf5HuUyawAEKc0X.jpg
-https://pbs.twimg.com/media/Gh62i2ObAAAXV3a.jpg
 https://pbs.twimg.com/media/Gh62_L8bgAAqW9_.jpg
 https://pbs.twimg.com/media/Ggydd7iaMAAncYi.jpg
-https://pbs.twimg.com/media/GhzjlO2bEAAMOUV.jpg
 https://pbs.twimg.com/media/GftTjCKbIAAG79x.jpg
 https://pbs.twimg.com/media/Ghili2xaIAAl3vG.jpg
 https://pbs.twimg.com/media/GiTTahCb0AA5ZWV.jpg
@@ -40,7 +37,6 @@ https://pbs.twimg.com/media/Ghrv1uObAAA442u.jpg
 https://pbs.twimg.com/media/GigrTQGasAAQLV8.jpg
 https://pbs.twimg.com/media/GiiUQByboAAupA7.jpg
 https://pbs.twimg.com/media/GigqrVKbcAA0LCT.jpg
-https://pbs.twimg.com/media/GgbCpPCa8AEe6O9.jpg
 https://pbs.twimg.com/media/Gib0Vm6aMAAjTcg.jpg
 https://pbs.twimg.com/media/GiinFaJbYAArhTg.jpg
 https://pbs.twimg.com/media/Gh62i38aMAAIZkR.jpg
@@ -64,7 +60,6 @@ https://pbs.twimg.com/media/GiiWATuaQAAcXkQ.jpg
 https://pbs.twimg.com/media/Gii04k5a0AAVa98.jpg
 https://pbs.twimg.com/media/GjRx77yaIAA_0HN.jpg
 https://pbs.twimg.com/media/GiwRiuibMAA30lp.jpg
-https://pbs.twimg.com/media/Gi7C3FUa4AI8joh.jpg
 https://pbs.twimg.com/media/GjKkCbGbIAEXpsV.jpg
 https://pbs.twimg.com/media/GiwWtVzbkAAuj7Z.jpg
 https://pbs.twimg.com/media/GjWYkWnbAAA2iZE.png
@@ -169,7 +164,6 @@ https://pbs.twimg.com/media/HG9Hyr6acAAJR_g.jpg
 https://pbs.twimg.com/media/HG6HnLYbUAAHjpe.jpg
 https://pbs.twimg.com/media/HG6FU3_aEAAXPFq.jpg
 https://pbs.twimg.com/media/HHCEcVZboAAZdWf.jpg
-https://pbs.twimg.com/media/HHDcS2IbMAAYpoy.jpg
 https://pbs.twimg.com/media/HG9HsclbcAA-r0n.jpg
 https://pbs.twimg.com/media/HGXRgkDaEAA0NfJ.jpg
 https://pbs.twimg.com/media/HGnhQv-aYAA3D73.jpg
@@ -297,3 +291,7 @@ https://pbs.twimg.com/media/HNg4_HlboAElR9M.jpg
 https://pbs.twimg.com/media/HL5TcPwbQAA5yIU.jpg
 https://pbs.twimg.com/media/HNsBIgfaAAAxKl-.jpg
 https://pbs.twimg.com/media/HNsBnbiakAA1wlK.jpg
+https://pbs.twimg.com/media/HGZO8dsbQAAMiDB.jpg
+https://pbs.twimg.com/media/HGZO8febkAAyXmA.jpg
+https://pbs.twimg.com/media/HGZO8fgbIAACX2J.jpg
+https://pbs.twimg.com/media/HGZO8fiaAAAsTuv.jpg
