@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876123137982808064"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "1876123140667105465",
+    "created_at": "2025-01-06T04:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T05:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1876123140667105465"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bHAnXqvX6g",
+          "end": 23,
+          "expanded_url": "https://x.com/Strf_9040C/status/1876123140667105465/photo/1",
+          "media_key": "3_1876123137982808064",
+          "start": 0,
+          "url": "https://t.co/bHAnXqvX6g"
+        },
+        {
+          "display_url": "x.com/crow_no996/sta…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/crow_no996/status/1875951990112666002",
+          "start": 24,
+          "url": "https://t.co/swMgfkMZXY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876123140667105465",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875951990112666002",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/bHAnXqvX6g https://t.co/swMgfkMZXY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1612,
+        "media_key": "3_1876123137982808064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GglUDcpbQAA34e3.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876123137982808064"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "1876123140667105465",
+        "created_at": "2025-01-06T04:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T05:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876123140667105465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bHAnXqvX6g",
+              "end": 23,
+              "expanded_url": "https://x.com/Strf_9040C/status/1876123140667105465/photo/1",
+              "media_key": "3_1876123137982808064",
+              "start": 0,
+              "url": "https://t.co/bHAnXqvX6g"
+            },
+            {
+              "display_url": "x.com/crow_no996/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/crow_no996/status/1875951990112666002",
+              "start": 24,
+              "url": "https://t.co/swMgfkMZXY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876123140667105465",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875951990112666002",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/bHAnXqvX6g https://t.co/swMgfkMZXY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487024566975479810",
+        "conversation_id": "1875951990112666002",
+        "created_at": "2025-01-05T17:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T18:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875951990112666002"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1875951990112666002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 28371,
+          "like_count": 221,
+          "quote_count": 31,
+          "reply_count": 450,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "说出你游戏时长最长的游戏："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 906,
+          "like_count": 1963,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 182
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-28T11:27:54.000Z",
+        "description": "聊天看梗图看插画打游戏🎮\n来找乐子的都欢迎，戾气重的走开||励志成为宝可梦大师/操虫棍糕手/现充/梗图制作人||回复中有容易引起对立的内容可能会隐藏||不接推广",
+        "id": "1487024566975479810",
+        "location": "交界地",
+        "name": "crow🐦‍⬛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866160028484603904/S0rSoCeR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2125,
+          "following_count": 501,
+          "like_count": 11674,
+          "listed_count": 18,
+          "media_count": 1024,
+          "tweet_count": 11498
+        },
+        "username": "crow_no996",
+        "verified": false
+      }
+    ]
+  }
+}

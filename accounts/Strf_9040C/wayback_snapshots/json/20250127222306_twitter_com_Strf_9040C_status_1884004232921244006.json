@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1884004232921244006",
+    "created_at": "2025-01-27T22:23:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T23:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884004232921244006"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Quadrant__3/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Quadrant__3/status/1883976750021107770",
+          "start": 7,
+          "url": "https://t.co/K5VUsld0CG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884004232921244006",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883976750021107770",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但这是黄种猫 https://t.co/K5VUsld0CG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1884004232921244006",
+        "created_at": "2025-01-27T22:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T23:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884004232921244006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Quadrant__3/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Quadrant__3/status/1883976750021107770",
+              "start": 7,
+              "url": "https://t.co/K5VUsld0CG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884004232921244006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883976750021107770",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但这是黄种猫 https://t.co/K5VUsld0CG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1635640229246951425",
+        "conversation_id": "1883976750021107770",
+        "created_at": "2025-01-27T20:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T21:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883976750021107770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/strf_9040c/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/strf_9040c/status/1883375739929780272",
+              "start": 10,
+              "url": "https://t.co/kmD2vFlTI9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883976750021107770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883375739929780272",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "黃種人就該被NTR https://t.co/kmD2vFlTI9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 1452,
+          "like_count": 3273,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 377
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-14T13:53:42.000Z",
+        "description": "合作歡迎私訊小盒子/無使用交友軟體/18y/145cm150kg/高中沒畢業/娛樂城/買精品找我/菸彈/化學組/自然組/k仔/狀況愛/音樂課/廟會孩子並不壞/陣頭囝仔/會考5c/模板學徒/莫忘初衷/百善孝為先/搞錢/沒刺青不代表沒故事 年紀輕不代表沒實力/全國可✈️/🚪50",
+        "id": "1635640229246951425",
+        "location": "No body car",
+        "name": "負負得負的二次方再一個二次方",
+        "pinned_tweet_id": "1795840843741646859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816389304891105281/ghnAvC_B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 924,
+          "like_count": 41921,
+          "listed_count": 2,
+          "media_count": 556,
+          "tweet_count": 8351
+        },
+        "username": "Quadrant__3",
+        "verified": false
+      }
+    ]
+  }
+}

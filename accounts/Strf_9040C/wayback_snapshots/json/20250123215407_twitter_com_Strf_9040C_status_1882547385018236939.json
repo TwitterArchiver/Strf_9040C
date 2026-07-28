@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1882547385018236939",
+    "created_at": "2025-01-23T21:54:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T22:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1882547385018236939"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Muoujiang_/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Muoujiang_/status/1881994670672400758",
+          "start": 11,
+          "url": "https://t.co/JJcc7mReUW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882547385018236939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881994670672400758",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "加个枪口收束器就好了 https://t.co/JJcc7mReUW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1882547385018236939",
+        "created_at": "2025-01-23T21:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T22:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882547385018236939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Muoujiang_/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Muoujiang_/status/1881994670672400758",
+              "start": 11,
+              "url": "https://t.co/JJcc7mReUW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882547385018236939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881994670672400758",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "加个枪口收束器就好了 https://t.co/JJcc7mReUW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881994666322890752"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1881994670672400758",
+        "created_at": "2025-01-22T09:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T10:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881994670672400758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZDxL2hXIXk",
+              "end": 23,
+              "expanded_url": "https://x.com/Muoujiang_/status/1881994670672400758/photo/1",
+              "media_key": "3_1881994666322890752",
+              "start": 0,
+              "url": "https://t.co/ZDxL2hXIXk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881994670672400758",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 359,
+          "impression_count": 701917,
+          "like_count": 5380,
+          "quote_count": 16,
+          "reply_count": 178,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZDxL2hXIXk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 1361,
+          "like_count": 2925,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 324
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌🌠|喜欢台湾|友🏳️‍🌈🏳️‍⚧️|头像作者 @abi_marionette|加点东西：@huahuojiang_ |欢迎匿名给我发消息📦https://t.co/OJCInz4IdU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 24,
+                "username": "abi_marionette"
+              },
+              {
+                "end": 58,
+                "start": 45,
+                "username": "huahuojiang_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/marionette_sa1",
+                "end": 93,
+                "expanded_url": "https://ngl.link/marionette_sa1",
+                "start": 70,
+                "url": "https://t.co/OJCInz4IdU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/marionette_sa1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/marionette_sa1",
+                "start": 0,
+                "url": "https://t.co/OJCInz4IdU"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "至冬宫",
+        "name": "木偶酱～🌠",
+        "pinned_tweet_id": "1877365050119184876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877582704671338498/s9LTpUFg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16933,
+          "following_count": 9954,
+          "like_count": 61716,
+          "listed_count": 57,
+          "media_count": 2596,
+          "tweet_count": 10707
+        },
+        "url": "https://t.co/OJCInz4IdU",
+        "username": "Muoujiang_",
+        "verified": false
+      }
+    ]
+  }
+}

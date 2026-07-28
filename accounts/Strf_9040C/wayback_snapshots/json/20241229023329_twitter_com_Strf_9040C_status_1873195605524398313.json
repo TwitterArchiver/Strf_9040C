@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1873195605524398313",
+    "created_at": "2024-12-29T02:33:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T03:33:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1873195605524398313"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Strf_9040C/sta…",
+          "end": 110,
+          "expanded_url": "https://twitter.com/Strf_9040C/status/1873190573127213474",
+          "start": 87,
+          "url": "https://t.co/p9ewHNbRcm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873195605524398313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873190573127213474",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "而且还给我和我姐生错了身体\n如果我是女生，我就不会有这么严重的精神病\n我姐是男生，我姐没有卵巢（我姐是卵巢癌）\n那么这一切问题就都不会有\n…老天你究竟在搞什么\n这样很好玩吗 https://t.co/p9ewHNbRcm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1873195605524398313",
+        "created_at": "2024-12-29T02:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T03:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873195605524398313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Strf_9040C/sta…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/Strf_9040C/status/1873190573127213474",
+              "start": 87,
+              "url": "https://t.co/p9ewHNbRcm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873195605524398313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873190573127213474",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而且还给我和我姐生错了身体\n如果我是女生，我就不会有这么严重的精神病\n我姐是男生，我姐没有卵巢（我姐是卵巢癌）\n那么这一切问题就都不会有\n…老天你究竟在搞什么\n这样很好玩吗 https://t.co/p9ewHNbRcm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1873190573127213474",
+        "created_at": "2024-12-29T02:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T03:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873190573127213474"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1873190573127213474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道我爹妈怎么养的\n把我养成精神病把我姐养成了癌症\n我姐是想活但活不下去\n我是不想活但必须活下去\n两边都折磨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 713,
+          "like_count": 1147,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 149
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+  "username": "@Strf_9040C",
+  "bio": "Strf 9040C：于理想中的深度现代化 Med：于急诊临床的理性与精神医学的感性之间 Status：MtX HRT：2023.08.26（Paused for Calibration） Birth：2009.09.04 23:15 (UTC+8)  Backup：@SPYDER_AIO 好姐姐：@10Lystra",
+  "location": "全真模拟 战区控制 瑞典",
+  "link": "https://example.com/",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 145,
+        "start": 134,
+        "username": "SPYDER_AIO"
+      },
+      {
+        "end": 159,
+        "start": 150,
+        "username": "10Lystra"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg"
+}

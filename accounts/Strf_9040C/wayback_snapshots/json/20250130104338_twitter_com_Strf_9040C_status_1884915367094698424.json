@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1884909019313455576",
+    "created_at": "2025-01-30T10:43:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T11:43:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884915367094698424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1240202079789961217",
+          "start": 0,
+          "username": "rain_1587"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884915367094698424",
+    "in_reply_to_user_id": "1240202079789961217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884914731414421705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rain_1587 你怎么知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1884909019313455576",
+        "created_at": "2025-01-30T10:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T11:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884915367094698424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1240202079789961217",
+              "start": 0,
+              "username": "rain_1587"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884915367094698424",
+        "in_reply_to_user_id": "1240202079789961217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884914731414421705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rain_1587 你怎么知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1240202079789961217",
+        "conversation_id": "1884909019313455576",
+        "created_at": "2025-01-30T10:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T11:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884914731414421705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721895937357004800",
+              "start": 0,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884914731414421705",
+        "in_reply_to_user_id": "1721895937357004800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884909019313455576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strf_9040C 你是不是平假名"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 1511,
+          "like_count": 3668,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 431
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-18T09:03:24.000Z",
+        "description": "🦊/🚗/全职猎人/nirvana/六英尺九英寸",
+        "id": "1240202079789961217",
+        "location": "距你 114514 米",
+        "name": "🦊Rain（煊赫门重度依赖）",
+        "pinned_tweet_id": "1732371525880402126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869403714995568641/wWxP73Ff_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 1686,
+          "like_count": 121233,
+          "listed_count": 3,
+          "media_count": 2058,
+          "tweet_count": 18592
+        },
+        "username": "rain_1587",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036310217231835137"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2036310254708044181",
+    "created_at": "2026-03-24T05:12:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T06:12:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036310254708044181"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lz9Z8rAyj2",
+          "end": 30,
+          "expanded_url": "https://x.com/Strf_9040C/status/2036310254708044181/photo/1",
+          "media_key": "3_2036310217231835137",
+          "start": 7,
+          "url": "https://t.co/lz9Z8rAyj2"
+        },
+        {
+          "display_url": "x.com/Strf_9040C/sta…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/Strf_9040C/status/2033749031877546124",
+          "start": 31,
+          "url": "https://t.co/QE59cVy6wB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036310254708044181",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033749031877546124",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "心如刀绞😭✊ https://t.co/lz9Z8rAyj2 https://t.co/QE59cVy6wB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2335,
+        "media_key": "3_2036310217231835137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEJtWo6aIAEiGkD.jpg",
+        "width": 1176
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2033748896909037570",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDlT2LKbEAIi8H5.jpg",
+        "width": 625
+      },
+      {
+        "height": 580,
+        "media_key": "3_2033749020062191621",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDlT9V8bEAUs17m.jpg",
+        "width": 560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036310217231835137"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2036310254708044181",
+        "created_at": "2026-03-24T05:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T06:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036310254708044181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lz9Z8rAyj2",
+              "end": 30,
+              "expanded_url": "https://x.com/Strf_9040C/status/2036310254708044181/photo/1",
+              "media_key": "3_2036310217231835137",
+              "start": 7,
+              "url": "https://t.co/lz9Z8rAyj2"
+            },
+            {
+              "display_url": "x.com/Strf_9040C/sta…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/Strf_9040C/status/2033749031877546124",
+              "start": 31,
+              "url": "https://t.co/QE59cVy6wB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036310254708044181",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033749031877546124",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "心如刀绞😭✊ https://t.co/lz9Z8rAyj2 https://t.co/QE59cVy6wB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033748896909037570",
+            "3_2033749020062191621"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2033749031877546124",
+        "created_at": "2026-03-17T03:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T04:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033749031877546124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G4IZs0z1tp",
+              "end": 65,
+              "expanded_url": "https://x.com/Strf_9040C/status/2033749031877546124/photo/1",
+              "media_key": "3_2033748896909037570",
+              "start": 42,
+              "url": "https://t.co/G4IZs0z1tp"
+            },
+            {
+              "display_url": "pic.x.com/G4IZs0z1tp",
+              "end": 65,
+              "expanded_url": "https://x.com/Strf_9040C/status/2033749031877546124/photo/1",
+              "media_key": "3_2033749020062191621",
+              "start": 42,
+              "url": "https://t.co/G4IZs0z1tp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033749031877546124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1154,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这世界对我太尼玛坏了我靠\n我喜欢的小男娘被别人收养了\n我草不到了\n我服了啊\n😭😭😭 https://t.co/G4IZs0z1tp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1888264013416645010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 1551,
+          "like_count": 5266,
+          "listed_count": 0,
+          "media_count": 339,
+          "tweet_count": 712
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

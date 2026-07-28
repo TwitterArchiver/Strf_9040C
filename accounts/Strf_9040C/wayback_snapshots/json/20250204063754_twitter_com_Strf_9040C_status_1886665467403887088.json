@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1886662559433977955",
+    "created_at": "2025-02-04T06:37:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T07:37:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886665467403887088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1700865258150371328",
+          "start": 0,
+          "username": "star_tran30449"
+        },
+        {
+          "end": 29,
+          "id": "1429405137198452736",
+          "start": 16,
+          "username": "Ruri_Mitsuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886665467403887088",
+    "in_reply_to_user_id": "1700865258150371328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886662559433977955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@star_tran30449 @Ruri_Mitsuki 死因是扩张性心肌病引起多器官衰竭…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1886662559433977955",
+        "created_at": "2025-02-04T06:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T07:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886665467403887088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1700865258150371328",
+              "start": 0,
+              "username": "star_tran30449"
+            },
+            {
+              "end": 29,
+              "id": "1429405137198452736",
+              "start": 16,
+              "username": "Ruri_Mitsuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886665467403887088",
+        "in_reply_to_user_id": "1700865258150371328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886662559433977955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@star_tran30449 @Ruri_Mitsuki 死因是扩张性心肌病引起多器官衰竭…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886662555969449984"
+          ]
+        },
+        "author_id": "1700865258150371328",
+        "conversation_id": "1886662559433977955",
+        "created_at": "2025-02-04T06:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T07:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886662559433977955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1429405137198452736",
+              "start": 4,
+              "username": "Ruri_Mitsuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uw74qX0DOl",
+              "end": 66,
+              "expanded_url": "https://x.com/star_tran30449/status/1886662559433977955/photo/1",
+              "media_key": "3_1886662555969449984",
+              "start": 43,
+              "url": "https://t.co/uw74qX0DOl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886662559433977955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：\n@Ruri_Mitsuki 因二型糖尿病于2025年2月4日逝世，愿安息🕯️ https://t.co/uw74qX0DOl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 1605,
+          "like_count": 4913,
+          "listed_count": 1,
+          "media_count": 243,
+          "tweet_count": 548
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T13:35:01.000Z",
+        "description": "她/他/祂们并未离开，只是去了一个遥远的地方。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "startransforeve.com",
+                "end": 23,
+                "expanded_url": "http://startransforeve.com",
+                "start": 0,
+                "url": "https://t.co/ZYDXKWLSZo"
+              }
+            ]
+          }
+        },
+        "id": "1700865258150371328",
+        "name": "StarTransForever",
+        "pinned_tweet_id": "1700873713980506292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749459076587900928/V3XYOWRU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 60,
+          "like_count": 1057,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 384
+        },
+        "url": "https://t.co/ZYDXKWLSZo",
+        "username": "star_tran30449",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T11:28:44.000Z",
+        "description": "I can drink nitric acid cause,it won't hurt me.\n我的藥佬朋友 @YuunaTsuki_wind",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 55,
+                "username": "YuunaTsuki_wind"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lainbook_wind",
+                "end": 23,
+                "expanded_url": "https://t.me/lainbook_wind",
+                "start": 0,
+                "url": "https://t.co/qSJDuwn0Gp"
+              }
+            ]
+          }
+        },
+        "id": "1429405137198452736",
+        "location": "OtokonokoNeko.lnc",
+        "name": "無名",
+        "pinned_tweet_id": "1877366113178210650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884218026482077696/qYtBom0G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7411,
+          "following_count": 788,
+          "like_count": 123128,
+          "listed_count": 35,
+          "media_count": 3221,
+          "tweet_count": 19023
+        },
+        "url": "https://t.co/qSJDuwn0Gp",
+        "username": "Ruri_Mitsuki",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051637458954338304"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2051293457256534068",
+    "created_at": "2026-05-05T12:17:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T13:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051637482756911275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1581209973094109185",
+          "start": 0,
+          "username": "hhh84672361"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yb08emfzdb",
+          "end": 36,
+          "expanded_url": "https://x.com/Strf_9040C/status/2051637482756911275/photo/1",
+          "media_key": "3_2051637458954338304",
+          "start": 13,
+          "url": "https://t.co/Yb08emfzdb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051637482756911275",
+    "in_reply_to_user_id": "1581209973094109185",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051293457256534068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhh84672361 https://t.co/Yb08emfzdb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051637458954338304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjhZhzbwAA-1a_.jpg",
+        "width": 889
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051293448897200128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHeohgeagAAs6RZ.jpg",
+        "width": 443
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051293449115283458",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHeohhSaMAIbC_g.jpg",
+        "width": 407
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051293449421455360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHeohibaAAAuZE2.jpg",
+        "width": 502
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051637458954338304"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2051293457256534068",
+        "created_at": "2026-05-05T12:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T13:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051637482756911275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1581209973094109185",
+              "start": 0,
+              "username": "hhh84672361"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yb08emfzdb",
+              "end": 36,
+              "expanded_url": "https://x.com/Strf_9040C/status/2051637482756911275/photo/1",
+              "media_key": "3_2051637458954338304",
+              "start": 13,
+              "url": "https://t.co/Yb08emfzdb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051637482756911275",
+        "in_reply_to_user_id": "1581209973094109185",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051293457256534068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhh84672361 https://t.co/Yb08emfzdb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051293448897200128",
+            "3_2051293449115283458",
+            "3_2051293449421455360"
+          ]
+        },
+        "author_id": "1581209973094109185",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051293457256534068",
+        "created_at": "2026-05-04T13:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051293457256534068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lMoukNGGLu",
+              "end": 88,
+              "expanded_url": "https://x.com/hhh84672361/status/2051293457256534068/photo/1",
+              "media_key": "3_2051293448897200128",
+              "start": 65,
+              "url": "https://t.co/lMoukNGGLu"
+            },
+            {
+              "display_url": "pic.x.com/lMoukNGGLu",
+              "end": 88,
+              "expanded_url": "https://x.com/hhh84672361/status/2051293457256534068/photo/1",
+              "media_key": "3_2051293449115283458",
+              "start": 65,
+              "url": "https://t.co/lMoukNGGLu"
+            },
+            {
+              "display_url": "pic.x.com/lMoukNGGLu",
+              "end": 88,
+              "expanded_url": "https://x.com/hhh84672361/status/2051293457256534068/photo/1",
+              "media_key": "3_2051293449421455360",
+              "start": 65,
+              "url": "https://t.co/lMoukNGGLu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051293457256534068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4656,
+          "like_count": 60,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "奇异搞笑之老唐再次炒作吞药假死，竟导致烧仙草殉情\n上次唐畜还有个吞药动画呢这次都懒得演了\n这死蛆怎么不把自己肠子里的屎挖出来吃了 https://t.co/lMoukNGGLu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A\n主人🥰@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              },
+              {
+                "end": 152,
+                "start": 143,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "2043259817121448322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 1943,
+          "like_count": 9274,
+          "listed_count": 0,
+          "media_count": 477,
+          "tweet_count": 922
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-15T09:06:57.000Z",
+        "description": "",
+        "id": "1581209973094109185",
+        "name": "eabab🪺🍥💙💛🇵🇸🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938289246164684806/cr4zfItR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 1699,
+          "like_count": 6647,
+          "listed_count": 3,
+          "media_count": 184,
+          "tweet_count": 1436
+        },
+        "username": "hhh84672361",
+        "verified": false
+      }
+    ]
+  }
+}

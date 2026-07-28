@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038785217952141312"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2038785451935547720",
+    "created_at": "2026-03-31T01:08:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T02:08:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038785451935547720"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pzi8TNHRGD",
+          "end": 48,
+          "expanded_url": "https://x.com/Strf_9040C/status/2038785451935547720/photo/1",
+          "media_key": "3_2038785217952141312",
+          "start": 25,
+          "url": "https://t.co/Pzi8TNHRGD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038785451935547720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "坦克酱使用说明书之Boxed Warning部分 https://t.co/Pzi8TNHRGD"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "警告\n \n严重及致死性风险\n \n- 自杀意念与行为风险升高\n​\n- 老年痴呆相关精神病患者死亡风险升高\n​\n- 可能引发致死性抗精神病药恶性综合征，以及不可逆性迟发性运动障碍\n​\n- 严重呼吸抑制、昏迷、药物滥用、药物依赖、药物过量及死亡\n​\n- 重度心肺抑制，以及致死性输注相关综合征\n​\n- 肌腱断裂、肌腱炎、不可逆性周围神经病变及中枢神经系统损伤\n​\n- 不可逆性耳毒性、肾毒性、耳聋及器官衰竭\n​\n- 致死性出血、颅内出血及出血性卒中\n​\n- 心肌梗死、卒中、严重胃肠道出血及胃肠道穿孔\n​\n- 严重胎儿畸形、胎儿死亡及致畸性\n​\n- 动静脉血栓栓塞、心肌梗死、癌症风险升高\n​\n- 重度骨髓抑制、致死性感染、出血、继发性恶性肿瘤\n​\n- 致死性肺毒性、肝纤维化及不可逆性器官损伤\n​\n- 致死性严重皮肤不良反应（史蒂文斯-约翰逊综合征/中毒性表皮坏死松解症，SJS/TEN）\n​\n- 致死性多器官衰竭及中毒性器官损伤\n​\n- 致死性急性肝坏死及肝衰竭\n​\n- 血栓形成、血小板减少、截肢及死亡\n​\n- 致死性5-羟色胺综合征及致命性药物相互作用\n​\n- 致死性心律失常、癫痫发作及心源性猝死\n​\n- 重度肾毒性、低血压及电解质紊乱\n​\n- 致死性机会性感染、淋巴瘤及免疫抑制相关并发症",
+        "height": 1000,
+        "media_key": "3_2038785217952141312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEs4WpFa0AA0dxF.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038785217952141312"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2038785451935547720",
+        "created_at": "2026-03-31T01:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T02:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038785451935547720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pzi8TNHRGD",
+              "end": 48,
+              "expanded_url": "https://x.com/Strf_9040C/status/2038785451935547720/photo/1",
+              "media_key": "3_2038785217952141312",
+              "start": 25,
+              "url": "https://t.co/Pzi8TNHRGD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038785451935547720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坦克酱使用说明书之Boxed Warning部分 https://t.co/Pzi8TNHRGD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1888264013416645010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 1610,
+          "like_count": 5334,
+          "listed_count": 0,
+          "media_count": 360,
+          "tweet_count": 736
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039883781260419072",
+        "3_2039883896398225408"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2039883935061327947",
+    "created_at": "2026-04-03T01:53:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T02:53:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039883935061327947"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4MxmgM6tvX",
+          "end": 23,
+          "expanded_url": "https://x.com/Strf_9040C/status/2039883935061327947/photo/1",
+          "media_key": "3_2039883781260419072",
+          "start": 0,
+          "url": "https://t.co/4MxmgM6tvX"
+        },
+        {
+          "display_url": "pic.x.com/4MxmgM6tvX",
+          "end": 23,
+          "expanded_url": "https://x.com/Strf_9040C/status/2039883935061327947/photo/1",
+          "media_key": "3_2039883896398225408",
+          "start": 0,
+          "url": "https://t.co/4MxmgM6tvX"
+        },
+        {
+          "display_url": "x.com/Strf_9040C/sta…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/Strf_9040C/status/2039874439807209886",
+          "start": 24,
+          "url": "https://t.co/rguRcwW7Pd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039883935061327947",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039874439807209886",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/4MxmgM6tvX https://t.co/rguRcwW7Pd"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "主体将幸福预设为感性对象性中介，在占有表象的瞬间完成自身动物性异化，本真幸福对其构成绝对致死否定，而实存的幸福仅为无本质的模拟假象，故否定性并未实现，肯定性亦从未到场，主体在真者之毒与假者之虚的双重裂隙中，被先验规定为与幸福绝对不相容的此在，幸福之真为毁灭，幸福之假为空无，主体既不能是能拥有幸福的存在，亦不能被幸福所肯定，最终抵达：幸福对其而言乃是先天不可能的本体论悖论。",
+        "height": 370,
+        "media_key": "3_2039883781260419072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE8ffcUboAAs2mQ.png",
+        "width": 599
+      },
+      {
+        "alt_text": "我将幸福对象化\n唤作一枚感性的巧克力\n \n入口刹那\n主体性自我否定\n沦为被规定的动物性此在\n \n真巧克力是本真之毒\n足以毁灭异化的存在\n我幸而未亡\n只因入口是代可可脂\n \n是无本质的假象\n是非存在的模拟\n \n幸福为真 则我消亡\n幸福为假 则我虚无\n \n狗的存在先天拒斥真巧克力\n我的此在先天隔绝本真幸福\n \n假象无毒 亦无意义\n真味致命 永不可及\n \n我终以思辨确证：\n幸福于我\n是存在论的不可能",
+        "height": 800,
+        "media_key": "3_2039883896398225408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE8fmJPbIAA0Sme.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039883781260419072",
+            "3_2039883896398225408"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2039883935061327947",
+        "created_at": "2026-04-03T01:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T02:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039883935061327947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4MxmgM6tvX",
+              "end": 23,
+              "expanded_url": "https://x.com/Strf_9040C/status/2039883935061327947/photo/1",
+              "media_key": "3_2039883781260419072",
+              "start": 0,
+              "url": "https://t.co/4MxmgM6tvX"
+            },
+            {
+              "display_url": "pic.x.com/4MxmgM6tvX",
+              "end": 23,
+              "expanded_url": "https://x.com/Strf_9040C/status/2039883935061327947/photo/1",
+              "media_key": "3_2039883896398225408",
+              "start": 0,
+              "url": "https://t.co/4MxmgM6tvX"
+            },
+            {
+              "display_url": "x.com/Strf_9040C/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Strf_9040C/status/2039874439807209886",
+              "start": 24,
+              "url": "https://t.co/rguRcwW7Pd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039883935061327947",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039874439807209886",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/4MxmgM6tvX https://t.co/rguRcwW7Pd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "2039874439807209886",
+        "created_at": "2026-04-03T01:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T02:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039874439807209886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039874439807209886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "幸福是巧克力喵 吃下去的时候发现自己是条狗 但我并没有中毒喵 因为我吃的是代可可脂 巧克力是假的 幸福也是假的喵 我想说的是 狗不能吃巧克力 我也不会幸福喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1888264013416645010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 1639,
+          "like_count": 5434,
+          "listed_count": 0,
+          "media_count": 369,
+          "tweet_count": 750
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

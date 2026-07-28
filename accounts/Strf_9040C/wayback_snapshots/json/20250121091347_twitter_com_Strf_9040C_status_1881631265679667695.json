@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1881628976537559288",
+    "created_at": "2025-01-21T09:13:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T10:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881631265679667695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1383329877588250628",
+          "start": 0,
+          "username": "donggua7021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881631265679667695",
+    "in_reply_to_user_id": "1383329877588250628",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881629908595789867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@donggua7021 窝不是晶哥😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1881628976537559288",
+        "created_at": "2025-01-21T09:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T10:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881631265679667695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1383329877588250628",
+              "start": 0,
+              "username": "donggua7021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881631265679667695",
+        "in_reply_to_user_id": "1383329877588250628",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881629908595789867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@donggua7021 窝不是晶哥😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1383329877588250628",
+        "conversation_id": "1881628976537559288",
+        "created_at": "2025-01-21T09:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T10:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881629908595789867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721895937357004800",
+              "start": 0,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881629908595789867",
+        "in_reply_to_user_id": "1721895937357004800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881628976537559288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strf_9040C 晶哥我不会买的 可以不要再给我的号下面推黄推钓我了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 1313,
+          "like_count": 2792,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 309
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-17T08:02:07.000Z",
+        "description": "倚南窗以寄傲，审容膝之易安 | 提问: https://t.co/hcEGKuQqf5 ｜ 更多戳链接",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/donggua70211",
+                "end": 43,
+                "expanded_url": "https://ngl.link/donggua70211",
+                "start": 20,
+                "url": "https://t.co/hcEGKuQqf5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dgtea.site/about",
+                "end": 23,
+                "expanded_url": "https://dgtea.site/about",
+                "start": 0,
+                "url": "https://t.co/7HEmI9i6yo"
+              }
+            ]
+          }
+        },
+        "id": "1383329877588250628",
+        "location": "OL63",
+        "name": "冬瓜",
+        "pinned_tweet_id": "1881596275692580936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881483587280945154/oesymrdH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 689,
+          "like_count": 13078,
+          "listed_count": 1,
+          "media_count": 529,
+          "tweet_count": 5488
+        },
+        "url": "https://t.co/7HEmI9i6yo",
+        "username": "donggua7021",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056597785093558272",
+        "3_2056597785114480640",
+        "3_2056597785093484544",
+        "3_2056597785110253568"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2056598549362778178",
+    "created_at": "2026-05-19T04:51:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T05:51:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056598549362778178"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yvvV2e2XLs",
+          "end": 225,
+          "expanded_url": "https://x.com/Strf_9040C/status/2056598549362778178/photo/1",
+          "media_key": "3_2056597785093558272",
+          "start": 202,
+          "url": "https://t.co/yvvV2e2XLs"
+        },
+        {
+          "display_url": "pic.x.com/yvvV2e2XLs",
+          "end": 225,
+          "expanded_url": "https://x.com/Strf_9040C/status/2056598549362778178/photo/1",
+          "media_key": "3_2056597785114480640",
+          "start": 202,
+          "url": "https://t.co/yvvV2e2XLs"
+        },
+        {
+          "display_url": "pic.x.com/yvvV2e2XLs",
+          "end": 225,
+          "expanded_url": "https://x.com/Strf_9040C/status/2056598549362778178/photo/1",
+          "media_key": "3_2056597785093484544",
+          "start": 202,
+          "url": "https://t.co/yvvV2e2XLs"
+        },
+        {
+          "display_url": "pic.x.com/yvvV2e2XLs",
+          "end": 225,
+          "expanded_url": "https://x.com/Strf_9040C/status/2056598549362778178/photo/1",
+          "media_key": "3_2056597785110253568",
+          "start": 202,
+          "url": "https://t.co/yvvV2e2XLs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056598549362778178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "思考🤔\n虚无妄想（Nihilistic Delusion）：\n患者否定自己的存在，否定器官的功能，是科塔尔综合征（Cotard Syndrome）的表现\n- 躯体妄想（Somatic Delusion）\n- 内感性不适（Senesthopathy）与幻觉\n- 现实检验能力（Reality Testing）丧失\n- 人格解体与现实感丧失（Depersonalization/Derealization） https://t.co/yvvV2e2XLs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2376,
+        "media_key": "3_2056597785093558272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqAygpbUAAEtT2.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2376,
+        "media_key": "3_2056597785114480640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqAyguakAA60G7.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2376,
+        "media_key": "3_2056597785093484544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqAygpaMAA9N3E.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2376,
+        "media_key": "3_2056597785110253568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqAygtaEAAQOy3.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056597785093558272",
+            "3_2056597785114480640",
+            "3_2056597785093484544",
+            "3_2056597785110253568"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2056598549362778178",
+        "created_at": "2026-05-19T04:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T05:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056598549362778178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yvvV2e2XLs",
+              "end": 225,
+              "expanded_url": "https://x.com/Strf_9040C/status/2056598549362778178/photo/1",
+              "media_key": "3_2056597785093558272",
+              "start": 202,
+              "url": "https://t.co/yvvV2e2XLs"
+            },
+            {
+              "display_url": "pic.x.com/yvvV2e2XLs",
+              "end": 225,
+              "expanded_url": "https://x.com/Strf_9040C/status/2056598549362778178/photo/1",
+              "media_key": "3_2056597785114480640",
+              "start": 202,
+              "url": "https://t.co/yvvV2e2XLs"
+            },
+            {
+              "display_url": "pic.x.com/yvvV2e2XLs",
+              "end": 225,
+              "expanded_url": "https://x.com/Strf_9040C/status/2056598549362778178/photo/1",
+              "media_key": "3_2056597785093484544",
+              "start": 202,
+              "url": "https://t.co/yvvV2e2XLs"
+            },
+            {
+              "display_url": "pic.x.com/yvvV2e2XLs",
+              "end": 225,
+              "expanded_url": "https://x.com/Strf_9040C/status/2056598549362778178/photo/1",
+              "media_key": "3_2056597785110253568",
+              "start": 202,
+              "url": "https://t.co/yvvV2e2XLs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056598549362778178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "思考🤔\n虚无妄想（Nihilistic Delusion）：\n患者否定自己的存在，否定器官的功能，是科塔尔综合征（Cotard Syndrome）的表现\n- 躯体妄想（Somatic Delusion）\n- 内感性不适（Senesthopathy）与幻觉\n- 现实检验能力（Reality Testing）丧失\n- 人格解体与现实感丧失（Depersonalization/Derealization） https://t.co/yvvV2e2XLs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2054846201502306755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1348,
+          "following_count": 2089,
+          "like_count": 10364,
+          "listed_count": 2,
+          "media_count": 507,
+          "tweet_count": 972
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

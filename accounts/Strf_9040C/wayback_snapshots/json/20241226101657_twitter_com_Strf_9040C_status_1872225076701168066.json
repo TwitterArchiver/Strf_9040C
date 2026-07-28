@@ -1,0 +1,442 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1872225076701168066",
+    "created_at": "2024-12-26T10:16:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T11:16:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872225076701168066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1708705868261564416",
+          "start": 3,
+          "username": "mtfshopcht"
+        }
+      ],
+      "urls": [
+        {
+          "description": "（备注:网址只能微软，苹果，谷歌chrome 等国外出品的浏览器输入打开店铺，国内手机自带浏览器或者国产浏览器可能会拦截屏蔽） （更换为这个新二维码，可以扫一扫打开店铺，原来的二维码以被屏蔽） 彩虹糖旗舰店最新网址链接 ⬅️点击此处即可打开店铺，然后添加到浏览器书签即可快捷打开店铺 ⬇️滑动浏览➡️mtf科普资料➡️糖价表➡️点击糖的名字查看糖店对应的谐音名称，用于店铺自助选购，以及查看各种...",
+          "display_url": "github.com/MtfCHSUGAR/CHS…",
+          "end": 123,
+          "expanded_url": "https://github.com/MtfCHSUGAR/CHSUGAR-/issues/3",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/1871547094395502593/HF6BCt4o?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1871547094395502593/HF6BCt4o?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 100,
+          "status": 200,
+          "title": "MTF买糖店铺【彩虹糖旗舰店】糖价表 糖谐音名称店铺选购方法 各种🍬的图文介绍用法用量和相关科普 · Issue #3 · MtfCHSUGAR/CHSUGAR-",
+          "unwound_url": "https://github.com/MtfCHSUGAR/CHSUGAR-/issues/3",
+          "url": "https://t.co/0sfPkq2UDC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872225076701168066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872190077507613041",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mtfshopcht: 庆祝🎉本店关注人数到达5千\n抽奖活动\n🎁送出一盒老挝色谱龙\n参与抽奖：关注+评论+转推（同时点赞本帖）就可以啦～\n抽奖方式：随机\n参与即有几率中奖\n糖价表和糖店买糖方法https://t.co/0sfPkq2UDC\n店铺全场满500折扣优惠✨️……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1872225076701168066",
+        "created_at": "2024-12-26T10:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T11:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872225076701168066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1708705868261564416",
+              "start": 3,
+              "username": "mtfshopcht"
+            }
+          ],
+          "urls": [
+            {
+              "description": "（备注:网址只能微软，苹果，谷歌chrome 等国外出品的浏览器输入打开店铺，国内手机自带浏览器或者国产浏览器可能会拦截屏蔽） （更换为这个新二维码，可以扫一扫打开店铺，原来的二维码以被屏蔽） 彩虹糖旗舰店最新网址链接 ⬅️点击此处即可打开店铺，然后添加到浏览器书签即可快捷打开店铺 ⬇️滑动浏览➡️mtf科普资料➡️糖价表➡️点击糖的名字查看糖店对应的谐音名称，用于店铺自助选购，以及查看各种...",
+              "display_url": "github.com/MtfCHSUGAR/CHS…",
+              "end": 123,
+              "expanded_url": "https://github.com/MtfCHSUGAR/CHSUGAR-/issues/3",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1871547094395502593/HF6BCt4o?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1871547094395502593/HF6BCt4o?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 100,
+              "status": 200,
+              "title": "MTF买糖店铺【彩虹糖旗舰店】糖价表 糖谐音名称店铺选购方法 各种🍬的图文介绍用法用量和相关科普 · Issue #3 · MtfCHSUGAR/CHSUGAR-",
+              "unwound_url": "https://github.com/MtfCHSUGAR/CHSUGAR-/issues/3",
+              "url": "https://t.co/0sfPkq2UDC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872225076701168066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872190077507613041",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mtfshopcht: 庆祝🎉本店关注人数到达5千\n抽奖活动\n🎁送出一盒老挝色谱龙\n参与抽奖：关注+评论+转推（同时点赞本帖）就可以啦～\n抽奖方式：随机\n参与即有几率中奖\n糖价表和糖店买糖方法https://t.co/0sfPkq2UDC\n店铺全场满500折扣优惠✨️……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872190066447273984",
+            "3_1872190073363640320",
+            "3_1872190068225716224",
+            "3_1872190069349724160"
+          ]
+        },
+        "author_id": "1708705868261564416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1872190077507613041",
+        "created_at": "2024-12-26T07:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T08:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872190077507613041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "（备注:网址只能微软，苹果，谷歌chrome 等国外出品的浏览器输入打开店铺，国内手机自带浏览器或者国产浏览器可能会拦截屏蔽） （更换为这个新二维码，可以扫一扫打开店铺，原来的二维码以被屏蔽） 彩虹糖旗舰店最新网址链接 ⬅️点击此处即可打开店铺，然后添加到浏览器书签即可快捷打开店铺 ⬇️滑动浏览➡️mtf科普资料➡️糖价表➡️点击糖的名字查看糖店对应的谐音名称，用于店铺自助选购，以及查看各种...",
+              "display_url": "github.com/MtfCHSUGAR/CHS…",
+              "end": 107,
+              "expanded_url": "https://github.com/MtfCHSUGAR/CHSUGAR-/issues/3",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1871547094395502593/HF6BCt4o?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1871547094395502593/HF6BCt4o?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 84,
+              "status": 200,
+              "title": "MTF买糖店铺【彩虹糖旗舰店】糖价表 糖谐音名称店铺选购方法 各种🍬的图文介绍用法用量和相关科普 · Issue #3 · MtfCHSUGAR/CHSUGAR-",
+              "unwound_url": "https://github.com/MtfCHSUGAR/CHSUGAR-/issues/3",
+              "url": "https://t.co/0sfPkq2UDC"
+            },
+            {
+              "display_url": "pic.x.com/Cf9eqcDRcb",
+              "end": 147,
+              "expanded_url": "https://x.com/mtfshopcht/status/1872190077507613041/photo/1",
+              "media_key": "3_1872190066447273984",
+              "start": 124,
+              "url": "https://t.co/Cf9eqcDRcb"
+            },
+            {
+              "display_url": "pic.x.com/Cf9eqcDRcb",
+              "end": 147,
+              "expanded_url": "https://x.com/mtfshopcht/status/1872190077507613041/photo/1",
+              "media_key": "3_1872190073363640320",
+              "start": 124,
+              "url": "https://t.co/Cf9eqcDRcb"
+            },
+            {
+              "display_url": "pic.x.com/Cf9eqcDRcb",
+              "end": 147,
+              "expanded_url": "https://x.com/mtfshopcht/status/1872190077507613041/photo/1",
+              "media_key": "3_1872190068225716224",
+              "start": 124,
+              "url": "https://t.co/Cf9eqcDRcb"
+            },
+            {
+              "display_url": "pic.x.com/Cf9eqcDRcb",
+              "end": 147,
+              "expanded_url": "https://x.com/mtfshopcht/status/1872190077507613041/photo/1",
+              "media_key": "3_1872190069349724160",
+              "start": 124,
+              "url": "https://t.co/Cf9eqcDRcb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872190077507613041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 257,
+                "start": 254,
+                "tag": "药商"
+              },
+              {
+                "end": 261,
+                "start": 258,
+                "tag": "糖商"
+              },
+              {
+                "end": 265,
+                "start": 262,
+                "tag": "药娘"
+              },
+              {
+                "end": 270,
+                "start": 266,
+                "tag": "mtf"
+              },
+              {
+                "end": 274,
+                "start": 271,
+                "tag": "日雌"
+              },
+              {
+                "end": 278,
+                "start": 275,
+                "tag": "土色"
+              },
+              {
+                "end": 282,
+                "start": 279,
+                "tag": "泰补"
+              },
+              {
+                "end": 286,
+                "start": 283,
+                "tag": "德孕"
+              },
+              {
+                "end": 291,
+                "start": 287,
+                "tag": "色谱龙"
+              },
+              {
+                "end": 295,
+                "start": 292,
+                "tag": "抗雄"
+              },
+              {
+                "end": 299,
+                "start": 296,
+                "tag": "变性"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/MtfCHSUGAR/CHS…",
+                "end": 107,
+                "expanded_url": "https://github.com/MtfCHSUGAR/CHSUGAR-/issues/3",
+                "start": 84,
+                "url": "https://t.co/YT2szF1Tu4"
+              },
+              {
+                "display_url": "t.me/mtfshopcht",
+                "end": 221,
+                "expanded_url": "http://t.me/mtfshopcht",
+                "start": 198,
+                "url": "https://t.co/xtagya4GF4"
+              },
+              {
+                "display_url": "t.me/mtfshopchtqzd",
+                "end": 253,
+                "expanded_url": "http://t.me/mtfshopchtqzd",
+                "start": 230,
+                "url": "https://t.co/qf0JOMc73F"
+              }
+            ]
+          },
+          "text": "庆祝🎉本店关注人数到达5千\n抽奖活动\n🎁送出一盒老挝色谱龙\n参与抽奖：关注+评论+转推（同时点赞本帖）就可以啦～\n抽奖方式：随机\n参与即有几率中奖\n糖价表和糖店买糖方法https://t.co/YT2szF1Tu4\n店铺全场满500折扣优惠✨️\n老挝色谱龙310/盒，50毫克50粒规格，品质对标拜耳最强色谱龙德色，效果更好，副作用更低，持续热销，客户买了持续回购，都说效果好。\n店铺客服联系方式https://t.co/xtagya4GF4 \n电报mtf群聊https://t.co/qf0JOMc73F\n#药商 #糖商 #药娘 #mtf #日雌 #土色 #泰补 #德孕 #色谱龙 #抗雄 #变性"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 299,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "庆祝🎉本店关注人数到达5千\n抽奖活动\n🎁送出一盒老挝色谱龙\n参与抽奖：关注+评论+转推（同时点赞本帖）就可以啦～\n抽奖方式：随机\n参与即有几率中奖\n糖价表和糖店买糖方法https://t.co/0sfPkq2UDC\n店铺全场满500折扣优惠✨️… https://t.co/Cf9eqcDRcb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 536,
+          "like_count": 660,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 108
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-02T04:50:06.000Z",
+        "description": "MTF买糖店铺网址https://t.co/ONU1Bq4sYx店铺选购方法和糖价表https://t.co/YT2szF1Tu4 糖店客服Telegram@mtfshopcht 🏳️‍⚧️hrt激素 医美保健 色针 土色 老挝色谱龙 德补 泰补 雌贴 日雌 孕针 美白减肥 正品🔞",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mtfshopcht.com",
+                "end": 32,
+                "expanded_url": "http://mtfshopcht.com",
+                "start": 9,
+                "url": "https://t.co/ONU1Bq4sYx"
+              },
+              {
+                "display_url": "github.com/MtfCHSUGAR/CHS…",
+                "end": 65,
+                "expanded_url": "https://github.com/MtfCHSUGAR/CHSUGAR-/issues/3",
+                "start": 42,
+                "url": "https://t.co/YT2szF1Tu4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtfshopcht.com",
+                "end": 23,
+                "expanded_url": "http://mtfshopcht.com",
+                "start": 0,
+                "url": "https://t.co/ONU1Bq4sYx"
+              }
+            ]
+          }
+        },
+        "id": "1708705868261564416",
+        "location": "深圳上海北京",
+        "name": "药商/糖商：彩虹糖旗舰店🏳️‍⚧️MTF凤凰糖果屋",
+        "pinned_tweet_id": "1869706080970064194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833416046327566339/T7IGovRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5066,
+          "following_count": 313,
+          "like_count": 104,
+          "listed_count": 5,
+          "media_count": 168,
+          "tweet_count": 655
+        },
+        "url": "https://t.co/ONU1Bq4sYx",
+        "username": "mtfshopcht",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046953439499001856"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2046953467080839190",
+    "created_at": "2026-04-22T14:05:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T15:05:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046953467080839190"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RBoNF6NVYY",
+          "end": 28,
+          "expanded_url": "https://x.com/Strf_9040C/status/2046953467080839190/photo/1",
+          "media_key": "3_2046953439499001856",
+          "start": 5,
+          "url": "https://t.co/RBoNF6NVYY"
+        },
+        {
+          "display_url": "x.com/520illusion/st…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/520illusion/status/2046927617325138061",
+          "start": 29,
+          "url": "https://t.co/SEG1MTIV3v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046953467080839190",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046927617325138061",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "碎弹说是 https://t.co/RBoNF6NVYY https://t.co/SEG1MTIV3v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 217,
+        "media_key": "3_2046953439499001856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGg9TtkaIAAO690.png",
+        "width": 451
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2046927462056230912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGglroDagAApjMU.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046953439499001856"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046953467080839190",
+        "created_at": "2026-04-22T14:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046953467080839190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RBoNF6NVYY",
+              "end": 28,
+              "expanded_url": "https://x.com/Strf_9040C/status/2046953467080839190/photo/1",
+              "media_key": "3_2046953439499001856",
+              "start": 5,
+              "url": "https://t.co/RBoNF6NVYY"
+            },
+            {
+              "display_url": "x.com/520illusion/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/520illusion/status/2046927617325138061",
+              "start": 29,
+              "url": "https://t.co/SEG1MTIV3v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046953467080839190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046927617325138061",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "碎弹说是 https://t.co/RBoNF6NVYY https://t.co/SEG1MTIV3v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046927462056230912"
+          ]
+        },
+        "author_id": "1780369819310981120",
+        "conversation_id": "2046927617325138061",
+        "created_at": "2026-04-22T12:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046927617325138061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ceFONN5Gm",
+              "end": 41,
+              "expanded_url": "https://x.com/520illusion/status/2046927617325138061/photo/1",
+              "media_key": "3_2046927462056230912",
+              "start": 18,
+              "url": "https://t.co/9ceFONN5Gm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046927617325138061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 523,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不该o大的 割的时候把手术刀干碎了 https://t.co/9ceFONN5Gm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "2043259817121448322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 1807,
+          "like_count": 7537,
+          "listed_count": 0,
+          "media_count": 438,
+          "tweet_count": 853
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "All in crypto | 08 | 杭州南京合肥随机刷新 想和可爱的人面面 | illusion | 抑郁幻想向 | 坠落星空 | 梦幻主义 | 蓝 | 氯硝西泮 | 终将成为你 | 我向神明祈祷 许你岁岁平安  | 故里蓝鸢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 23,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 0,
+                "url": "https://t.co/ecnOMDHn8U"
+              }
+            ]
+          }
+        },
+        "id": "1780369819310981120",
+        "location": "浙江省宁波市轨道交通3号线中兴大桥南站A出口",
+        "name": "ill",
+        "pinned_tweet_id": "2042944428390879635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028863680889372672/zT5FAaR9_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4534,
+          "following_count": 206,
+          "like_count": 10012,
+          "listed_count": 7,
+          "media_count": 900,
+          "tweet_count": 5920
+        },
+        "url": "https://t.co/ecnOMDHn8U",
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

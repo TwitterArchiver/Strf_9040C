@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "2044026007515287764",
+    "created_at": "2026-04-14T12:12:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T13:12:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044026007515287764"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SarahAguil3251…",
+          "end": 109,
+          "expanded_url": "https://twitter.com/SarahAguil32516/status/2043310923658789073",
+          "start": 86,
+          "url": "https://t.co/jpp5UIKvXD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044026007515287764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043310923658789073",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "利多卡因静推：阻滞心肌钠通道，降低自律性、缩短动作电位时程，减慢传导，用于室性心律失常；同时抑制中枢神经系统与痛觉传导，可抗惊厥、镇痛，剂量过高易致中枢毒性及心血管抑制。 https://t.co/jpp5UIKvXD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "2044026007515287764",
+        "created_at": "2026-04-14T12:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044026007515287764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SarahAguil3251…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/SarahAguil32516/status/2043310923658789073",
+              "start": 86,
+              "url": "https://t.co/jpp5UIKvXD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044026007515287764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043310923658789073",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "利多卡因静推：阻滞心肌钠通道，降低自律性、缩短动作电位时程，减慢传导，用于室性心律失常；同时抑制中枢神经系统与痛觉传导，可抗惊厥、镇痛，剂量过高易致中枢毒性及心血管抑制。 https://t.co/jpp5UIKvXD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694582703843381248",
+        "conversation_id": "2042923591793283376",
+        "created_at": "2026-04-12T12:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043310923658789073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721895937357004800",
+              "start": 0,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043310923658789073",
+        "in_reply_to_user_id": "1721895937357004800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042923591793283376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strf_9040C 等下，利多卡因能静推？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "2043259817121448322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1128,
+          "following_count": 1726,
+          "like_count": 6323,
+          "listed_count": 0,
+          "media_count": 406,
+          "tweet_count": 804
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-24T05:30:34.000Z",
+        "description": "MTF猫猫！呜嘿嘿，想和同类一起贴贴喵～\n励志当一只药攻！呜喵！\n是西伯利亚森林猫猫nia！也是一只喜欢gal和音游的猫猫哦～\n要是决定和猫猫在一起的话。。。猫猫不会抛下你的喵！绝对！\n这是对你的诺言哦～@AnchovyOvo67393\n诶嘿嘿～欢迎私信骚扰哦喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 102,
+                "username": "AnchovyOvo67393"
+              }
+            ]
+          }
+        },
+        "id": "1694582703843381248",
+        "location": "哈乐滨qwq",
+        "name": "时御澪🍥",
+        "pinned_tweet_id": "1844735551951560978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718193774961270784/npxvQCK9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 140,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 402
+        },
+        "username": "SarahAguil32516",
+        "verified": false
+      }
+    ]
+  }
+}

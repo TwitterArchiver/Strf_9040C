@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1882916885060366637",
+    "created_at": "2025-01-25T05:32:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T06:32:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883025087676424658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1831709757406666753",
+          "start": 0,
+          "username": "QiuMing_74"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883025087676424658",
+    "in_reply_to_user_id": "1831709757406666753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882955229202874473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiuMing_74 嫁出去的女儿泼出去的水\n所以医生泼水产妇认为医生暗示她生的女儿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1882916885060366637",
+        "created_at": "2025-01-25T05:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T06:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883025087676424658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1831709757406666753",
+              "start": 0,
+              "username": "QiuMing_74"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883025087676424658",
+        "in_reply_to_user_id": "1831709757406666753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882955229202874473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiuMing_74 嫁出去的女儿泼出去的水\n所以医生泼水产妇认为医生暗示她生的女儿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831709757406666753",
+        "conversation_id": "1882916885060366637",
+        "created_at": "2025-01-25T00:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T01:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882955229202874473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721895937357004800",
+              "start": 0,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882955229202874473",
+        "in_reply_to_user_id": "1721895937357004800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882916885060366637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strf_9040C 泼水是什么意思？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 1408,
+          "like_count": 3038,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 339
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T15:03:44.000Z",
+        "description": "男娘确诊/可以是妈妈（？/尽量不键政……/性少数友好/高三在读，回复不及时请谅解🥺/绝赞赛博🐦‍⬛饲养中/想被忍者·soul凭依/@NicoAliceOwO是可爱男娘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "NicoAliceOwO"
+              }
+            ]
+          }
+        },
+        "id": "1831709757406666753",
+        "location": "地球联邦 月面都市冯·布朗",
+        "name": "秋洺绝赞赛博🐦‍⬛饲养中",
+        "pinned_tweet_id": "1863149365218709870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869054712831705088/ARExVmwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 568,
+          "like_count": 9917,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1741
+        },
+        "username": "QiuMing_74",
+        "verified": false
+      }
+    ]
+  }
+}

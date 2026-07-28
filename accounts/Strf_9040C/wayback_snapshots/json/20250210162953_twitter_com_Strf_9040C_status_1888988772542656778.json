@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888988363753140224",
+        "3_1888988364478820352",
+        "3_1888988364604653569",
+        "3_1888988364365598720"
+      ],
+      "media_source_tweet_id": [
+        "1888988367712575515",
+        "1888988367712575515",
+        "1888988367712575515",
+        "1888988367712575515"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1888988772542656778",
+    "created_at": "2025-02-10T16:29:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T17:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888988772542656778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1597257668313260033",
+          "start": 3,
+          "username": "Minokakay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N8UUTZkQGI",
+          "end": 125,
+          "expanded_url": "https://x.com/Minokakay/status/1888988367712575515/photo/1",
+          "media_key": "3_1888988363753140224",
+          "start": 102,
+          "url": "https://t.co/N8UUTZkQGI"
+        },
+        {
+          "display_url": "pic.x.com/N8UUTZkQGI",
+          "end": 125,
+          "expanded_url": "https://x.com/Minokakay/status/1888988367712575515/photo/1",
+          "media_key": "3_1888988364478820352",
+          "start": 102,
+          "url": "https://t.co/N8UUTZkQGI"
+        },
+        {
+          "display_url": "pic.x.com/N8UUTZkQGI",
+          "end": 125,
+          "expanded_url": "https://x.com/Minokakay/status/1888988367712575515/photo/1",
+          "media_key": "3_1888988364604653569",
+          "start": 102,
+          "url": "https://t.co/N8UUTZkQGI"
+        },
+        {
+          "display_url": "pic.x.com/N8UUTZkQGI",
+          "end": 125,
+          "expanded_url": "https://x.com/Minokakay/status/1888988367712575515/photo/1",
+          "media_key": "3_1888988364365598720",
+          "start": 102,
+          "url": "https://t.co/N8UUTZkQGI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888988772542656778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888988367712575515",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Minokakay: 遲到的4000fo抽獎！🥳\n一等獎：100cm鯊鯊一隻\n二等獎：色普龍一板（50mg*10 五份\n三等獎：10元現金紅包5份\n\n參與方式：轉發評論即可\n\n感謝大家支持喵～😺 https://t.co/N8UUTZkQGI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1394,
+        "media_key": "3_1888988363753140224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjcI6JZaMAAAXNI.jpg",
+        "width": 1262
+      },
+      {
+        "height": 710,
+        "media_key": "3_1888988364478820352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjcI6MGbMAAQKaT.jpg",
+        "width": 875
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1888988364604653569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjcI6MkbQAEwFED.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1888988364365598720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjcI6LrbkAAZAgZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888988363753140224",
+            "3_1888988364478820352",
+            "3_1888988364604653569",
+            "3_1888988364365598720"
+          ],
+          "media_source_tweet_id": [
+            "1888988367712575515",
+            "1888988367712575515",
+            "1888988367712575515",
+            "1888988367712575515"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1888988772542656778",
+        "created_at": "2025-02-10T16:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T17:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888988772542656778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1597257668313260033",
+              "start": 3,
+              "username": "Minokakay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N8UUTZkQGI",
+              "end": 125,
+              "expanded_url": "https://x.com/Minokakay/status/1888988367712575515/photo/1",
+              "media_key": "3_1888988363753140224",
+              "start": 102,
+              "url": "https://t.co/N8UUTZkQGI"
+            },
+            {
+              "display_url": "pic.x.com/N8UUTZkQGI",
+              "end": 125,
+              "expanded_url": "https://x.com/Minokakay/status/1888988367712575515/photo/1",
+              "media_key": "3_1888988364478820352",
+              "start": 102,
+              "url": "https://t.co/N8UUTZkQGI"
+            },
+            {
+              "display_url": "pic.x.com/N8UUTZkQGI",
+              "end": 125,
+              "expanded_url": "https://x.com/Minokakay/status/1888988367712575515/photo/1",
+              "media_key": "3_1888988364604653569",
+              "start": 102,
+              "url": "https://t.co/N8UUTZkQGI"
+            },
+            {
+              "display_url": "pic.x.com/N8UUTZkQGI",
+              "end": 125,
+              "expanded_url": "https://x.com/Minokakay/status/1888988367712575515/photo/1",
+              "media_key": "3_1888988364365598720",
+              "start": 102,
+              "url": "https://t.co/N8UUTZkQGI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888988772542656778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888988367712575515",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Minokakay: 遲到的4000fo抽獎！🥳\n一等獎：100cm鯊鯊一隻\n二等獎：色普龍一板（50mg*10 五份\n三等獎：10元現金紅包5份\n\n參與方式：轉發評論即可\n\n感謝大家支持喵～😺 https://t.co/N8UUTZkQGI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888988363753140224",
+            "3_1888988364478820352",
+            "3_1888988364604653569",
+            "3_1888988364365598720"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1888988367712575515",
+        "created_at": "2025-02-10T16:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T17:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888988367712575515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N8UUTZkQGI",
+              "end": 110,
+              "expanded_url": "https://x.com/Minokakay/status/1888988367712575515/photo/1",
+              "media_key": "3_1888988363753140224",
+              "start": 87,
+              "url": "https://t.co/N8UUTZkQGI"
+            },
+            {
+              "display_url": "pic.x.com/N8UUTZkQGI",
+              "end": 110,
+              "expanded_url": "https://x.com/Minokakay/status/1888988367712575515/photo/1",
+              "media_key": "3_1888988364478820352",
+              "start": 87,
+              "url": "https://t.co/N8UUTZkQGI"
+            },
+            {
+              "display_url": "pic.x.com/N8UUTZkQGI",
+              "end": 110,
+              "expanded_url": "https://x.com/Minokakay/status/1888988367712575515/photo/1",
+              "media_key": "3_1888988364604653569",
+              "start": 87,
+              "url": "https://t.co/N8UUTZkQGI"
+            },
+            {
+              "display_url": "pic.x.com/N8UUTZkQGI",
+              "end": 110,
+              "expanded_url": "https://x.com/Minokakay/status/1888988367712575515/photo/1",
+              "media_key": "3_1888988364365598720",
+              "start": 87,
+              "url": "https://t.co/N8UUTZkQGI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888988367712575515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 20,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "遲到的4000fo抽獎！🥳\n一等獎：100cm鯊鯊一隻\n二等獎：色普龍一板（50mg*10 五份\n三等獎：10元現金紅包5份\n\n參與方式：轉發評論即可\n\n感謝大家支持喵～😺 https://t.co/N8UUTZkQGI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1888264013416645010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 1644,
+          "like_count": 5560,
+          "listed_count": 1,
+          "media_count": 288,
+          "tweet_count": 634
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd TG同名 需要内服美白/日雌土色/药物与咨询/减肥找我超低价",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay日雌泰補色諾",
+        "pinned_tweet_id": "1887195421598257202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4280,
+          "following_count": 803,
+          "like_count": 34754,
+          "listed_count": 21,
+          "media_count": 962,
+          "tweet_count": 15794
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

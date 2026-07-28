@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1880932816734900423",
+    "created_at": "2025-01-19T14:50:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T15:50:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880991256358343163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1717083809387335680",
+          "start": 0,
+          "username": "des_tina_tion"
+        },
+        {
+          "end": 30,
+          "id": "1626584045101666304",
+          "start": 15,
+          "username": "liychn30019070"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880991256358343163",
+    "in_reply_to_user_id": "1717083809387335680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880932816734900423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@des_tina_tion @liychn30019070 大出血可以使用加压绷带，止血带，壳聚糖止血粉等方式止血\n当然用麦当劳止血也不失为一个好主意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1880932816734900423",
+        "created_at": "2025-01-19T14:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T15:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880991256358343163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1717083809387335680",
+              "start": 0,
+              "username": "des_tina_tion"
+            },
+            {
+              "end": 30,
+              "id": "1626584045101666304",
+              "start": 15,
+              "username": "liychn30019070"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880991256358343163",
+        "in_reply_to_user_id": "1717083809387335680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880932816734900423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@des_tina_tion @liychn30019070 大出血可以使用加压绷带，止血带，壳聚糖止血粉等方式止血\n当然用麦当劳止血也不失为一个好主意"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880932805271867392"
+          ]
+        },
+        "author_id": "1717083809387335680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1880932816734900423",
+        "created_at": "2025-01-19T10:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T11:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880932816734900423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1626584045101666304",
+              "start": 1,
+              "username": "liychn30019070"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nCREvyoGEj",
+              "end": 117,
+              "expanded_url": "https://x.com/des_tina_tion/status/1880932816734900423/photo/1",
+              "media_key": "3_1880932805271867392",
+              "start": 94,
+              "url": "https://t.co/nCREvyoGEj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880932816734900423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和@liychn30019070 面基，面完太兴奋了，大出血点了个麦当劳（\n其中一个甜筒冻冰箱里了，另个在手上，思考要不要拿去拌百利甜喝\n我的pass被某人认可了！\n（ps，甜筒打得好多 https://t.co/nCREvyoGEj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 1266,
+          "like_count": 2674,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 290
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-25T07:41:18.000Z",
+        "description": "欢迎加入普通人俱乐部",
+        "id": "1717083809387335680",
+        "name": "蹦蹦炸弹 「全都可以炸完！」",
+        "pinned_tweet_id": "1871077796828905595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783856047645691904/gSZLSiut_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 121,
+          "like_count": 8281,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1721
+        },
+        "username": "des_tina_tion",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-17T14:07:41.000Z",
+        "description": "一个普通的中国初中生，想交一些朋友，可以互fo，性别是男孩子，小号@liychn157970，不玩黄，不键政，是友跨顺男，争取跟所有人做朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "liychn157970"
+              }
+            ]
+          }
+        },
+        "id": "1626584045101666304",
+        "location": "中国 浙江",
+        "name": "Lyc(初三淡推版)",
+        "pinned_tweet_id": "1879457260319203350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771746189182169088/uBlZo95O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1689,
+          "following_count": 1502,
+          "like_count": 24414,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 3011
+        },
+        "username": "liychn30019070",
+        "verified": false
+      }
+    ]
+  }
+}

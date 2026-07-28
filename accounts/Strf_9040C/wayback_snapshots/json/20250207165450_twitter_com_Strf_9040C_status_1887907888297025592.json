@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "1887907888297025592",
+    "created_at": "2025-02-07T16:54:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T17:54:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887907888297025592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1766858890636120064",
+          "start": 3,
+          "username": "Nuominiang75884"
+        },
+        {
+          "end": 64,
+          "id": "1733917560905863168",
+          "start": 49,
+          "username": "ling2589906742"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887907888297025592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887823892170920223",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nuominiang75884: 2025年1月28日凌晨被送入\n重庆枳璞教育的跨性别女性@ling2589906742，其家长在我与牧鸢提供的矫正机构内卧底视频打动，决定将受害者接回，她与今日凌晨被放出机构并成功的与我们取得联系，她仅仅在学校待了九天就被打成了骨折与脑…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1887907888297025592",
+        "created_at": "2025-02-07T16:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T17:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887907888297025592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1766858890636120064",
+              "start": 3,
+              "username": "Nuominiang75884"
+            },
+            {
+              "end": 64,
+              "id": "1733917560905863168",
+              "start": 49,
+              "username": "ling2589906742"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887907888297025592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887823892170920223",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nuominiang75884: 2025年1月28日凌晨被送入\n重庆枳璞教育的跨性别女性@ling2589906742，其家长在我与牧鸢提供的矫正机构内卧底视频打动，决定将受害者接回，她与今日凌晨被放出机构并成功的与我们取得联系，她仅仅在学校待了九天就被打成了骨折与脑…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887823240241754112",
+            "3_1887823237532340224",
+            "3_1887823237792329728",
+            "3_1887823663874945024"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1887823892170920223",
+        "created_at": "2025-02-07T11:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T12:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887823892170920223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 43,
+              "id": "1733917560905863168",
+              "start": 28,
+              "username": "ling2589906742"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VTQ0mbG6UW",
+              "end": 175,
+              "expanded_url": "https://x.com/Nuominiang75884/status/1887823892170920223/photo/1",
+              "media_key": "3_1887823240241754112",
+              "start": 152,
+              "url": "https://t.co/VTQ0mbG6UW"
+            },
+            {
+              "display_url": "pic.x.com/VTQ0mbG6UW",
+              "end": 175,
+              "expanded_url": "https://x.com/Nuominiang75884/status/1887823892170920223/photo/1",
+              "media_key": "3_1887823237532340224",
+              "start": 152,
+              "url": "https://t.co/VTQ0mbG6UW"
+            },
+            {
+              "display_url": "pic.x.com/VTQ0mbG6UW",
+              "end": 175,
+              "expanded_url": "https://x.com/Nuominiang75884/status/1887823892170920223/photo/1",
+              "media_key": "3_1887823237792329728",
+              "start": 152,
+              "url": "https://t.co/VTQ0mbG6UW"
+            },
+            {
+              "display_url": "pic.x.com/VTQ0mbG6UW",
+              "end": 175,
+              "expanded_url": "https://x.com/Nuominiang75884/status/1887823892170920223/photo/1",
+              "media_key": "3_1887823663874945024",
+              "start": 152,
+              "url": "https://t.co/VTQ0mbG6UW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887823892170920223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 11969,
+          "like_count": 172,
+          "quote_count": 5,
+          "reply_count": 17,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "2025年1月28日凌晨被送入\n重庆枳璞教育的跨性别女性@ling2589906742，其家长在我与牧鸢提供的矫正机构内卧底视频打动，决定将受害者接回，她与今日凌晨被放出机构并成功的与我们取得联系，她仅仅在学校待了九天就被打成了骨折与脑缺氧，并且在受害者骨折之后还在继续，受害者已离开学校，我们打算维权 https://t.co/VTQ0mbG6UW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 1625,
+          "like_count": 5183,
+          "listed_count": 1,
+          "media_count": 269,
+          "tweet_count": 600
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "向光而行，直到燃尽自己\n🏳️‍⚧️/INFP-T /道教徒/摄影/      亲人@Kietter387803/主人（？） @JLGeasy\n/妹妹@liychn30019070   如果有紧急情况请加我微信：A1146B9732\n（想开我盒的别试了我微信没绑过手机号和银行卡）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 41,
+                "username": "Kietter387803"
+              },
+              {
+                "end": 70,
+                "start": 62,
+                "username": "JLGeasy"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "liychn30019070"
+              }
+            ]
+          }
+        },
+        "id": "1766858890636120064",
+        "location": "美国 洛杉矶 Echo Park Ave大街2236号",
+        "name": "糯米娘🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1887823892170920223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883194309178167296/U_Gr-ghf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2928,
+          "following_count": 851,
+          "like_count": 11615,
+          "listed_count": 3,
+          "media_count": 199,
+          "tweet_count": 1787
+        },
+        "username": "Nuominiang75884",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-10T18:32:23.000Z",
+        "description": "",
+        "id": "1733917560905863168",
+        "location": "North Korea",
+        "name": "ホシノ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867808275762491393/20w0Mu-r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 21,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "username": "ling2589906742",
+        "verified": false
+      }
+    ]
+  }
+}

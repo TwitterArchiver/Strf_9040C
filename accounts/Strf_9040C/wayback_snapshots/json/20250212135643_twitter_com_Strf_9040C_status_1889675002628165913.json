@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1889675002628165913",
+    "created_at": "2025-02-12T13:56:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T14:56:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889675002628165913"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NagiVictoria/s…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/NagiVictoria/status/1889643273121046762",
+          "start": 33,
+          "url": "https://t.co/PZU6lVu8cI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889675002628165913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889643273121046762",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "新人第一次用日雌\n\n腰椎穿刺打到脑脊液里面还是连着安瓿一起吃啊🤔 https://t.co/PZU6lVu8cI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1889675002628165913",
+        "created_at": "2025-02-12T13:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T14:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889675002628165913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NagiVictoria/s…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/NagiVictoria/status/1889643273121046762",
+              "start": 33,
+              "url": "https://t.co/PZU6lVu8cI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889675002628165913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889643273121046762",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "新人第一次用日雌\n\n腰椎穿刺打到脑脊液里面还是连着安瓿一起吃啊🤔 https://t.co/PZU6lVu8cI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794154221194932224",
+        "conversation_id": "1889643273121046762",
+        "created_at": "2025-02-12T11:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T12:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889643273121046762"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1889643273121046762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 675,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新人第一次扎日雌\n\n扎动脉还是扎静脉啊🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1888264013416645010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 1663,
+          "like_count": 5756,
+          "listed_count": 1,
+          "media_count": 299,
+          "tweet_count": 653
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T23:51:25.000Z",
+        "description": "银趴大王冲晕了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/xPejExTBHF"
+              }
+            ]
+          }
+        },
+        "id": "1794154221194932224",
+        "location": "机厅厕所隔间",
+        "name": "Nagi 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1885877612117106704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882689504978350080/iCWHUndQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3460,
+          "following_count": 806,
+          "like_count": 13534,
+          "listed_count": 5,
+          "media_count": 1607,
+          "tweet_count": 12608
+        },
+        "url": "https://t.co/xPejExTBHF",
+        "username": "NagiVictoria",
+        "verified": false
+      }
+    ]
+  }
+}

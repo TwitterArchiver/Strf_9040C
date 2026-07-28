@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049533517529501696"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2049533525909803289",
+    "created_at": "2026-04-29T16:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T17:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049533525909803289"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BrdawP74fl",
+          "end": 25,
+          "expanded_url": "https://x.com/Strf_9040C/status/2049533525909803289/photo/1",
+          "media_key": "3_2049533517529501696",
+          "start": 2,
+          "url": "https://t.co/BrdawP74fl"
+        },
+        {
+          "display_url": "x.com/HuanYi38041/st…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/HuanYi38041/status/2049468284224086478",
+          "start": 26,
+          "url": "https://t.co/b8kwvnqQw1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049533525909803289",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049468284224086478",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😁 https://t.co/BrdawP74fl https://t.co/b8kwvnqQw1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2176,
+        "media_key": "3_2049533517529501696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFn4BOaUAAuDOP.jpg",
+        "width": 1812
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049533517529501696"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049533525909803289",
+        "created_at": "2026-04-29T16:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049533525909803289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BrdawP74fl",
+              "end": 25,
+              "expanded_url": "https://x.com/Strf_9040C/status/2049533525909803289/photo/1",
+              "media_key": "3_2049533517529501696",
+              "start": 2,
+              "url": "https://t.co/BrdawP74fl"
+            },
+            {
+              "display_url": "x.com/HuanYi38041/st…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/HuanYi38041/status/2049468284224086478",
+              "start": 26,
+              "url": "https://t.co/b8kwvnqQw1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049533525909803289",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049468284224086478",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😁 https://t.co/BrdawP74fl https://t.co/b8kwvnqQw1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802388692188925952",
+        "conversation_id": "2049312547753562620",
+        "created_at": "2026-04-29T12:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049468284224086478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721895937357004800",
+              "start": 0,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049468284224086478",
+        "in_reply_to_user_id": "1721895937357004800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 272,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049312547753562620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strf_9040C 这是好事啊，没听过还有人以知道大粪的种类而自豪的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A\n主人🥰@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              },
+              {
+                "end": 152,
+                "start": 143,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "2043259817121448322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1210,
+          "following_count": 1915,
+          "like_count": 8902,
+          "listed_count": 0,
+          "media_count": 459,
+          "tweet_count": 898
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-16T17:12:13.000Z",
+        "description": "",
+        "id": "1802388692188925952",
+        "name": "缓一缓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040719179033231360/76fkJvlw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 57,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 198
+        },
+        "username": "HuanYi38041",
+        "verified": false
+      }
+    ]
+  }
+}

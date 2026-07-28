@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888424049975701504"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "1888259421731741974",
+    "created_at": "2025-02-09T03:05:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T04:05:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888424056233644320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1533106174358343682",
+          "start": 0,
+          "username": "hgc_blingbling"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e6b1v1Qv5J",
+          "end": 39,
+          "expanded_url": "https://x.com/Strf_9040C/status/1888424056233644320/photo/1",
+          "media_key": "3_1888424049975701504",
+          "start": 16,
+          "url": "https://t.co/e6b1v1Qv5J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888424056233644320",
+    "in_reply_to_user_id": "1533106174358343682",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888259884279603546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgc_blingbling https://t.co/e6b1v1Qv5J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1612,
+        "media_key": "3_1888424049975701504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjUHqwwbMAAh6QN.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888424049975701504"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "1888259421731741974",
+        "created_at": "2025-02-09T03:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T04:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888424056233644320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1533106174358343682",
+              "start": 0,
+              "username": "hgc_blingbling"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e6b1v1Qv5J",
+              "end": 39,
+              "expanded_url": "https://x.com/Strf_9040C/status/1888424056233644320/photo/1",
+              "media_key": "3_1888424049975701504",
+              "start": 16,
+              "url": "https://t.co/e6b1v1Qv5J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888424056233644320",
+        "in_reply_to_user_id": "1533106174358343682",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888259884279603546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgc_blingbling https://t.co/e6b1v1Qv5J"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533106174358343682",
+        "conversation_id": "1888259421731741974",
+        "created_at": "2025-02-08T16:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T17:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888259884279603546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721895937357004800",
+              "start": 0,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888259884279603546",
+        "in_reply_to_user_id": "1721895937357004800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888259421731741974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strf_9040C 话说回来都压成药品的话还看得出来谁是谁吗）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1888264013416645010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1052,
+          "following_count": 1633,
+          "like_count": 5367,
+          "listed_count": 1,
+          "media_count": 275,
+          "tweet_count": 608
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-04T15:19:57.000Z",
+        "description": "在平凡的日子裡尋找小小的樂趣\n拋棄恨，愛你我/give up hatred, love each other!\n中文本當上手/familiar with English\n請關注我，聊天也可以！/ follow me and chat with me!",
+        "id": "1533106174358343682",
+        "location": "Moonriver",
+        "name": "hypoglycemia✨✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866875000034377728/jOTP5Rtp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 929,
+          "like_count": 19393,
+          "listed_count": 0,
+          "media_count": 385,
+          "tweet_count": 1454
+        },
+        "username": "hgc_blingbling",
+        "verified": false
+      }
+    ]
+  }
+}

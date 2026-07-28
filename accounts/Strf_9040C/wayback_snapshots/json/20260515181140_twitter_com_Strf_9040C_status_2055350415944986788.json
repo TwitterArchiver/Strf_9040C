@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055350409401860096",
+        "3_2055350409343184896"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2055350415944986788",
+    "created_at": "2026-05-15T18:11:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T19:11:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055350415944986788"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nAnh0D75b4",
+          "end": 46,
+          "expanded_url": "https://x.com/Strf_9040C/status/2055350415944986788/photo/1",
+          "media_key": "3_2055350409401860096",
+          "start": 23,
+          "url": "https://t.co/nAnh0D75b4"
+        },
+        {
+          "display_url": "pic.x.com/nAnh0D75b4",
+          "end": 46,
+          "expanded_url": "https://x.com/Strf_9040C/status/2055350415944986788/photo/1",
+          "media_key": "3_2055350409343184896",
+          "start": 23,
+          "url": "https://t.co/nAnh0D75b4"
+        },
+        {
+          "display_url": "x.com/Hazy960793/sta…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/Hazy960793/status/2055290384532852779",
+          "start": 47,
+          "url": "https://t.co/59RE6WSKjL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055350415944986788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055290384532852779",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我发情的时候主要通过打《战争雷霆》的方式自慰 https://t.co/nAnh0D75b4 https://t.co/59RE6WSKjL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 799,
+        "media_key": "3_2055350409401860096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIYSTsFaAAASHDM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 799,
+        "media_key": "3_2055350409343184896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIYSTr3asAA0uG1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055290340446531585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXbrNybcAE6i7G.jpg",
+        "width": 1007
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055350409401860096",
+            "3_2055350409343184896"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055350415944986788",
+        "created_at": "2026-05-15T18:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T19:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055350415944986788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nAnh0D75b4",
+              "end": 46,
+              "expanded_url": "https://x.com/Strf_9040C/status/2055350415944986788/photo/1",
+              "media_key": "3_2055350409401860096",
+              "start": 23,
+              "url": "https://t.co/nAnh0D75b4"
+            },
+            {
+              "display_url": "pic.x.com/nAnh0D75b4",
+              "end": 46,
+              "expanded_url": "https://x.com/Strf_9040C/status/2055350415944986788/photo/1",
+              "media_key": "3_2055350409343184896",
+              "start": 23,
+              "url": "https://t.co/nAnh0D75b4"
+            },
+            {
+              "display_url": "x.com/Hazy960793/sta…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/Hazy960793/status/2055290384532852779",
+              "start": 47,
+              "url": "https://t.co/59RE6WSKjL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055350415944986788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055290384532852779",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我发情的时候主要通过打《战争雷霆》的方式自慰 https://t.co/nAnh0D75b4 https://t.co/59RE6WSKjL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055290340446531585"
+          ]
+        },
+        "author_id": "1960727612608929794",
+        "conversation_id": "2055290384532852779",
+        "created_at": "2026-05-15T14:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055290384532852779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AqvJgJkhBo",
+              "end": 100,
+              "expanded_url": "https://x.com/Hazy960793/status/2055290384532852779/photo/1",
+              "media_key": "3_2055290340446531585",
+              "start": 77,
+              "url": "https://t.co/AqvJgJkhBo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055290384532852779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 412,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我要大调查！\n众所周知，mtf使用男性常规方法自慰容易造成GD，\n因此自慰方式将百花齐放，相当有趣。\n不方便说的拍视频发来也行（）\n欢迎各位推友评论转发 https://t.co/AqvJgJkhBo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2054846201502306755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 2016,
+          "like_count": 9925,
+          "listed_count": 2,
+          "media_count": 491,
+          "tweet_count": 949
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-27T15:34:41.000Z",
+        "description": "2007年出厂｜⚧️mtf/mtx｜泛性恋｜🍥HRT2024.4.3｜169/55｜长沙乡里别｜✞大天使补佳乐✟｜某9B5本在读",
+        "id": "1960727612608929794",
+        "name": "涵析_Hazy🐈🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007141069012824064/1S4o4RVJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 151,
+          "like_count": 7309,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 347
+        },
+        "username": "Hazy960793",
+        "verified": false
+      }
+    ]
+  }
+}

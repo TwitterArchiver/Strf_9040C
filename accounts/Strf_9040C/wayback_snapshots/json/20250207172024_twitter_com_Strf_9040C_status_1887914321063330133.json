@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1887914321063330133",
+    "created_at": "2025-02-07T17:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T18:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1887914321063330133"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Asphyxia_v_/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/Asphyxia_v_/status/1887909918038254065",
+          "start": 9,
+          "url": "https://t.co/RrzzzcKJU3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887914321063330133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887909918038254065",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "换我直接叫对面妈 https://t.co/RrzzzcKJU3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1887914321063330133",
+        "created_at": "2025-02-07T17:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T18:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887914321063330133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Asphyxia_v_/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Asphyxia_v_/status/1887909918038254065",
+              "start": 9,
+              "url": "https://t.co/RrzzzcKJU3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887914321063330133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887909918038254065",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "换我直接叫对面妈 https://t.co/RrzzzcKJU3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887909906998833152"
+          ]
+        },
+        "author_id": "1814278258189533184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1887909918038254065",
+        "created_at": "2025-02-07T17:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T18:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887909918038254065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nMJEMBINg3",
+              "end": 25,
+              "expanded_url": "https://x.com/Asphyxia_v_/status/1887909918038254065/photo/1",
+              "media_key": "3_1887909906998833152",
+              "start": 2,
+              "url": "https://t.co/nMJEMBINg3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887909918038254065",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😅 https://t.co/nMJEMBINg3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 1628,
+          "like_count": 5234,
+          "listed_count": 1,
+          "media_count": 269,
+          "tweet_count": 601
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T12:37:12.000Z",
+        "description": "🚪？我家大🚪常打开～ 聊天直接私信就好了但是我会提前看看你成分，网易云的话同名，偶尔搁b站播一播，目前也就玩脚臭的那个粥和塔科夫，可以叫我一起坐牢，还喜欢摄影唱歌和摆烂",
+        "id": "1814278258189533184",
+        "location": "诺文斯克经济开发区",
+        "name": "废熊Asphyxia（旅行中.....）",
+        "pinned_tweet_id": "1857696719087218795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880768493429444608/e_3TLluG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2326,
+          "following_count": 351,
+          "like_count": 41686,
+          "listed_count": 6,
+          "media_count": 2726,
+          "tweet_count": 27464
+        },
+        "username": "Asphyxia_v_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1882897061923987669",
+    "created_at": "2025-01-24T21:03:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T22:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1882897061923987669"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/5mRtist/status…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/5mRtist/status/1882625986086555953",
+          "start": 4,
+          "url": "https://t.co/lTHLKwzf08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882897061923987669",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882625986086555953",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那我呢 https://t.co/lTHLKwzf08"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1882897061923987669",
+        "created_at": "2025-01-24T21:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T22:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882897061923987669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/5mRtist/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/5mRtist/status/1882625986086555953",
+              "start": 4,
+              "url": "https://t.co/lTHLKwzf08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882897061923987669",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882625986086555953",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那我呢 https://t.co/lTHLKwzf08"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689275528572760064",
+        "conversation_id": "1882625986086555953",
+        "created_at": "2025-01-24T03:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T04:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882625986086555953"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1882625986086555953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 23217,
+          "like_count": 375,
+          "quote_count": 4,
+          "reply_count": 171,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "我真的会把推友们的头像当成本人\n头像可爱的我会更有兴趣交往"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 1392,
+          "like_count": 3012,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 334
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T14:00:59.000Z",
+        "description": "15岁高中生｜无明确立场｜无明确意识形态｜发的内容会比较杂｜简中/繁中混用｜对所有人保持友好🩵｜请不要对我扣帽子或人身攻击，说话时保持文明，我也会礼貌对待大家🩵我没有b过任何人，尊重每一种声音💜 有蓝标的才是本人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "5mr.top",
+                "end": 23,
+                "expanded_url": "http://www.5mr.top",
+                "start": 0,
+                "url": "https://t.co/gOK4bNCfSi"
+              }
+            ]
+          }
+        },
+        "id": "1689275528572760064",
+        "location": "距离你4.51km",
+        "name": "5mR",
+        "pinned_tweet_id": "1870638198768169190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823995534987943936/20q2mxDH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3194,
+          "following_count": 1395,
+          "like_count": 22176,
+          "listed_count": 12,
+          "media_count": 443,
+          "tweet_count": 4921
+        },
+        "url": "https://t.co/gOK4bNCfSi",
+        "username": "5mRtist",
+        "verified": true
+      }
+    ]
+  }
+}

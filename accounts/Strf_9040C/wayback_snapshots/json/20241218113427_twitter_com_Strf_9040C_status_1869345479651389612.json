@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1869345477134835712"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "1869344088295956831",
+    "created_at": "2024-12-18T11:34:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T12:34:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869345479651389612"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lkAPXyCG3k",
+          "end": 33,
+          "expanded_url": "https://x.com/Strf_9040C/status/1869345479651389612/photo/1",
+          "media_key": "3_1869345477134835712",
+          "start": 10,
+          "url": "https://t.co/lkAPXyCG3k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869345479651389612",
+    "in_reply_to_user_id": "1721895937357004800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869344088295956831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "补档\n会很有用感觉 https://t.co/lkAPXyCG3k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1612,
+        "media_key": "3_1869345477134835712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfE_zqca4AABlQO.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869345477134835712"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "1869344088295956831",
+        "created_at": "2024-12-18T11:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T12:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869345479651389612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lkAPXyCG3k",
+              "end": 33,
+              "expanded_url": "https://x.com/Strf_9040C/status/1869345479651389612/photo/1",
+              "media_key": "3_1869345477134835712",
+              "start": 10,
+              "url": "https://t.co/lkAPXyCG3k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869345479651389612",
+        "in_reply_to_user_id": "1721895937357004800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869344088295956831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补档\n会很有用感觉 https://t.co/lkAPXyCG3k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869344084235784192",
+            "3_1869344083094962176"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "1869344088295956831",
+        "created_at": "2024-12-18T11:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T12:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869344088295956831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZYizEbrw8e",
+              "end": 84,
+              "expanded_url": "https://x.com/Strf_9040C/status/1869344088295956831/photo/1",
+              "media_key": "3_1869344084235784192",
+              "start": 61,
+              "url": "https://t.co/ZYizEbrw8e"
+            },
+            {
+              "display_url": "pic.x.com/ZYizEbrw8e",
+              "end": 84,
+              "expanded_url": "https://x.com/Strf_9040C/status/1869344088295956831/photo/1",
+              "media_key": "3_1869344083094962176",
+              "start": 61,
+              "url": "https://t.co/ZYizEbrw8e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869344088295956831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们好，我是 Strv_122_B_PLSS 的二世\nStrf9040C\n爱我的话可以 V 我 50，支持瑞典国防军事业 https://t.co/ZYizEbrw8e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。它还配备了空调，使机组人员在温暖的气候中部署时更加舒适",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869344088295956831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 30,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 8
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

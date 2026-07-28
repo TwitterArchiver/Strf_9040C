@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1876198090904084699",
+    "created_at": "2025-01-06T13:31:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T14:31:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876260247461142996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1685499489493323776",
+          "start": 0,
+          "username": "mtfGuiMeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876260247461142996",
+    "in_reply_to_user_id": "1685499489493323776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876198090904084699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mtfGuiMeng 沃野药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1876198090904084699",
+        "created_at": "2025-01-06T13:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T14:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876260247461142996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "mtfGuiMeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876260247461142996",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876198090904084699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mtfGuiMeng 沃野药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1876198090904084699",
+        "created_at": "2025-01-06T09:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T10:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876198090904084699"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1876198090904084699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1557,
+          "like_count": 55,
+          "quote_count": 1,
+          "reply_count": 36,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "归梦的700fo抽奖\n随便抽一点，大的1000fo再抽\n\n一等奖：100元（直接了当）\n二等奖：奶龙玩具一直（折现10，这奖励没人不折现吧）\n三等奖：舞萌好几pc=5r口令红包（抽3个）\n\n关注➕转发➕留言➕点赞即可喵～\n\n2025.2.2开奖喵，差不多寒假结束"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 907,
+          "like_count": 1964,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 184
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "06.11.15/高中早七晚五双休，坐标杭州无证单身猫猫🍥喵，🚪25，#INTJ，音游人，摆烂中准备死，不管怎么说都是不折不扣的纯爱党！好妹妹@Hai_Hayn，是@xiaoyeluo姐姐的猫猫，5.2元包养的小可爱@GriseoQAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 35,
+                "tag": "INTJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "Hai_Hayn"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "xiaoyeluo"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "GriseoQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "Texas, USA",
+        "name": "归梦🏳‍⚧️🍥",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837418739912114176/BnpbtlSz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 130,
+          "like_count": 780,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 612
+        },
+        "username": "mtfGuiMeng",
+        "verified": true
+      }
+    ]
+  }
+}

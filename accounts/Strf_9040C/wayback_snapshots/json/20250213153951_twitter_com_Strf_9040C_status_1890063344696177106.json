@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1889963053447631081",
+    "created_at": "2025-02-13T15:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T16:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890063344696177106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1360522586317348865",
+          "start": 0,
+          "username": "mcew_233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890063344696177106",
+    "in_reply_to_user_id": "1360522586317348865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889963053447631081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mcew_233 那我来当妈妈可以吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1889963053447631081",
+        "created_at": "2025-02-13T15:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T16:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890063344696177106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360522586317348865",
+              "start": 0,
+              "username": "mcew_233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890063344696177106",
+        "in_reply_to_user_id": "1360522586317348865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889963053447631081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mcew_233 那我来当妈妈可以吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889963047239979008"
+          ]
+        },
+        "author_id": "1360522586317348865",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1889963053447631081",
+        "created_at": "2025-02-13T09:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T10:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889963053447631081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CrUv8R8lzd",
+              "end": 50,
+              "expanded_url": "https://x.com/mcew_233/status/1889963053447631081/photo/1",
+              "media_key": "3_1889963047239979008",
+              "start": 27,
+              "url": "https://t.co/CrUv8R8lzd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889963053447631081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 226,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特家庭树应本人要求截去一辈（毕竟没人想当妈妈ww） https://t.co/CrUv8R8lzd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1888264013416645010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 1667,
+          "like_count": 5864,
+          "listed_count": 1,
+          "media_count": 302,
+          "tweet_count": 662
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "是七海的主人~nanami~/infj/05年/ MtX/🍥/健全?/喜欢的/爱的/独占的/要一直陪帆的/对象/可爱猫猫 @nanami5513",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "nanami5513"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "name": "MCEW233",
+        "pinned_tweet_id": "1873639409519862230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883155190695755776/h78s62n0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 368,
+          "like_count": 39501,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 2072
+        },
+        "username": "mcew_233",
+        "verified": false
+      }
+    ]
+  }
+}

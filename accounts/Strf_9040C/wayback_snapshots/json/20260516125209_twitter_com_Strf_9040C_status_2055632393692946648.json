@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055632266722992129",
+        "3_2055632266710470656"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2055632393692946648",
+    "created_at": "2026-05-16T12:52:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T13:52:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055632393692946648"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NQAMyFONdN",
+          "end": 60,
+          "expanded_url": "https://x.com/Strf_9040C/status/2055632393692946648/photo/1",
+          "media_key": "3_2055632266722992129",
+          "start": 37,
+          "url": "https://t.co/NQAMyFONdN"
+        },
+        {
+          "display_url": "pic.x.com/NQAMyFONdN",
+          "end": 60,
+          "expanded_url": "https://x.com/Strf_9040C/status/2055632393692946648/photo/1",
+          "media_key": "3_2055632266710470656",
+          "start": 37,
+          "url": "https://t.co/NQAMyFONdN"
+        },
+        {
+          "display_url": "x.com/xiaowang_yuban…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/xiaowang_yuban/status/2054879208095273247",
+          "start": 61,
+          "url": "https://t.co/sheTwOMqkN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055632393692946648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054879208095273247",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是一条紧急消息\nThis is a EMERGENCY message https://t.co/NQAMyFONdN https://t.co/sheTwOMqkN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055632266722992129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcSp8ba4AEqm2S.jpg",
+        "width": 1004
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055632266710470656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcSp8Yb0AApPvJ.jpg",
+        "width": 1004
+      },
+      {
+        "height": 1334,
+        "media_key": "3_2054879201233444865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRlvw3boAEeQmj.jpg",
+        "width": 750
+      },
+      {
+        "height": 1334,
+        "media_key": "3_2054879201229209600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRlvw2bAAA7AcK.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055632266722992129",
+            "3_2055632266710470656"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2055632393692946648",
+        "created_at": "2026-05-16T12:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055632393692946648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NQAMyFONdN",
+              "end": 60,
+              "expanded_url": "https://x.com/Strf_9040C/status/2055632393692946648/photo/1",
+              "media_key": "3_2055632266722992129",
+              "start": 37,
+              "url": "https://t.co/NQAMyFONdN"
+            },
+            {
+              "display_url": "pic.x.com/NQAMyFONdN",
+              "end": 60,
+              "expanded_url": "https://x.com/Strf_9040C/status/2055632393692946648/photo/1",
+              "media_key": "3_2055632266710470656",
+              "start": 37,
+              "url": "https://t.co/NQAMyFONdN"
+            },
+            {
+              "display_url": "x.com/xiaowang_yuban…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/xiaowang_yuban/status/2054879208095273247",
+              "start": 61,
+              "url": "https://t.co/sheTwOMqkN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055632393692946648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054879208095273247",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是一条紧急消息\nThis is a EMERGENCY message https://t.co/NQAMyFONdN https://t.co/sheTwOMqkN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054879201233444865",
+            "3_2054879201229209600"
+          ]
+        },
+        "author_id": "1905128877737082880",
+        "conversation_id": "2054879208095273247",
+        "created_at": "2026-05-14T10:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T11:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054879208095273247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NiLTfWLOjI",
+              "end": 29,
+              "expanded_url": "https://x.com/xiaowang_yuban/status/2054879208095273247/photo/1",
+              "media_key": "3_2054879201233444865",
+              "start": 6,
+              "url": "https://t.co/NiLTfWLOjI"
+            },
+            {
+              "display_url": "pic.x.com/NiLTfWLOjI",
+              "end": 29,
+              "expanded_url": "https://x.com/xiaowang_yuban/status/2054879208095273247/photo/1",
+              "media_key": "3_2054879201229209600",
+              "start": 6,
+              "url": "https://t.co/NiLTfWLOjI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054879208095273247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "熬出头了🥹 https://t.co/NiLTfWLOjI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2054846201502306755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 2024,
+          "like_count": 9973,
+          "listed_count": 2,
+          "media_count": 495,
+          "tweet_count": 953
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T05:25:02.000Z",
+        "description": "坐标上海，申花球迷&🏳️‍⚧️小药娘，已和家长和解，准备恢复吃糖…希望和大家贴贴喵",
+        "id": "1905128877737082880",
+        "location": "上海",
+        "name": "Metal小王🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959699649411022848/hBxcV5tN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 70,
+          "like_count": 483,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 170
+        },
+        "username": "xiaowang_yuban",
+        "verified": false
+      }
+    ]
+  }
+}

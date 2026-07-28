@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1888616988706296008",
+    "created_at": "2025-02-09T18:29:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T19:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888656593925124416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1429405137198452736",
+          "start": 0,
+          "username": "Ruri_Mitsuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888656593925124416",
+    "in_reply_to_user_id": "1429405137198452736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888641552584786264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruri_Mitsuki 卓尔的 M 系\n她给我看过\n挺好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1888616988706296008",
+        "created_at": "2025-02-09T18:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T19:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888656593925124416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429405137198452736",
+              "start": 0,
+              "username": "Ruri_Mitsuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888656593925124416",
+        "in_reply_to_user_id": "1429405137198452736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888641552584786264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruri_Mitsuki 卓尔的 M 系\n她给我看过\n挺好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429405137198452736",
+        "conversation_id": "1888616988706296008",
+        "created_at": "2025-02-09T17:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T18:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888641552584786264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721895937357004800",
+              "start": 0,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888641552584786264",
+        "in_reply_to_user_id": "1721895937357004800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888616988706296008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strf_9040C 这是好东西，曾经少佐家里就有一个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1888264013416645010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 1641,
+          "like_count": 5406,
+          "listed_count": 1,
+          "media_count": 284,
+          "tweet_count": 622
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T11:28:44.000Z",
+        "description": "I can drink nitric acid cause,it won't hurt me.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Mannenzakurach",
+                "end": 23,
+                "expanded_url": "https://t.me/Mannenzakurach",
+                "start": 0,
+                "url": "https://t.co/ZANE4AArq8"
+              }
+            ]
+          }
+        },
+        "id": "1429405137198452736",
+        "location": "OtokonokoNeko.lnc",
+        "name": "無名",
+        "pinned_tweet_id": "1877366113178210650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887491913957478400/dVmpZcVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7450,
+          "following_count": 823,
+          "like_count": 123294,
+          "listed_count": 38,
+          "media_count": 3225,
+          "tweet_count": 19063
+        },
+        "url": "https://t.co/ZANE4AArq8",
+        "username": "Ruri_Mitsuki",
+        "verified": false
+      }
+    ]
+  }
+}

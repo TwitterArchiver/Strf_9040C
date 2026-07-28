@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072536955355852800"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2072486479855853725",
+    "created_at": "2026-07-02T04:24:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T05:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072536982904013138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2054099511279296512",
+          "start": 0,
+          "username": "666666666ZT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "app.mps.gov.cn/gdnps/files/c8…",
+          "end": 137,
+          "expanded_url": "https://app.mps.gov.cn/gdnps/files/c8282932/8300798.pdf",
+          "start": 114,
+          "unwound_url": "https://app.mps.gov.cn/gdnps/files/c8282932/8300798.pdf",
+          "url": "https://t.co/UysuSdR5dY"
+        },
+        {
+          "display_url": "pic.x.com/qvZlvWuwFi",
+          "end": 161,
+          "expanded_url": "https://x.com/Strf_9040C/status/2072536982904013138/photo/1",
+          "media_key": "3_2072536955355852800",
+          "start": 138,
+          "url": "https://t.co/qvZlvWuwFi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072536982904013138",
+    "in_reply_to_user_id": "2054099511279296512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072486479855853725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@666666666ZT “申请小型汽车、小型自动挡汽车、残疾人专用小型自动挡载客汽车、轻便摩托车准驾车型的，在 18 周岁以上”\n姐妹2010年七月出生的，2023年8月领证的，那时候你才13周岁\n好奇怎么考的，怎么发的证\n\nhttps://t.co/UysuSdR5dY https://t.co/qvZlvWuwFi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072536955355852800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMMhYU_a8AA5z1G.jpg",
+        "width": 1054
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072486476500410368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMLzeEmboAA5XbY.jpg",
+        "width": 1542
+      },
+      {
+        "height": 1067,
+        "media_key": "3_2072486475166568448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMLzd_oa0AAFr3b.jpg",
+        "width": 1475
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072536955355852800"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2072486479855853725",
+        "created_at": "2026-07-02T04:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T05:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072536982904013138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054099511279296512",
+              "start": 0,
+              "username": "666666666ZT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "app.mps.gov.cn/gdnps/files/c8…",
+              "end": 137,
+              "expanded_url": "https://app.mps.gov.cn/gdnps/files/c8282932/8300798.pdf",
+              "start": 114,
+              "unwound_url": "https://app.mps.gov.cn/gdnps/files/c8282932/8300798.pdf",
+              "url": "https://t.co/UysuSdR5dY"
+            },
+            {
+              "display_url": "pic.x.com/qvZlvWuwFi",
+              "end": 161,
+              "expanded_url": "https://x.com/Strf_9040C/status/2072536982904013138/photo/1",
+              "media_key": "3_2072536955355852800",
+              "start": 138,
+              "url": "https://t.co/qvZlvWuwFi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072536982904013138",
+        "in_reply_to_user_id": "2054099511279296512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072486479855853725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@666666666ZT “申请小型汽车、小型自动挡汽车、残疾人专用小型自动挡载客汽车、轻便摩托车准驾车型的，在 18 周岁以上”\n姐妹2010年七月出生的，2023年8月领证的，那时候你才13周岁\n好奇怎么考的，怎么发的证\n\nhttps://t.co/UysuSdR5dY https://t.co/qvZlvWuwFi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072486476500410368",
+            "3_2072486475166568448"
+          ]
+        },
+        "author_id": "2054099511279296512",
+        "conversation_id": "2072486479855853725",
+        "created_at": "2026-07-02T01:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T02:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072486479855853725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cFocV2GgB3",
+              "end": 120,
+              "expanded_url": "https://x.com/666666666ZT/status/2072486479855853725/photo/1",
+              "media_key": "3_2072486476500410368",
+              "start": 97,
+              "url": "https://t.co/cFocV2GgB3"
+            },
+            {
+              "display_url": "pic.x.com/cFocV2GgB3",
+              "end": 120,
+              "expanded_url": "https://x.com/666666666ZT/status/2072486479855853725/photo/1",
+              "media_key": "3_2072486475166568448",
+              "start": 97,
+              "url": "https://t.co/cFocV2GgB3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072486479855853725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 786,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "持证驾驶，14岁那年考的驾照还是C2D，我可以驾驶电摩和C2自动轿车，因为考过科目一，知道道路交通安全法，知道转弯要打转向灯，变道要打转向灯，实线不能变道虚线可以变道，还有其他的我基本上都知道 https://t.co/cFocV2GgB3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2057928692089905225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 2377,
+          "like_count": 12959,
+          "listed_count": 2,
+          "media_count": 645,
+          "tweet_count": 1160
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T07:21:08.000Z",
+        "description": "我是清正，一名普通的MTF，生产日期2010年7月1日，生日是农历五月二十，身高1米8，体重61公斤，没有飞机账号，请注意！",
+        "id": "2054099511279296512",
+        "location": "湖北省",
+        "name": "电子爱好者清正🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071809309730557952/Z9aQ2M1k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 198,
+          "like_count": 22,
+          "listed_count": 4,
+          "media_count": 62,
+          "tweet_count": 143
+        },
+        "url": "",
+        "username": "666666666ZT",
+        "verified": false
+      }
+    ]
+  }
+}

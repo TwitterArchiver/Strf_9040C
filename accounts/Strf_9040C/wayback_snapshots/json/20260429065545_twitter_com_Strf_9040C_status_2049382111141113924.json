@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049382019076083713"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2049382111141113924",
+    "created_at": "2026-04-29T06:55:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T07:55:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049382111141113924"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aae6sn7p23",
+          "end": 32,
+          "expanded_url": "https://x.com/Strf_9040C/status/2049382111141113924/photo/1",
+          "media_key": "3_2049382019076083713",
+          "start": 9,
+          "url": "https://t.co/aae6sn7p23"
+        },
+        {
+          "display_url": "x.com/10Lystra/statu…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/10Lystra/status/2049380690114842672",
+          "start": 33,
+          "url": "https://t.co/flynms6T72"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049382111141113924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049380690114842672",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是谁变态我不说🥺 https://t.co/aae6sn7p23 https://t.co/flynms6T72"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049382019076083713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHDeFpgaUAEtxnc.jpg",
+        "width": 1004
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049382019076083713"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2049382111141113924",
+        "created_at": "2026-04-29T06:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049382111141113924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aae6sn7p23",
+              "end": 32,
+              "expanded_url": "https://x.com/Strf_9040C/status/2049382111141113924/photo/1",
+              "media_key": "3_2049382019076083713",
+              "start": 9,
+              "url": "https://t.co/aae6sn7p23"
+            },
+            {
+              "display_url": "x.com/10Lystra/statu…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/10Lystra/status/2049380690114842672",
+              "start": 33,
+              "url": "https://t.co/flynms6T72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049382111141113924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049380690114842672",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是谁变态我不说🥺 https://t.co/aae6sn7p23 https://t.co/flynms6T72"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2049380690114842672",
+        "created_at": "2026-04-29T06:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049380690114842672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/strf_9040c/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/strf_9040c/status/2047808523011305764",
+              "start": 8,
+              "url": "https://t.co/FUCMsnyk6I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049380690114842672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047808523011305764",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好变态这个。。 https://t.co/FUCMsnyk6I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "2043259817121448322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 1914,
+          "like_count": 8907,
+          "listed_count": 0,
+          "media_count": 459,
+          "tweet_count": 896
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 894,
+          "like_count": 2334,
+          "listed_count": 2,
+          "media_count": 291,
+          "tweet_count": 7122
+        },
+        "username": "10Lystra",
+        "verified": false
+      }
+    ]
+  }
+}

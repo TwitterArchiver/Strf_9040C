@@ -1,0 +1,116 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "2041686497326461359",
+    "created_at": "2026-04-08T01:16:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T02:16:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041686497326461359"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041686497326461359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一级止痛非甾体，轻痛先用不着急\n助眠就用褪黑素，安全无瘾调节律\n \n二级弱阿止中痛，效果不强不升级\n催眠首选Z类药，入睡安稳副反应低\n \n三级强阿镇剧痛，重症难治才可以\n催眠苯卓强效力，依赖风险要牢记\n \n先弱后强阶梯上，循序渐进不越级\n安全优先守原则，镇痛助眠皆有序"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "2041686497326461359",
+        "created_at": "2026-04-08T01:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T02:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041686497326461359"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041686497326461359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一级止痛非甾体，轻痛先用不着急\n助眠就用褪黑素，安全无瘾调节律\n \n二级弱阿止中痛，效果不强不升级\n催眠首选Z类药，入睡安稳副反应低\n \n三级强阿镇剧痛，重症难治才可以\n催眠苯卓强效力，依赖风险要牢记\n \n先弱后强阶梯上，循序渐进不越级\n安全优先守原则，镇痛助眠皆有序"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1888264013416645010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 1664,
+          "like_count": 5713,
+          "listed_count": 0,
+          "media_count": 379,
+          "tweet_count": 767
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

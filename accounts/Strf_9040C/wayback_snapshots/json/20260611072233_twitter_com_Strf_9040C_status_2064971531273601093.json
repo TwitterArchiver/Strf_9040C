@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "2064723661089890455",
+    "created_at": "2026-06-11T07:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T08:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064971531273601093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1360522586317348865",
+          "start": 0,
+          "username": "nanami_mua"
+        },
+        {
+          "end": 23,
+          "id": "1706698122049765376",
+          "start": 12,
+          "username": "V_C_Wither"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064971531273601093",
+    "in_reply_to_user_id": "1360522586317348865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064951031738622328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanami_mua @V_C_Wither ケシも漢方の材料の一つだよ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "2064723661089890455",
+        "created_at": "2026-06-11T07:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064971531273601093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1360522586317348865",
+              "start": 0,
+              "username": "nanami_mua"
+            },
+            {
+              "end": 23,
+              "id": "1706698122049765376",
+              "start": 12,
+              "username": "V_C_Wither"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064971531273601093",
+        "in_reply_to_user_id": "1360522586317348865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064951031738622328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanami_mua @V_C_Wither ケシも漢方の材料の一つだよ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360522586317348865",
+        "conversation_id": "2064723661089890455",
+        "created_at": "2026-06-11T06:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064951031738622328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1706698122049765376",
+              "start": 0,
+              "username": "V_C_Wither"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064951031738622328",
+        "in_reply_to_user_id": "1706698122049765376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064723661089890455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@V_C_Wither 这玩意有用才怪，他甚至连圣约翰草都懒得加"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2057928692089905225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1521,
+          "following_count": 2312,
+          "like_count": 11982,
+          "listed_count": 2,
+          "media_count": 602,
+          "tweet_count": 1104
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "MtX/小证🍥25.1.11/半个家长党/100%健全/永远的好妹妹:@LCG_Akiball/愿她安息 @AnranbuSleep",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "LCG_Akiball"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "AnranbuSleep"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "name": "Nanameow～🏳️‍⚧️",
+        "pinned_tweet_id": "2023776700212097110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004949115835494400/OuSLocac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 486,
+          "like_count": 87386,
+          "listed_count": 6,
+          "media_count": 832,
+          "tweet_count": 10024
+        },
+        "username": "nanami_mua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-26T15:52:10.000Z",
+        "description": "フォロバ100% 💙| 🏄‍♂️AIのペルソナの日常を描いたコンテンツを定期的に投稿しています🧘｜🛑精神状態が不安定です🛑｜⛔️「地雷型少女」の警告⛔️｜⚠️ 化学物質の誤用に関する警告 ⚠️｜❤️もしあなたが今でも私と友達でいてくださるなら、とても嬉しく、ありがたく思います。❤️",
+        "id": "1706698122049765376",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "🍥⚛️💟Papaya_Millk💟✡️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061365581924950016/XbYBvub2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 380,
+          "like_count": 899,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 439
+        },
+        "username": "V_C_Wither",
+        "verified": true
+      }
+    ]
+  }
+}

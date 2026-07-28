@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1889699673663029347",
+    "created_at": "2025-02-12T15:34:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T16:34:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889699673663029347"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AshleyPort9904…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/AshleyPort99048/status/1884650138909761549",
+          "start": 32,
+          "url": "https://t.co/jRBizyvlqd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889699673663029347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884650138909761549",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "发一的能不能私发我联系方式等你们老了我给你们推销天地精华保健品 https://t.co/jRBizyvlqd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1889699673663029347",
+        "created_at": "2025-02-12T15:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T16:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889699673663029347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AshleyPort9904…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/AshleyPort99048/status/1884650138909761549",
+              "start": 32,
+              "url": "https://t.co/jRBizyvlqd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889699673663029347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884650138909761549",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发一的能不能私发我联系方式等你们老了我给你们推销天地精华保健品 https://t.co/jRBizyvlqd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792778084212436992",
+        "conversation_id": "1884650138909761549",
+        "created_at": "2025-01-29T17:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T18:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884650138909761549"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884650138909761549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 387879,
+          "like_count": 284,
+          "quote_count": 66,
+          "reply_count": 513,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "学着别人往子宫里塞了几个跳蛋，爽成傻逼了！要看视频的扣1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1888264013416645010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076,
+          "following_count": 1664,
+          "like_count": 5776,
+          "listed_count": 1,
+          "media_count": 299,
+          "tweet_count": 657
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-21T04:43:13.000Z",
+        "description": "经常扣b自慰到红温！脑子里想的全是我的粉丝拿着大jb来操烂我的小穴！https://t.co/F3BqPWn34G",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+TKijJFmh_uYwM…",
+                "end": 57,
+                "expanded_url": "https://t.me/+TKijJFmh_uYwMjlk",
+                "start": 34,
+                "url": "https://t.co/F3BqPWn34G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+bMRHAT60yH4zY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+bMRHAT60yH4zYTQ1",
+                "start": 0,
+                "url": "https://t.co/WrUT3soNN3"
+              }
+            ]
+          }
+        },
+        "id": "1792778084212436992",
+        "name": "敏敏爱红温",
+        "pinned_tweet_id": "1889354994664783887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850186226604892160/F1yVTGW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4365,
+          "following_count": 36,
+          "like_count": 4877,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 1877
+        },
+        "url": "https://t.co/WrUT3soNN3",
+        "username": "AshleyPort99048",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035554623441002496"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2035554638024646972",
+    "created_at": "2026-03-22T03:10:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T04:10:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035554638024646972"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BIBn6KIDyv",
+          "end": 38,
+          "expanded_url": "https://x.com/Strf_9040C/status/2035554638024646972/photo/1",
+          "media_key": "3_2035554623441002496",
+          "start": 15,
+          "url": "https://t.co/BIBn6KIDyv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035554638024646972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "冷知识：坦克酱祖上有个张献忠 https://t.co/BIBn6KIDyv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1013,
+        "media_key": "3_2035554623441002496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD--JSsa4AAccuy.jpg",
+        "width": 2708
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035554623441002496"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2035554638024646972",
+        "created_at": "2026-03-22T03:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T04:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035554638024646972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BIBn6KIDyv",
+              "end": 38,
+              "expanded_url": "https://x.com/Strf_9040C/status/2035554638024646972/photo/1",
+              "media_key": "3_2035554623441002496",
+              "start": 15,
+              "url": "https://t.co/BIBn6KIDyv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035554638024646972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识：坦克酱祖上有个张献忠 https://t.co/BIBn6KIDyv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1888264013416645010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 1545,
+          "like_count": 5255,
+          "listed_count": 0,
+          "media_count": 334,
+          "tweet_count": 707
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

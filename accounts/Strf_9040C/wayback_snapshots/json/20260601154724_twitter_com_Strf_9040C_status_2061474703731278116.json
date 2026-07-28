@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "2061474703731278116",
+    "created_at": "2026-06-01T15:47:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T16:47:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061474703731278116"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/raotianshou/st…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/raotianshou/status/2061368009638420590",
+          "start": 144,
+          "url": "https://t.co/ml5w63BJzt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061474703731278116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061368009638420590",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "从生物学看，蛆只吃坏死组织而不吃活乳腺癌的活细胞实质瘤，无法根治癌症\nCT很难清晰分辨蛆虫侵及的边界，更不可能判断“正在吃”的过程\n从感染病理看，如此大面积的破溃生蛆、深及胸大肌，必然在数日内引发脓毒血症和感染性休克，患者根本不可能存活到接受乳房切除和二期植皮，更不可能“癌症被蛆吃好了 https://t.co/ml5w63BJzt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1198,
+        "media_key": "3_2061368006534680576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtzR8Ta0AAk-Ft.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "2061474703731278116",
+        "created_at": "2026-06-01T15:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061474703731278116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/raotianshou/st…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/raotianshou/status/2061368009638420590",
+              "start": 144,
+              "url": "https://t.co/ml5w63BJzt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061474703731278116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061368009638420590",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从生物学看，蛆只吃坏死组织而不吃活乳腺癌的活细胞实质瘤，无法根治癌症\nCT很难清晰分辨蛆虫侵及的边界，更不可能判断“正在吃”的过程\n从感染病理看，如此大面积的破溃生蛆、深及胸大肌，必然在数日内引发脓毒血症和感染性休克，患者根本不可能存活到接受乳房切除和二期植皮，更不可能“癌症被蛆吃好了 https://t.co/ml5w63BJzt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061368006534680576"
+          ]
+        },
+        "author_id": "1801490762888318976",
+        "conversation_id": "2061368009638420590",
+        "created_at": "2026-06-01T08:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T09:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061368009638420590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2xWoSF0TY7",
+              "end": 31,
+              "expanded_url": "https://x.com/raotianshou/status/2061368009638420590/photo/1",
+              "media_key": "3_2061368006534680576",
+              "start": 8,
+              "url": "https://t.co/2xWoSF0TY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061368009638420590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 823,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "医学生已畏惧😭 https://t.co/2xWoSF0TY7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2057928692089905225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 2241,
+          "like_count": 11346,
+          "listed_count": 2,
+          "media_count": 565,
+          "tweet_count": 1055
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T05:44:21.000Z",
+        "description": "05註冊地球online🍥一读书就不开心🍥大一萌新医学生🍥真心爱着每一个人❤️同類私信互fo🍥OKX交易学习中🍥需要🍬的宝宝墙内私信（Q2906007139）",
+        "id": "1801490762888318976",
+        "name": "神楽坂 幻蝶纯梦🍥(互fo版)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935366192602001408/7pYL-OmH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 199,
+          "like_count": 431,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 317
+        },
+        "username": "raotianshou",
+        "verified": false
+      }
+    ]
+  }
+}

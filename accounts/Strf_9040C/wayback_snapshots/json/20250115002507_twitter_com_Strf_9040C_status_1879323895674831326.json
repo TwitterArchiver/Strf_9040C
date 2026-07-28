@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1879323895674831326",
+    "created_at": "2025-01-15T00:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-15T01:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1879323895674831326"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/WaiFu8964/stat…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/WaiFu8964/status/1878766684892487963",
+          "start": 34,
+          "url": "https://t.co/OZWlfEs0J3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879323895674831326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878766684892487963",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "和我互关的人都是见了面之后可以直接把我按在床上玩😋（前提是你见得到 https://t.co/OZWlfEs0J3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1879323895674831326",
+        "created_at": "2025-01-15T00:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T01:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879323895674831326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/WaiFu8964/stat…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/WaiFu8964/status/1878766684892487963",
+              "start": 34,
+              "url": "https://t.co/OZWlfEs0J3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879323895674831326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878766684892487963",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和我互关的人都是见了面之后可以直接把我按在床上玩😋（前提是你见得到 https://t.co/OZWlfEs0J3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1419403960696385546",
+        "conversation_id": "1878766684892487963",
+        "created_at": "2025-01-13T11:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T12:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878766684892487963"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1878766684892487963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 15975,
+          "like_count": 169,
+          "quote_count": 2,
+          "reply_count": 34,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "和我互关的人都是见了面之后可以直接把我按在床上玩😋（前提是你见得到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 1122,
+          "like_count": 2301,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 238
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-25T21:07:49.000Z",
+        "description": "我键政出壬乐壬嗑药赌博玩黑产，但我是个好mtf! |雌墮中|姓老名婆所以你們叫我老婆好了| 小名fufu|个人频道 https://t.co/G1WLyLh0Rj\n |aff成交金额10%返现|网站 https://t.co/GpjdUCMYn8\n |虱子多了不咬，案子多了不愁|❤️  @Mionostand",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 144,
+                "username": "Mionostand"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/waifu2x",
+                "end": 81,
+                "expanded_url": "https://t.me/waifu2x",
+                "start": 58,
+                "url": "https://t.co/G1WLyLh0Rj"
+              },
+              {
+                "display_url": "chakaifang.org",
+                "end": 123,
+                "expanded_url": "http://chakaifang.org",
+                "start": 100,
+                "url": "https://t.co/GpjdUCMYn8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/waifu2x",
+                "end": 23,
+                "expanded_url": "https://t.me/waifu2x",
+                "start": 0,
+                "url": "https://t.co/G1WLyLh0Rj"
+              }
+            ]
+          }
+        },
+        "id": "1419403960696385546",
+        "location": "IP归属地:深圳",
+        "name": "Waifu 🏳️‍⚧️卖数据的小女孩",
+        "pinned_tweet_id": "1754504973918900509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733661370220941312/ZfY5xhjf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6550,
+          "following_count": 1930,
+          "like_count": 4900,
+          "listed_count": 17,
+          "media_count": 620,
+          "tweet_count": 4951
+        },
+        "url": "https://t.co/G1WLyLh0Rj",
+        "username": "WaiFu8964",
+        "verified": true
+      }
+    ]
+  }
+}

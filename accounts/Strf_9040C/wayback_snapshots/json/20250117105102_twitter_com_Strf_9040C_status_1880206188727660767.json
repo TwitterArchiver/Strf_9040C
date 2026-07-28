@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1880196641631924558",
+    "created_at": "2025-01-17T10:51:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T11:51:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880206188727660767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1841768354178334721",
+          "start": 0,
+          "username": "jingzi004"
+        },
+        {
+          "end": 23,
+          "id": "1770873046422732800",
+          "start": 11,
+          "username": "aspishiguro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880206188727660767",
+    "in_reply_to_user_id": "1841768354178334721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880205290148360619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingzi004 @aspishiguro 那我是哪种👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1880196641631924558",
+        "created_at": "2025-01-17T10:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T11:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880206188727660767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1841768354178334721",
+              "start": 0,
+              "username": "jingzi004"
+            },
+            {
+              "end": 23,
+              "id": "1770873046422732800",
+              "start": 11,
+              "username": "aspishiguro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880206188727660767",
+        "in_reply_to_user_id": "1841768354178334721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880205290148360619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingzi004 @aspishiguro 那我是哪种👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841768354178334721",
+        "conversation_id": "1880196641631924558",
+        "created_at": "2025-01-17T10:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T11:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880205290148360619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1770873046422732800",
+              "start": 0,
+              "username": "aspishiguro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880205290148360619",
+        "in_reply_to_user_id": "1770873046422732800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880196641631924558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aspishiguro fo你=不討厭\n封鎖=讓我覺得噁心\n不fo=沒刷到/不喜歡\n不回fo=號炸了/死了/沒看到/故意的/可疑\n互fo=可以艹\n大概是這個意思吧🌝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 1186,
+          "like_count": 2421,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 262
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T09:14:54.000Z",
+        "description": "MTF🏳️‍⚧️HRT2022🍥生物化學專業🧪實驗室技術員👩‍🔬仿製藥糖商💊擅長減肥、豐胸、泌乳、互fo🌝",
+        "id": "1841768354178334721",
+        "name": "四代目京子",
+        "pinned_tweet_id": "1870662020733038653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841771063333814272/eXhgbIdt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 1544,
+          "like_count": 705,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 1889
+        },
+        "username": "jingzi004",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-21T18:00:29.000Z",
+        "description": "药娘 / 语无伦次 / 据说是不错的倾听者 / 厨娘 / 喜欢历史 / 退休制作人 / 酒精依赖 / 甜酒党",
+        "id": "1770873046422732800",
+        "location": "Netherworld",
+        "name": "🏳️‍⚧️ Asparagus Ishiguro",
+        "pinned_tweet_id": "1843185862655553608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787478619146891264/2a0z8-xt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 176,
+          "like_count": 355,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 453
+        },
+        "username": "aspishiguro",
+        "verified": false
+      }
+    ]
+  }
+}

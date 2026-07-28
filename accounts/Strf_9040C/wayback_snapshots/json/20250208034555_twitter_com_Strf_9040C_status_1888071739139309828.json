@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888071732176764928",
+        "3_1888071735192469508"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "1888071739139309828",
+    "created_at": "2025-02-08T03:45:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T04:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1888071739139309828"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aCFOvJpl3Q",
+          "end": 43,
+          "expanded_url": "https://x.com/Strf_9040C/status/1888071739139309828/photo/1",
+          "media_key": "3_1888071732176764928",
+          "start": 20,
+          "url": "https://t.co/aCFOvJpl3Q"
+        },
+        {
+          "display_url": "pic.x.com/aCFOvJpl3Q",
+          "end": 43,
+          "expanded_url": "https://x.com/Strf_9040C/status/1888071739139309828/photo/1",
+          "media_key": "3_1888071735192469508",
+          "start": 20,
+          "url": "https://t.co/aCFOvJpl3Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888071739139309828",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这两种留置针有什么区别吗\n哪种更好一些 https://t.co/aCFOvJpl3Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2080,
+        "media_key": "3_1888071732176764928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjPHPKraQAAcnhI.jpg",
+        "width": 1168
+      },
+      {
+        "height": 1150,
+        "media_key": "3_1888071735192469508",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjPHPV6aQAQfYRa.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888071732176764928",
+            "3_1888071735192469508"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "1888071739139309828",
+        "created_at": "2025-02-08T03:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T04:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888071739139309828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aCFOvJpl3Q",
+              "end": 43,
+              "expanded_url": "https://x.com/Strf_9040C/status/1888071739139309828/photo/1",
+              "media_key": "3_1888071732176764928",
+              "start": 20,
+              "url": "https://t.co/aCFOvJpl3Q"
+            },
+            {
+              "display_url": "pic.x.com/aCFOvJpl3Q",
+              "end": 43,
+              "expanded_url": "https://x.com/Strf_9040C/status/1888071739139309828/photo/1",
+              "media_key": "3_1888071735192469508",
+              "start": 20,
+              "url": "https://t.co/aCFOvJpl3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888071739139309828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这两种留置针有什么区别吗\n哪种更好一些 https://t.co/aCFOvJpl3Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 1628,
+          "like_count": 5238,
+          "listed_count": 1,
+          "media_count": 270,
+          "tweet_count": 602
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

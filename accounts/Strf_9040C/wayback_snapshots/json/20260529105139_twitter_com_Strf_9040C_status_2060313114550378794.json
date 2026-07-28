@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "2060199638830027132",
+    "created_at": "2026-05-29T10:51:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T11:51:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060313114550378794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1561049612655308800",
+          "start": 0,
+          "username": "supersuger8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060313114550378794",
+    "in_reply_to_user_id": "1561049612655308800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060199638830027132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@supersuger8 缺失法定的医师签名及医院公章，无法证明内容的真实性与法律归属性\n缺乏主体责任背书的医疗文书不具证据效力\n无法作为手术证明、户籍更改或司法鉴定的依据，本质上属于未经认证的院内草稿或非正式记录"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 760,
+        "media_key": "3_2060199627539021824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdMpVXbAAAYJ8p.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "2060199638830027132",
+        "created_at": "2026-05-29T10:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060313114550378794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1561049612655308800",
+              "start": 0,
+              "username": "supersuger8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060313114550378794",
+        "in_reply_to_user_id": "1561049612655308800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060199638830027132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@supersuger8 缺失法定的医师签名及医院公章，无法证明内容的真实性与法律归属性\n缺乏主体责任背书的医疗文书不具证据效力\n无法作为手术证明、户籍更改或司法鉴定的依据，本质上属于未经认证的院内草稿或非正式记录"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060199627539021824"
+          ]
+        },
+        "author_id": "1561049612655308800",
+        "conversation_id": "2060199638830027132",
+        "created_at": "2026-05-29T03:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060199638830027132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0YRn7dwRUH",
+              "end": 77,
+              "expanded_url": "https://x.com/supersuger8/status/2060199638830027132/photo/1",
+              "media_key": "3_2060199627539021824",
+              "start": 54,
+              "url": "https://t.co/0YRn7dwRUH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060199638830027132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 212,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "姐妹们这个算是小证吗，我在北医三院找的郝树伟医生，他开的病历上只写了个“跨性别”，医院也不给病历盖章... https://t.co/0YRn7dwRUH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2057928692089905225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1441,
+          "following_count": 2205,
+          "like_count": 11123,
+          "listed_count": 3,
+          "media_count": 552,
+          "tweet_count": 1039
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-20T17:56:53.000Z",
+        "description": "02｜MtF🏳️‍⚧️｜无证含糖🍥｜od｜割手｜深柜｜超级社恐｜努力上班攒手术钱｜想和大家成为朋友｜永劫无间糕手",
+        "id": "1561049612655308800",
+        "location": "People's Republic of China",
+        "name": "supersuger🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042258680905949184/7LhBPCUW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 177,
+          "like_count": 256,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 16
+        },
+        "username": "supersuger8",
+        "verified": true
+      }
+    ]
+  }
+}

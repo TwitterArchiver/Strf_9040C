@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1875376258328228095",
+    "created_at": "2025-01-08T12:31:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T13:31:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876969887655923747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1687475463474626560",
+          "start": 0,
+          "username": "CWorker62279"
+        },
+        {
+          "end": 24,
+          "id": "1339446920511569920",
+          "start": 14,
+          "username": "shudesu00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876969887655923747",
+    "in_reply_to_user_id": "1687475463474626560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875435711677300823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CWorker62279 @shudesu00 肉制品的护色，防腐\n很多腊肠腊肉之类的就有亚硝酸钠来防腐\n火腿肠里面也有，抗肉毒杆菌的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1875376258328228095",
+        "created_at": "2025-01-08T12:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T13:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876969887655923747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1687475463474626560",
+              "start": 0,
+              "username": "CWorker62279"
+            },
+            {
+              "end": 24,
+              "id": "1339446920511569920",
+              "start": 14,
+              "username": "shudesu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876969887655923747",
+        "in_reply_to_user_id": "1687475463474626560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875435711677300823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CWorker62279 @shudesu00 肉制品的护色，防腐\n很多腊肠腊肉之类的就有亚硝酸钠来防腐\n火腿肠里面也有，抗肉毒杆菌的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687475463474626560",
+        "conversation_id": "1875376258328228095",
+        "created_at": "2025-01-04T06:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T07:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875435711677300823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1339446920511569920",
+              "start": 0,
+              "username": "shudesu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875435711677300823",
+        "in_reply_to_user_id": "1339446920511569920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875376258328228095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shudesu00 为什么餐饮会用亚硝酸盐呀？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 951,
+          "like_count": 2051,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 194
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T14:48:42.000Z",
+        "description": "🎄00后 #xyn #木桶饭 #furry|🎊177cm/61kg|♀女高印象♀|🚪5/25/50/100|HRT 2023.8.01|🎯厦门-海沧/湖里|恋人@Ol_sunflower  姐妹@szc055555 @snowfairy011026  闺蜜@CoolWorker      霜落空飞雪，柔情似暖阳",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 5,
+                "tag": "xyn"
+              },
+              {
+                "end": 14,
+                "start": 10,
+                "tag": "木桶饭"
+              },
+              {
+                "end": 21,
+                "start": 15,
+                "tag": "furry"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 93,
+                "start": 80,
+                "username": "Ol_sunflower"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "szc055555"
+              },
+              {
+                "end": 124,
+                "start": 108,
+                "username": "snowfairy011026"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "CoolWorker"
+              }
+            ]
+          }
+        },
+        "id": "1687475463474626560",
+        "name": "霜雪亿年（原cbwk）",
+        "pinned_tweet_id": "1874285297871311136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868645961435942912/YyraRetC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2036,
+          "following_count": 2388,
+          "like_count": 9046,
+          "listed_count": 7,
+          "media_count": 687,
+          "tweet_count": 5648
+        },
+        "username": "CWorker62279",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-17T05:46:58.000Z",
+        "description": "Ftx_aspd_intp_习惯性点赞💍❤️我的主人：@CoFfffEeeeE1 ✚各类一次性75-100+元。悦刻五代180r、悦刻六代200r，悦刻五代原厂弹90/80/75r一盒包邮。纸外烟代，全国无禁区，散拼：1包起发/邮费15、10盒起包邮，山东安徽+8邮费，买烟请私信✚🔮塔罗占卜30r",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "CoFfffEeeeE1"
+              }
+            ]
+          }
+        },
+        "id": "1339446920511569920",
+        "name": "小树（电/外烟代）",
+        "pinned_tweet_id": "1792758274967953516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871856751559188480/8U1aKXTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3750,
+          "following_count": 2188,
+          "like_count": 121627,
+          "listed_count": 5,
+          "media_count": 1444,
+          "tweet_count": 15581
+        },
+        "username": "shudesu00",
+        "verified": false
+      }
+    ]
+  }
+}

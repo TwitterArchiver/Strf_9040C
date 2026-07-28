@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "2062357808268669277",
+    "created_at": "2026-06-04T02:16:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T03:16:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062357808268669277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        },
+        {
+          "end": 101,
+          "id": "1655914995409113088",
+          "start": 92,
+          "username": "L8n9poqq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062357808268669277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062050203453251607",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 2026/6/2我们接到了一起求助受害者，女，已满十八岁，四月二十一日被绑架失联，经过查证人被关在“胤呈素质教育基地”这所特训机构里本案由我与@L8n9poqq，连同多名组员跟进调查中\n在此之间我们拍摄到了一段非常有趣的视频\n它直接揭示…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 84933,
+        "height": 1280,
+        "media_key": "7_2062050103347814400",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2062050103347814400/pu/img/oVtbYorCLCyh898f.jpg",
+        "public_metrics": {
+          "view_count": 4196
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062050103347814400/pu/vid/avc1/320x568/drMoo6AtTg-EiifN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062050103347814400/pu/vid/avc1/480x852/-B5YtnjoGNek5SxE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062050103347814400/pu/vid/avc1/720x1280/XInOpsZFkBcA8TIG.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2062050103347814400/pu/pl/ER_m8TsssyiDIxri.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "2062357808268669277",
+        "created_at": "2026-06-04T02:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T03:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062357808268669277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 101,
+              "id": "1655914995409113088",
+              "start": 92,
+              "username": "L8n9poqq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062357808268669277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062050203453251607",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: 2026/6/2我们接到了一起求助受害者，女，已满十八岁，四月二十一日被绑架失联，经过查证人被关在“胤呈素质教育基地”这所特训机构里本案由我与@L8n9poqq，连同多名组员跟进调查中\n在此之间我们拍摄到了一段非常有趣的视频\n它直接揭示…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2062050103347814400"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2062050203453251607",
+        "created_at": "2026-06-03T05:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062050203453251607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 80,
+              "id": "1655914995409113088",
+              "start": 71,
+              "username": "L8n9poqq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jxLbJ2wtGR",
+              "end": 167,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2062050203453251607/video/1",
+              "media_key": "7_2062050103347814400",
+              "start": 144,
+              "url": "https://t.co/jxLbJ2wtGR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062050203453251607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 14240,
+          "like_count": 203,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "2026/6/2我们接到了一起求助受害者，女，已满十八岁，四月二十一日被绑架失联，经过查证人被关在“胤呈素质教育基地”这所特训机构里本案由我与@L8n9poqq，连同多名组员跟进调查中\n在此之间我们拍摄到了一段非常有趣的视频\n它直接揭示了此类机构是如何使用暴力的……\n话不多说直接放干货 https://t.co/jxLbJ2wtGR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2057928692089905225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1485,
+          "following_count": 2252,
+          "like_count": 11481,
+          "listed_count": 2,
+          "media_count": 571,
+          "tweet_count": 1067
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061137908178755584/v2ibYgwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5468,
+          "following_count": 3085,
+          "like_count": 3157,
+          "listed_count": 19,
+          "media_count": 442,
+          "tweet_count": 2947
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-09T12:38:25.000Z",
+        "description": "社会志愿工作者，反“特训机构”、反邪教、反家暴\n战绩：\n作为报案人向警方提供重大线索协助侦破邪教组织，救出四十余人，头目尽数缉拿\n作为核心成员参与对特训机构“安康沁元博素质教育基地”的搜证、曝光、举报工作，使其关停并遣返三百余名学员\n作为核心成员参与七起“特训机构”个案营救，全部救出",
+        "id": "1655914995409113088",
+        "name": "精英白给分子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022175928974299136/twMmrNFi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 14,
+          "like_count": 775,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 11
+        },
+        "username": "L8n9poqq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1880094549986668792",
+    "created_at": "2025-01-17T09:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T10:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880183277342081157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1787908199674429447",
+          "start": 0,
+          "username": "AmiaZako4058"
+        },
+        {
+          "end": 23,
+          "id": "1481172876589821952",
+          "start": 14,
+          "username": "pyke2076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880183277342081157",
+    "in_reply_to_user_id": "1787908199674429447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880098685645902149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmiaZako4058 @pyke2076 兽药，催情的\n有效成份是雌激素，孕激素，雄激素"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1880094549986668792",
+        "created_at": "2025-01-17T09:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T10:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880183277342081157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1787908199674429447",
+              "start": 0,
+              "username": "AmiaZako4058"
+            },
+            {
+              "end": 23,
+              "id": "1481172876589821952",
+              "start": 14,
+              "username": "pyke2076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880183277342081157",
+        "in_reply_to_user_id": "1787908199674429447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880098685645902149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmiaZako4058 @pyke2076 兽药，催情的\n有效成份是雌激素，孕激素，雄激素"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787908199674429447",
+        "conversation_id": "1880094549986668792",
+        "created_at": "2025-01-17T03:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T04:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880098685645902149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "pyke2076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880098685645902149",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880098579454570543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyke2076 这是什么🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 1180,
+          "like_count": 2408,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 261
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-07T18:12:07.000Z",
+        "description": "",
+        "id": "1787908199674429447",
+        "name": "amia zako",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801392118898032640/BYJhYySO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 17,
+          "like_count": 1194,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 501
+        },
+        "username": "AmiaZako4058",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "当你离去之后，你仍在我的视线里。",
+        "id": "1481172876589821952",
+        "name": "bunny",
+        "pinned_tweet_id": "1851125622191329323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3366,
+          "following_count": 890,
+          "like_count": 41212,
+          "listed_count": 6,
+          "media_count": 1921,
+          "tweet_count": 10394
+        },
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

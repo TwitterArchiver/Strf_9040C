@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049655726730358784"
+      ],
+      "media_source_tweet_id": [
+        "2049655734456263025"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2049770002665123975",
+    "created_at": "2026-04-30T08:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T09:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049770002665123975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1839085606573637632",
+          "start": 3,
+          "username": "qii1969243"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LHwWmWwuGU",
+          "end": 50,
+          "expanded_url": "https://x.com/qii1969243/status/2049655734456263025/photo/1",
+          "media_key": "3_2049655726730358784",
+          "start": 27,
+          "url": "https://t.co/LHwWmWwuGU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049770002665123975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049655734456263025",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qii1969243: 这个娜娜警官牛大了😂 https://t.co/LHwWmWwuGU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1023,
+        "media_key": "3_2049655726730358784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHHXBh-bsAAxoPG.jpg",
+        "width": 463
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049655726730358784"
+          ],
+          "media_source_tweet_id": [
+            "2049655734456263025"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2049770002665123975",
+        "created_at": "2026-04-30T08:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049770002665123975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1839085606573637632",
+              "start": 3,
+              "username": "qii1969243"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LHwWmWwuGU",
+              "end": 50,
+              "expanded_url": "https://x.com/qii1969243/status/2049655734456263025/photo/1",
+              "media_key": "3_2049655726730358784",
+              "start": 27,
+              "url": "https://t.co/LHwWmWwuGU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049770002665123975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049655734456263025",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qii1969243: 这个娜娜警官牛大了😂 https://t.co/LHwWmWwuGU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049655726730358784"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2049655734456263025",
+        "created_at": "2026-04-30T01:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T02:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049655734456263025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LHwWmWwuGU",
+              "end": 34,
+              "expanded_url": "https://x.com/qii1969243/status/2049655734456263025/photo/1",
+              "media_key": "3_2049655726730358784",
+              "start": 11,
+              "url": "https://t.co/LHwWmWwuGU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049655734456263025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2658,
+          "like_count": 55,
+          "quote_count": 4,
+          "reply_count": 16,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "这个娜娜警官牛大了😂 https://t.co/LHwWmWwuGU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A\n主人🥰@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              },
+              {
+                "end": 152,
+                "start": 143,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "2043259817121448322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1213,
+          "following_count": 1919,
+          "like_count": 8924,
+          "listed_count": 0,
+          "media_count": 460,
+          "tweet_count": 900
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/友跨/泛性恋/我割我抽/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新",
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2047394461706285556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039490693140549632/hYgO0Ks5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 313,
+          "like_count": 419,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1398
+        },
+        "username": "qii1969243",
+        "verified": false
+      }
+    ]
+  }
+}

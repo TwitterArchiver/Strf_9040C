@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1889160551709700205",
+    "created_at": "2025-02-11T03:52:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T04:52:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889160551709700205"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FTMiaoX/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/FTMiaoX/status/1889008879570485265",
+          "start": 8,
+          "url": "https://t.co/vKBDubIfoV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889160551709700205",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889008879570485265",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "您好，谁来操我 https://t.co/vKBDubIfoV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1889160551709700205",
+        "created_at": "2025-02-11T03:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T04:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889160551709700205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FTMiaoX/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/FTMiaoX/status/1889008879570485265",
+              "start": 8,
+              "url": "https://t.co/vKBDubIfoV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889160551709700205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889008879570485265",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "您好，谁来操我 https://t.co/vKBDubIfoV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889008871706087424"
+          ]
+        },
+        "author_id": "1025546987578556417",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1889008879570485265",
+        "created_at": "2025-02-10T17:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T18:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889008879570485265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IIeew05sMk",
+              "end": 25,
+              "expanded_url": "https://x.com/FTMiaoX/status/1889008879570485265/photo/1",
+              "media_key": "3_1889008871706087424",
+              "start": 2,
+              "url": "https://t.co/IIeew05sMk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889008879570485265",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3610,
+          "like_count": 102,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/IIeew05sMk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1888264013416645010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 1647,
+          "like_count": 5598,
+          "listed_count": 1,
+          "media_count": 290,
+          "tweet_count": 638
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-04T01:00:30.000Z",
+        "description": "ftx/ftm/ASD/ADHD/S/Dom/我是发条 你的温柔赛博小黑猫/一般路过肥宅/❤️属于我的@BakaHDT/发点自己喜欢的有趣东西/点alt看出处(有水印的不标 有些图我也不知道)/主页搜索“授权”可以看到我的一些转载授权/我爱你 希望你幸福快乐 提问https://t.co/a4UYlpzxKj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "BakaHDT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ftmiao",
+                "end": 155,
+                "expanded_url": "https://ngl.link/ftmiao",
+                "start": 132,
+                "url": "https://t.co/a4UYlpzxKj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LoveFTMiaoTV",
+                "end": 23,
+                "expanded_url": "https://t.me/LoveFTMiaoTV",
+                "start": 0,
+                "url": "https://t.co/OfJi4k397c"
+              }
+            ]
+          }
+        },
+        "id": "1025546987578556417",
+        "location": "关着BakaHDT的笼子旁边",
+        "name": "🏳️‍🌈发条喵🏳️‍⚧️",
+        "pinned_tweet_id": "1754185922885611679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881339664034091009/UbLEaqas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6094,
+          "following_count": 3039,
+          "like_count": 149303,
+          "listed_count": 16,
+          "media_count": 2395,
+          "tweet_count": 25693
+        },
+        "url": "https://t.co/OfJi4k397c",
+        "username": "FTMiaoX",
+        "verified": false
+      }
+    ]
+  }
+}

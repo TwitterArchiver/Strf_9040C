@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2043585051145965568"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2043585305048187232",
+    "created_at": "2026-04-13T07:01:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T08:01:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043585305048187232"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z0WibqTuEj",
+          "end": 59,
+          "expanded_url": "https://x.com/Strf_9040C/status/2043585305048187232/video/1",
+          "media_key": "13_2043585051145965568",
+          "start": 36,
+          "url": "https://t.co/Z0WibqTuEj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043585305048187232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "生命的最后一刻…\nThe last moment of life... https://t.co/Z0WibqTuEj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36166,
+        "height": 960,
+        "media_key": "13_2043585051145965568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043585051145965568/img/NZY8UEgA30FyYdik.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043585051145965568/vid/avc1/320x426/XKC8ja4XtjVtoWjj.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043585051145965568/vid/avc1/480x640/jU_3jYTI7MPzbUPV.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043585051145965568/vid/avc1/720x960/JomM-I2yJ6fTgozW.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043585051145965568/pl/zOOMuNY-49R2Pdv-.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043585051145965568"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2043585305048187232",
+        "created_at": "2026-04-13T07:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T08:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043585305048187232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z0WibqTuEj",
+              "end": 59,
+              "expanded_url": "https://x.com/Strf_9040C/status/2043585305048187232/video/1",
+              "media_key": "13_2043585051145965568",
+              "start": 36,
+              "url": "https://t.co/Z0WibqTuEj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043585305048187232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生命的最后一刻…\nThe last moment of life... https://t.co/Z0WibqTuEj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "2043259817121448322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1123,
+          "following_count": 1710,
+          "like_count": 6118,
+          "listed_count": 0,
+          "media_count": 404,
+          "tweet_count": 799
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

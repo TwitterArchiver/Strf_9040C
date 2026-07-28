@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1871011185241551036",
+    "created_at": "2024-12-23T01:53:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-23T02:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1871011185241551036"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Strf_9040C/sta…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/Strf_9040C/status/1870646464889983243",
+          "start": 57,
+          "url": "https://t.co/JV8GQI9XXk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871011185241551036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870646464889983243",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还真是像麦克阿瑟说的那样\n圣诞节前没法回家了\n我妈突发急性眩晕没法办手续\n撇我一个人在这又出不了院\n这下彻底完了 https://t.co/JV8GQI9XXk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1871011185241551036",
+        "created_at": "2024-12-23T01:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-23T02:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871011185241551036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Strf_9040C/sta…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/Strf_9040C/status/1870646464889983243",
+              "start": 57,
+              "url": "https://t.co/JV8GQI9XXk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871011185241551036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870646464889983243",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还真是像麦克阿瑟说的那样\n圣诞节前没法回家了\n我妈突发急性眩晕没法办手续\n撇我一个人在这又出不了院\n这下彻底完了 https://t.co/JV8GQI9XXk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1870646464889983243",
+        "created_at": "2024-12-22T01:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T02:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870646464889983243"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1870646464889983243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果运气好的话\n二十五号就可以回家了\n因为我是五号入院\n一个疗程 20 天\n输液是一个疗程\n我妈说最起码一个疗程做完再回家\n（感觉莫名像麦克阿瑟那句小伙子们圣诞节前可以回家）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 483,
+          "like_count": 514,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 74
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054233363846983682",
+        "3_2054233364207751168"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2054233366514524342",
+    "created_at": "2026-05-12T16:12:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T17:12:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054233366514524342"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/srqNoiIqzY",
+          "end": 168,
+          "expanded_url": "https://x.com/Strf_9040C/status/2054233366514524342/photo/1",
+          "media_key": "3_2054233363846983682",
+          "start": 145,
+          "url": "https://t.co/srqNoiIqzY"
+        },
+        {
+          "display_url": "pic.x.com/srqNoiIqzY",
+          "end": 168,
+          "expanded_url": "https://x.com/Strf_9040C/status/2054233366514524342/photo/1",
+          "media_key": "3_2054233364207751168",
+          "start": 145,
+          "url": "https://t.co/srqNoiIqzY"
+        },
+        {
+          "display_url": "x.com/A_Asystem/stat…",
+          "end": 192,
+          "expanded_url": "https://twitter.com/A_Asystem/status/2054165482794799430",
+          "start": 169,
+          "url": "https://t.co/bXIXxmDTpr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054233366514524342",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054165482794799430",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "《急诊医学》 （北京大学医学出版社）\n《急诊医学》 （高等教育出版社）\n《急危重病临床救治》 \n《急诊与灾难医学》 （人民卫生出版社）\n《急救医学》 （高等教育出版社）\n《急诊医学》 （国家卫生健康委员会“十四五”规划教材）\n《急诊医学》 （北京大学医学出版社）\n《美国应急医学救援教材》 https://t.co/srqNoiIqzY https://t.co/bXIXxmDTpr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2054233363846983682",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIIaXFHa8AIe45b.jpg",
+        "width": 800
+      },
+      {
+        "height": 800,
+        "media_key": "3_2054233364207751168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIIaXGdb0AAOJWo.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054233363846983682",
+            "3_2054233364207751168"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2054233366514524342",
+        "created_at": "2026-05-12T16:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054233366514524342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/srqNoiIqzY",
+              "end": 168,
+              "expanded_url": "https://x.com/Strf_9040C/status/2054233366514524342/photo/1",
+              "media_key": "3_2054233363846983682",
+              "start": 145,
+              "url": "https://t.co/srqNoiIqzY"
+            },
+            {
+              "display_url": "pic.x.com/srqNoiIqzY",
+              "end": 168,
+              "expanded_url": "https://x.com/Strf_9040C/status/2054233366514524342/photo/1",
+              "media_key": "3_2054233364207751168",
+              "start": 145,
+              "url": "https://t.co/srqNoiIqzY"
+            },
+            {
+              "display_url": "x.com/A_Asystem/stat…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/A_Asystem/status/2054165482794799430",
+              "start": 169,
+              "url": "https://t.co/bXIXxmDTpr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054233366514524342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054165482794799430",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《急诊医学》 （北京大学医学出版社）\n《急诊医学》 （高等教育出版社）\n《急危重病临床救治》 \n《急诊与灾难医学》 （人民卫生出版社）\n《急救医学》 （高等教育出版社）\n《急诊医学》 （国家卫生健康委员会“十四五”规划教材）\n《急诊医学》 （北京大学医学出版社）\n《美国应急医学救援教材》 https://t.co/srqNoiIqzY https://t.co/bXIXxmDTpr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868701291830206464",
+        "conversation_id": "2053692161615683832",
+        "created_at": "2026-05-12T11:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T12:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054165482794799430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721895937357004800",
+              "start": 0,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054165482794799430",
+        "in_reply_to_user_id": "1721895937357004800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053692161615683832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strf_9040C 请问是否有相关教材推荐，谢谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A\n主人🥰@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              },
+              {
+                "end": 152,
+                "start": 143,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "2054229618073522555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 1993,
+          "like_count": 9677,
+          "listed_count": 2,
+          "media_count": 471,
+          "tweet_count": 924
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T16:54:52.000Z",
+        "description": "这里还是一只喜欢打牌的含糖🍥小熊🧸@Ereaurora的新账号/\n主要发推记录日常或当做树洞/\n偶尔读社会科学/\n炉石 影之诗 ptcg(国际服环境) lor 万智牌(xmage和untap上玩edh) \n以及一些小众卡牌游戏均有涉猎\n(不会三国杀和游戏王qwq)/\n卡牌游戏及steam加好友或互fo请私信哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Ereaurora"
+              }
+            ]
+          }
+        },
+        "id": "1868701291830206464",
+        "location": "1m",
+        "name": "Aurora&Andromeda🧸🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1905421355195269408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868702280343801856/VCqgJsef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 575,
+          "like_count": 10602,
+          "listed_count": 7,
+          "media_count": 122,
+          "tweet_count": 6069
+        },
+        "username": "A_Asystem",
+        "verified": false
+      }
+    ]
+  }
+}

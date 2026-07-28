@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079266463668695041",
+        "3_2079266464180379649"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079266507041931441",
+    "created_at": "2026-07-20T18:05:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T19:05:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079266507041931441"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1idwWOOFwS",
+          "end": 30,
+          "expanded_url": "https://x.com/Strf_9040C/status/2079266507041931441/photo/1",
+          "media_key": "3_2079266463668695041",
+          "start": 7,
+          "url": "https://t.co/1idwWOOFwS"
+        },
+        {
+          "display_url": "pic.x.com/1idwWOOFwS",
+          "end": 30,
+          "expanded_url": "https://x.com/Strf_9040C/status/2079266507041931441/photo/1",
+          "media_key": "3_2079266464180379649",
+          "start": 7,
+          "url": "https://t.co/1idwWOOFwS"
+        },
+        {
+          "display_url": "x.com/Strf_9040C/sta…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/Strf_9040C/status/2078005348888453406",
+          "start": 31,
+          "url": "https://t.co/KpRfamJFl2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079266507041931441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078005348888453406",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "飞利浦也干了 https://t.co/1idwWOOFwS https://t.co/KpRfamJFl2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 724,
+        "media_key": "3_2079266463668695041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsJ1RBa8AEwRny.jpg",
+        "width": 1440
+      },
+      {
+        "height": 970,
+        "media_key": "3_2079266464180379649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsJ1S7aoAEuYk2.jpg",
+        "width": 1440
+      },
+      {
+        "height": 958,
+        "media_key": "3_2078005197960519680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNaOt8HaIAAzWIZ.jpg",
+        "width": 1280
+      },
+      {
+        "height": 961,
+        "media_key": "3_2078005197767618560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNaOt7ZasAABAEp.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079266463668695041",
+            "3_2079266464180379649"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079266507041931441",
+        "created_at": "2026-07-20T18:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079266507041931441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1idwWOOFwS",
+              "end": 30,
+              "expanded_url": "https://x.com/Strf_9040C/status/2079266507041931441/photo/1",
+              "media_key": "3_2079266463668695041",
+              "start": 7,
+              "url": "https://t.co/1idwWOOFwS"
+            },
+            {
+              "display_url": "pic.x.com/1idwWOOFwS",
+              "end": 30,
+              "expanded_url": "https://x.com/Strf_9040C/status/2079266507041931441/photo/1",
+              "media_key": "3_2079266464180379649",
+              "start": 7,
+              "url": "https://t.co/1idwWOOFwS"
+            },
+            {
+              "display_url": "x.com/Strf_9040C/sta…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/Strf_9040C/status/2078005348888453406",
+              "start": 31,
+              "url": "https://t.co/KpRfamJFl2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079266507041931441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078005348888453406",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "飞利浦也干了 https://t.co/1idwWOOFwS https://t.co/KpRfamJFl2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078005197960519680",
+            "3_2078005197767618560"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078005348888453406",
+        "created_at": "2026-07-17T06:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078005348888453406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SaSfiRsCIa",
+              "end": 53,
+              "expanded_url": "https://x.com/Strf_9040C/status/2078005348888453406/photo/1",
+              "media_key": "3_2078005197960519680",
+              "start": 30,
+              "url": "https://t.co/SaSfiRsCIa"
+            },
+            {
+              "display_url": "pic.x.com/SaSfiRsCIa",
+              "end": 53,
+              "expanded_url": "https://x.com/Strf_9040C/status/2078005348888453406/photo/1",
+              "media_key": "3_2078005197767618560",
+              "start": 30,
+              "url": "https://t.co/SaSfiRsCIa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078005348888453406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1895,
+          "like_count": 33,
+          "quote_count": 3,
+          "reply_count": 50,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "市电不知道为何窜到迈瑞心电模块\n导致迈瑞给国家电网做心电图 https://t.co/SaSfiRsCIa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2076732270384464027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1613,
+          "following_count": 2463,
+          "like_count": 13815,
+          "listed_count": 2,
+          "media_count": 657,
+          "tweet_count": 1169
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

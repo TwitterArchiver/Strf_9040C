@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079466264612028416"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2079466291090612426",
+    "created_at": "2026-07-21T07:19:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T08:19:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079466291090612426"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VzaarFBXVv",
+          "end": 31,
+          "expanded_url": "https://x.com/Strf_9040C/status/2079466291090612426/video/1",
+          "media_key": "13_2079466264612028416",
+          "start": 8,
+          "url": "https://t.co/VzaarFBXVv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079466291090612426",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "半岛小伙当量大 https://t.co/VzaarFBXVv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16160,
+        "height": 720,
+        "media_key": "13_2079466264612028416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079466264612028416/img/unJGxUort1SdCTxe.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079466264612028416/vid/avc1/284x270/I4eop-IRK1MBI-ft.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079466264612028416/vid/avc1/378x360/2K4mA7ncfzjoTWja.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079466264612028416/vid/avc1/758x720/3jYxJ43BQ-i0Obq-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079466264612028416/pl/hzBgLHIs89aLCZzu.m3u8"
+          }
+        ],
+        "width": 758
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079466264612028416"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2079466291090612426",
+        "created_at": "2026-07-21T07:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079466291090612426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VzaarFBXVv",
+              "end": 31,
+              "expanded_url": "https://x.com/Strf_9040C/status/2079466291090612426/video/1",
+              "media_key": "13_2079466264612028416",
+              "start": 8,
+              "url": "https://t.co/VzaarFBXVv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079466291090612426",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "半岛小伙当量大 https://t.co/VzaarFBXVv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2076732270384464027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1617,
+          "following_count": 2470,
+          "like_count": 13921,
+          "listed_count": 2,
+          "media_count": 658,
+          "tweet_count": 1170
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

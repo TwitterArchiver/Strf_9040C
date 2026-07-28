@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1873317143829451156",
+    "created_at": "2024-12-29T13:21:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T14:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873358773814952027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1694582703843381248",
+          "start": 0,
+          "username": "SarahAguil32516"
+        },
+        {
+          "end": 27,
+          "id": "1615704614766260225",
+          "start": 17,
+          "username": "RanXi_MtF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873358773814952027",
+    "in_reply_to_user_id": "1694582703843381248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873317143829451156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SarahAguil32516 @RanXi_MtF 抗抑郁推荐的是文拉法辛\n抗焦虑推荐的是坦度螺酮或者丁螺环酮\n多巴胺药物形式给药不会有欣快感\n药物给药更多的是升压作用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1873317143829451156",
+        "created_at": "2024-12-29T13:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T14:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873358773814952027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1694582703843381248",
+              "start": 0,
+              "username": "SarahAguil32516"
+            },
+            {
+              "end": 27,
+              "id": "1615704614766260225",
+              "start": 17,
+              "username": "RanXi_MtF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873358773814952027",
+        "in_reply_to_user_id": "1694582703843381248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873317143829451156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SarahAguil32516 @RanXi_MtF 抗抑郁推荐的是文拉法辛\n抗焦虑推荐的是坦度螺酮或者丁螺环酮\n多巴胺药物形式给药不会有欣快感\n药物给药更多的是升压作用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694582703843381248",
+        "conversation_id": "1873317143829451156",
+        "created_at": "2024-12-29T10:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T11:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873317143829451156"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1873317143829451156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 78,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "话说有什么能有效抑制悲观情绪和偶尔情绪崩溃的药嘛，现在我这个心理状况不太好。。。需要这些东西来辅助。\n多巴胺，催产素什么的如果做成凝胶的话药效会减弱嘛？要是可以的话，我就搞点这些过来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 749,
+          "like_count": 1234,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 153
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-24T05:30:34.000Z",
+        "description": "MTF猫猫！呜嘿嘿，想和同类一起贴贴喵～\n励志当一只药攻！呜喵！\n是西伯利亚森林猫猫nia！也是一只喜欢gal和音游的猫猫哦～\n要是决定和猫猫在一起的话。。。猫猫不会抛下你的喵！绝对！\n这是对你的诺言哦～@AnchovyOvo67393 \n诶嘿嘿～欢迎私信骚扰哦喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 102,
+                "username": "AnchovyOvo67393"
+              }
+            ]
+          }
+        },
+        "id": "1694582703843381248",
+        "location": "哈乐滨qwq",
+        "name": "时御澪🍥",
+        "pinned_tweet_id": "1844735551951560978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718193774961270784/npxvQCK9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 99,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 229
+        },
+        "username": "SarahAguil32516",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-18T13:36:22.000Z",
+        "description": "INFP｜喜欢摄影📷｜NIKON Z6/D500｜24.8.18三次含糖｜很久没出现就是似了｜\n@Avocado88458510 ｜@nekomakiQAQ｜@Fly0001985",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 48,
+                "username": "Avocado88458510"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "nekomakiQAQ"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "Fly0001985"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nikon.com.cn",
+                "end": 23,
+                "expanded_url": "http://www.nikon.com.cn",
+                "start": 0,
+                "url": "https://t.co/Zgvx3G8dKD"
+              }
+            ]
+          }
+        },
+        "id": "1615704614766260225",
+        "location": "日本国东京都港区港南2-15-3 品川城际",
+        "name": "RanXi｜OS",
+        "pinned_tweet_id": "1865343341266890803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855872280091611136/HAWjWyfR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 713,
+          "like_count": 16499,
+          "listed_count": 4,
+          "media_count": 615,
+          "tweet_count": 3935
+        },
+        "url": "https://t.co/Zgvx3G8dKD",
+        "username": "RanXi_MtF",
+        "verified": false
+      }
+    ]
+  }
+}

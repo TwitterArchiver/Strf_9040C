@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1872614114641780874",
+    "created_at": "2024-12-27T12:02:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T13:02:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872614114641780874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1668162892901023744",
+          "start": 3,
+          "username": "TSJ_JING"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872614114641780874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872587320685457582",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TSJ_JING: 元旦抽奖来啦，把上次剩的赞助费抽完\n\n🎁提前预祝大家元旦快乐！🎁\n一等奖🎁500红包🧧×1🎁\n二等奖🎁88.8红包🧧×3🎁\n三等奖🎁52.0红包🧧×3🎁\n\n除此之外会在私信区抽一个特别奖！\n🎁1000元🧧🎁\n因为上次没讲清楚：规则是先私信我许愿说出自…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1872614114641780874].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1872614114641780874",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1872614114641780874"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872587317522894848"
+          ]
+        },
+        "author_id": "1668162892901023744",
+        "conversation_id": "1872587320685457582",
+        "created_at": "2024-12-27T10:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T11:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872587320685457582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9F3Kd0hc1q",
+              "end": 174,
+              "expanded_url": "https://x.com/TSJ_JING/status/1872587320685457582/photo/1",
+              "media_key": "3_1872587317522894848",
+              "start": 151,
+              "url": "https://t.co/9F3Kd0hc1q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872587320685457582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 338,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "元旦抽奖来啦，把上次剩的赞助费抽完\n\n🎁提前预祝大家元旦快乐！🎁\n一等奖🎁500红包🧧×1🎁\n二等奖🎁88.8红包🧧×3🎁\n三等奖🎁52.0红包🧧×3🎁\n\n除此之外会在私信区抽一个特别奖！\n🎁1000元🧧🎁\n因为上次没讲清楚：规则是先私信我许愿说出自己的千元以内的愿望，我在私信里面挑一个去帮他实现。 https://t.co/9F3Kd0hc1q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 561,
+          "like_count": 685,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 119
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-12T07:47:00.000Z",
+        "description": "养了两只喵，欢迎私信互fo，接心理咨询，情感咨询，算命，看相，测字",
+        "id": "1668162892901023744",
+        "name": "god of luck",
+        "pinned_tweet_id": "1828117156493697455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871059939416051712/TT_Xg8aV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 220,
+          "like_count": 820,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 783
+        },
+        "username": "TSJ_JING",
+        "verified": false
+      }
+    ]
+  }
+}

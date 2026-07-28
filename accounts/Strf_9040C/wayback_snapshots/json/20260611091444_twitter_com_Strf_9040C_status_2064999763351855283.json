@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2064999524897280000"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2064999763351855283",
+    "created_at": "2026-06-11T09:14:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T10:14:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064999763351855283"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6ybWhacxPy",
+          "end": 51,
+          "expanded_url": "https://x.com/Strf_9040C/status/2064999763351855283/video/1",
+          "media_key": "7_2064999524897280000",
+          "start": 28,
+          "url": "https://t.co/6ybWhacxPy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064999763351855283",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "日语真的是这么读的吗\n日本語は本当にそう読むのですか？ https://t.co/6ybWhacxPy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 42318,
+        "height": 864,
+        "media_key": "7_2064999524897280000",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2064999524897280000/pu/img/fPuWFTuklERVOb2-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064999524897280000/pu/vid/avc1/320x384/Uzs3arDdfd69wxtV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064999524897280000/pu/vid/avc1/480x576/sxVuPtjtwkmzOYGU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064999524897280000/pu/vid/avc1/720x864/tn4mSFmH0_a8TGwj.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2064999524897280000/pu/pl/V6xwTsEKfAL5CAyK.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2064999524897280000"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2064999763351855283",
+        "created_at": "2026-06-11T09:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T10:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064999763351855283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6ybWhacxPy",
+              "end": 51,
+              "expanded_url": "https://x.com/Strf_9040C/status/2064999763351855283/video/1",
+              "media_key": "7_2064999524897280000",
+              "start": 28,
+              "url": "https://t.co/6ybWhacxPy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064999763351855283",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日语真的是这么读的吗\n日本語は本当にそう読むのですか？ https://t.co/6ybWhacxPy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2057928692089905225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1521,
+          "following_count": 2313,
+          "like_count": 11995,
+          "listed_count": 2,
+          "media_count": 605,
+          "tweet_count": 1110
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

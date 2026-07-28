@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055940952758652928",
+        "3_2055940929018826752",
+        "3_2055940960698462208"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2055940963479257165",
+    "created_at": "2026-05-17T09:18:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T10:18:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055940963479257165"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YoDNuizk40",
+          "end": 38,
+          "expanded_url": "https://x.com/Strf_9040C/status/2055940963479257165/photo/1",
+          "media_key": "3_2055940952758652928",
+          "start": 15,
+          "url": "https://t.co/YoDNuizk40"
+        },
+        {
+          "display_url": "pic.x.com/YoDNuizk40",
+          "end": 38,
+          "expanded_url": "https://x.com/Strf_9040C/status/2055940963479257165/photo/1",
+          "media_key": "3_2055940929018826752",
+          "start": 15,
+          "url": "https://t.co/YoDNuizk40"
+        },
+        {
+          "display_url": "pic.x.com/YoDNuizk40",
+          "end": 38,
+          "expanded_url": "https://x.com/Strf_9040C/status/2055940963479257165/photo/1",
+          "media_key": "3_2055940960698462208",
+          "start": 15,
+          "url": "https://t.co/YoDNuizk40"
+        },
+        {
+          "display_url": "x.com/Strf_9040C/sta…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/Strf_9040C/status/2055350786058768833",
+          "start": 39,
+          "url": "https://t.co/TsJHPkvgjv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055940963479257165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055350786058768833",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就说我🌟😡没白当吧\n（喜） https://t.co/YoDNuizk40 https://t.co/TsJHPkvgjv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 799,
+        "media_key": "3_2055940952758652928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgrZ1hbkAAFyZb.jpg",
+        "width": 2048
+      },
+      {
+        "height": 799,
+        "media_key": "3_2055940929018826752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgrYdFakAAo6qz.jpg",
+        "width": 2048
+      },
+      {
+        "height": 799,
+        "media_key": "3_2055940960698462208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgraTGbcAAB_s_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 799,
+        "media_key": "3_2055350782959202304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIYSpbsasAArYW2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055940952758652928",
+            "3_2055940929018826752",
+            "3_2055940960698462208"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055940963479257165",
+        "created_at": "2026-05-17T09:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055940963479257165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YoDNuizk40",
+              "end": 38,
+              "expanded_url": "https://x.com/Strf_9040C/status/2055940963479257165/photo/1",
+              "media_key": "3_2055940952758652928",
+              "start": 15,
+              "url": "https://t.co/YoDNuizk40"
+            },
+            {
+              "display_url": "pic.x.com/YoDNuizk40",
+              "end": 38,
+              "expanded_url": "https://x.com/Strf_9040C/status/2055940963479257165/photo/1",
+              "media_key": "3_2055940929018826752",
+              "start": 15,
+              "url": "https://t.co/YoDNuizk40"
+            },
+            {
+              "display_url": "pic.x.com/YoDNuizk40",
+              "end": 38,
+              "expanded_url": "https://x.com/Strf_9040C/status/2055940963479257165/photo/1",
+              "media_key": "3_2055940960698462208",
+              "start": 15,
+              "url": "https://t.co/YoDNuizk40"
+            },
+            {
+              "display_url": "x.com/Strf_9040C/sta…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/Strf_9040C/status/2055350786058768833",
+              "start": 39,
+              "url": "https://t.co/TsJHPkvgjv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055940963479257165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055350786058768833",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就说我🌟😡没白当吧\n（喜） https://t.co/YoDNuizk40 https://t.co/TsJHPkvgjv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055350782959202304"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055290384532852779",
+        "created_at": "2026-05-15T18:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T19:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055350786058768833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1960727612608929794",
+              "start": 0,
+              "username": "Hazy960793"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fY78yfoKWv",
+              "end": 51,
+              "expanded_url": "https://x.com/Strf_9040C/status/2055350786058768833/photo/1",
+              "media_key": "3_2055350782959202304",
+              "start": 28,
+              "url": "https://t.co/fY78yfoKWv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055350786058768833",
+        "in_reply_to_user_id": "1960727612608929794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4183,
+          "like_count": 27,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055290384532852779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hazy960793 通过打《战争雷霆》的方式来自慰 https://t.co/fY78yfoKWv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2054846201502306755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301,
+          "following_count": 2042,
+          "like_count": 10120,
+          "listed_count": 2,
+          "media_count": 498,
+          "tweet_count": 956
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

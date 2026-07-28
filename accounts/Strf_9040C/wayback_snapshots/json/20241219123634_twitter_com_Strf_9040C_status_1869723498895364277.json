@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1869723498895364277",
+    "created_at": "2024-12-19T12:36:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T13:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1869723498895364277"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "没用的小知识"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Strf_9040C/sta…",
+          "end": 142,
+          "expanded_url": "https://twitter.com/Strf_9040C/status/1869684478517576140",
+          "start": 119,
+          "url": "https://t.co/jCgaSvQurI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869723498895364277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869684478517576140",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#没用的小知识\n亚硝酸钠（Sodium Nitrite）是由德国化学家**约翰·戈特利布·兰伯特**（Johann Gottlieb Lehmann）于**1834年**首次发现的。他在实验中发现了亚硝酸钠的存在，并对其进行了初步的研究 https://t.co/jCgaSvQurI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1869723498895364277",
+        "created_at": "2024-12-19T12:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T13:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869723498895364277"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "没用的小知识"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Strf_9040C/sta…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/Strf_9040C/status/1869684478517576140",
+              "start": 119,
+              "url": "https://t.co/jCgaSvQurI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869723498895364277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869684478517576140",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#没用的小知识\n亚硝酸钠（Sodium Nitrite）是由德国化学家**约翰·戈特利布·兰伯特**（Johann Gottlieb Lehmann）于**1834年**首次发现的。他在实验中发现了亚硝酸钠的存在，并对其进行了初步的研究 https://t.co/jCgaSvQurI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1869684478517576140",
+        "created_at": "2024-12-19T10:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T11:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869684478517576140"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "没用的小知识"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869684478517576140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#没用的小知识\nStrf9040C的推特首页的网址会定向至瑞典国防军对于Strf9040C的介绍页面"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869344088295956831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 255,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 35
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

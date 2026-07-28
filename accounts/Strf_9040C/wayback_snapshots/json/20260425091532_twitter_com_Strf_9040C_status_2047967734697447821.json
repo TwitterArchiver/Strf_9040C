@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "2047967734697447821",
+    "created_at": "2026-04-25T09:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T10:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047967734697447821"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kwi_cattt/stat…",
+          "end": 185,
+          "expanded_url": "https://twitter.com/kwi_cattt/status/1884815302560768412",
+          "start": 162,
+          "url": "https://t.co/KeHej9XM6c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047967734697447821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884815302560768412",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "由于是胃内压升高造成的喷射性呕吐，甲氧是中枢神经止吐药，所以无效\n总反应：5NaNO₂ + 5HCl + O₂ =5NaCl + 3HNO₃ + 2NO↑ + H₂O\n胃部核心：顽固性胃胀气、胃内高压、阵发性绞痛、典型喷射性呕吐，胃黏膜出血；\n全身核心：诱发高铁血红蛋白血症，快速出现全身青紫、头晕胸闷、呼吸困难、意识模糊 https://t.co/KeHej9XM6c"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "2047967734697447821",
+        "created_at": "2026-04-25T09:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T10:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047967734697447821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kwi_cattt/stat…",
+              "end": 185,
+              "expanded_url": "https://twitter.com/kwi_cattt/status/1884815302560768412",
+              "start": 162,
+              "url": "https://t.co/KeHej9XM6c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047967734697447821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884815302560768412",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "由于是胃内压升高造成的喷射性呕吐，甲氧是中枢神经止吐药，所以无效\n总反应：5NaNO₂ + 5HCl + O₂ =5NaCl + 3HNO₃ + 2NO↑ + H₂O\n胃部核心：顽固性胃胀气、胃内高压、阵发性绞痛、典型喷射性呕吐，胃黏膜出血；\n全身核心：诱发高铁血红蛋白血症，快速出现全身青紫、头晕胸闷、呼吸困难、意识模糊 https://t.co/KeHej9XM6c"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571484780050407424",
+        "conversation_id": "1884211140915519505",
+        "created_at": "2025-01-30T04:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T05:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884815302560768412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721895937357004800",
+              "start": 0,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884815302560768412",
+        "in_reply_to_user_id": "1721895937357004800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 216,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884211140915519505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strf_9040C 提前吃甲氧好像是有用的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "2043259817121448322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1179,
+          "following_count": 1859,
+          "like_count": 8414,
+          "listed_count": 0,
+          "media_count": 449,
+          "tweet_count": 878
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-18T13:02:29.000Z",
+        "description": "我忘掉了过往 也忘掉了中国的互联网 |  血图@ivy_falling",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "ivy_falling"
+              }
+            ]
+          }
+        },
+        "id": "1571484780050407424",
+        "location": "🚪66",
+        "name": "薄荷加特林",
+        "pinned_tweet_id": "1900236686313087372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886295551526027264/M__bIICb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 104,
+          "like_count": 301,
+          "listed_count": 3,
+          "media_count": 466,
+          "tweet_count": 4479
+        },
+        "username": "kwi_cattt",
+        "verified": false
+      }
+    ]
+  }
+}

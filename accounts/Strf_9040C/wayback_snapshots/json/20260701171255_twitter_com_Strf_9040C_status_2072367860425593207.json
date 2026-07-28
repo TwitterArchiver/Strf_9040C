@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072367855618904064"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2072161981004644411",
+    "created_at": "2026-07-01T17:12:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T18:12:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072367860425593207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1672761170040692739",
+          "start": 0,
+          "username": "FrankkkkkkLau"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i1XKwNd2lN",
+          "end": 45,
+          "expanded_url": "https://x.com/Strf_9040C/status/2072367860425593207/photo/1",
+          "media_key": "3_2072367855618904064",
+          "start": 22,
+          "url": "https://t.co/i1XKwNd2lN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072367860425593207",
+    "in_reply_to_user_id": "1672761170040692739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072161981004644411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FrankkkkkkLau 刚试了还可以 https://t.co/i1XKwNd2lN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1005,
+        "media_key": "3_2072367855618904064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKHlbYaUAAMJFg.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1192,
+        "media_key": "3_2072161744676585472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHMIMSaAAAI0ih.jpg",
+        "width": 2380
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072367855618904064"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2072161981004644411",
+        "created_at": "2026-07-01T17:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072367860425593207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i1XKwNd2lN",
+              "end": 45,
+              "expanded_url": "https://x.com/Strf_9040C/status/2072367860425593207/photo/1",
+              "media_key": "3_2072367855618904064",
+              "start": 22,
+              "url": "https://t.co/i1XKwNd2lN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072367860425593207",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072161981004644411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 刚试了还可以 https://t.co/i1XKwNd2lN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072161744676585472"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2072161981004644411",
+        "created_at": "2026-07-01T03:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T04:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072161981004644411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/udgtCOfN0r",
+              "end": 37,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2072161981004644411/photo/1",
+              "media_key": "3_2072161744676585472",
+              "start": 14,
+              "url": "https://t.co/udgtCOfN0r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072161981004644411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 992,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么注册新账号要用手机了😟 https://t.co/udgtCOfN0r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2057928692089905225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 2372,
+          "like_count": 12902,
+          "listed_count": 2,
+          "media_count": 642,
+          "tweet_count": 1156
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 544,
+          "like_count": 5891,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 1204
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

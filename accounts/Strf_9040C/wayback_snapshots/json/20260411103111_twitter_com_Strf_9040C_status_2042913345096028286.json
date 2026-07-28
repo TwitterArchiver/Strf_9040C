@@ -1,0 +1,116 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "2042913345096028286",
+    "created_at": "2026-04-11T10:31:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T11:31:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042913345096028286"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042913345096028286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看见评论区里有很多人问，在这里给大家统一回复一下 [呲牙]\n退出大洋国籍程序如下：1.填写《大洋国籍申请书》2.提交书面申请 3.提交证明 4.缴纳退籍费五十英镑，退籍证书200英镑 5.受国籍退出申请的机关为伦敦市，真理部，在国外为大洋国外交代表机构和领事机关。\n申请由友爱部负责审批"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "2042913345096028286",
+        "created_at": "2026-04-11T10:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042913345096028286"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042913345096028286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看见评论区里有很多人问，在这里给大家统一回复一下 [呲牙]\n退出大洋国籍程序如下：1.填写《大洋国籍申请书》2.提交书面申请 3.提交证明 4.缴纳退籍费五十英镑，退籍证书200英镑 5.受国籍退出申请的机关为伦敦市，真理部，在国外为大洋国外交代表机构和领事机关。\n申请由友爱部负责审批"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1888264013416645010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 1676,
+          "like_count": 5848,
+          "listed_count": 0,
+          "media_count": 393,
+          "tweet_count": 785
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

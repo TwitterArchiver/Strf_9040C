@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "2080452175604720065",
+    "created_at": "2026-07-24T15:54:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T16:54:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080683123915076076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2056749305785167874",
+          "start": 0,
+          "username": "freedomtank8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080683123915076076",
+    "in_reply_to_user_id": "2056749305785167874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080452175604720065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@freedomtank8964 压画质给牢邓压成伪人了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 62225,
+        "height": 720,
+        "media_key": "13_2080452088870604800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080452088870604800/img/CFi4ZN-7eSroe2_-.jpg",
+        "public_metrics": {
+          "view_count": 334
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080452088870604800/vid/avc1/398x270/mePmp3PsruVF2Dyv.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080452088870604800/vid/avc1/532x360/WnRym6LRjyp0PnyI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080452088870604800/vid/avc1/1064x720/Yk_M1ZhjhDP-Yy8e.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080452088870604800/pl/CRKVXyg_7iE-ciuE.m3u8"
+          }
+        ],
+        "width": 1064
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "2080452175604720065",
+        "created_at": "2026-07-24T15:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080683123915076076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2056749305785167874",
+              "start": 0,
+              "username": "freedomtank8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080683123915076076",
+        "in_reply_to_user_id": "2056749305785167874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080452175604720065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@freedomtank8964 压画质给牢邓压成伪人了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080452088870604800"
+          ]
+        },
+        "author_id": "2056749305785167874",
+        "conversation_id": "2080452175604720065",
+        "created_at": "2026-07-24T00:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T01:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080452175604720065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jmO5OzS7Xd",
+              "end": 37,
+              "expanded_url": "https://x.com/freedomtank8964/status/2080452175604720065/video/1",
+              "media_key": "13_2080452088870604800",
+              "start": 14,
+              "url": "https://t.co/jmO5OzS7Xd"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "01120f703ae9184a"
+        },
+        "id": "2080452175604720065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 491,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这期是我定制的8964特辑 https://t.co/jmO5OzS7Xd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2076732270384464027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1625,
+          "following_count": 2479,
+          "like_count": 14199,
+          "listed_count": 2,
+          "media_count": 670,
+          "tweet_count": 1183
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T14:50:36.000Z",
+        "description": "右翼自由派/主张言论自由/专业梗图制作/🍑粉/邓黑，喜欢制作一些黑色幽默的视频，我的视频允许转发，喜欢看梗图的fo我\n长期制作讽刺中共视频，喜欢键政，民主万岁，小号@superkillerdxp\n坦克世界总设计师、党内走资派、修正主义分子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 82,
+                "username": "superkillerdxp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/cy7891q",
+                "end": 23,
+                "expanded_url": "https://t.me/cy7891q",
+                "start": 0,
+                "url": "https://t.co/2iWdj9TFyH"
+              }
+            ]
+          }
+        },
+        "id": "2056749305785167874",
+        "location": "天安门长安街",
+        "name": "邓碾平（坦克的主人）🏳️‍⚧️",
+        "pinned_tweet_id": "2080548712187928898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080503812398125056/2LwhTE_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 162,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 569
+        },
+        "url": "https://t.co/2iWdj9TFyH",
+        "username": "freedomtank8964",
+        "verified": true
+      }
+    ]
+  }
+}

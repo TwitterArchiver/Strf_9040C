@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "2055850070164271335",
+    "created_at": "2026-05-17T03:17:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T04:17:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055850070164271335"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kawail_Yachiyo…",
+          "end": 140,
+          "expanded_url": "https://twitter.com/kawail_Yachiyo/status/2055838241903833360",
+          "start": 117,
+          "url": "https://t.co/V6TmleJ46O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055850070164271335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055838241903833360",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你明确承认了“没有看专家共识、没有学毒理药理、没有翻精神病学”，并以“没时间学”作为借口\n \n但这不是理由，缺乏专业知识的自发救助不仅无效，往往更具危险性\n你这种恼羞成怒的反应证明，你并不具备心理干预所需的稳定性、共情能力和专业素养 https://t.co/V6TmleJ46O"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "2055850070164271335",
+        "created_at": "2026-05-17T03:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055850070164271335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kawail_Yachiyo…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/kawail_Yachiyo/status/2055838241903833360",
+              "start": 117,
+              "url": "https://t.co/V6TmleJ46O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055850070164271335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055838241903833360",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你明确承认了“没有看专家共识、没有学毒理药理、没有翻精神病学”，并以“没时间学”作为借口\n \n但这不是理由，缺乏专业知识的自发救助不仅无效，往往更具危险性\n你这种恼羞成怒的反应证明，你并不具备心理干预所需的稳定性、共情能力和专业素养 https://t.co/V6TmleJ46O"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974380290031132672",
+        "conversation_id": "2055838241903833360",
+        "created_at": "2026-05-17T02:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055838241903833360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Strf_9040C/sta…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/Strf_9040C/status/2053527981717680140",
+              "start": 135,
+              "url": "https://t.co/TbP25Nq1nY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055838241903833360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053527981717680140",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是的 没错\n我是没有看专家共识\n我也没有学毒理药理\n我也没有翻精神病学\n你他妈搞得好像我有时间去学一样\n有本事你去学啊 你叫你妈呢\n傻逼他妈是不是欠屠了\n来推特上展示你的傻逼本质有意思吗\n一看就是来推特天天看片的那种\n你父母是不是想被我操飞了\n哦对 你没父母 我操不了 https://t.co/TbP25Nq1nY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2054846201502306755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 2037,
+          "like_count": 10015,
+          "listed_count": 2,
+          "media_count": 496,
+          "tweet_count": 956
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T07:45:32.000Z",
+        "description": "八年級初中生｜重度抑鬱症｜不一定即時互fo｜pepoyo粉絲｜成分正常可互fo｜全力支持LGBTQ+ 社區｜聯繫我：lzeyu2811@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@lzy-u4q",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/@lzy-u4q",
+                "start": 0,
+                "url": "https://t.co/uMYDt9cawl"
+              }
+            ]
+          }
+        },
+        "id": "1974380290031132672",
+        "location": "仮想空間＜ツクヨミ＞",
+        "name": "PPY@推八千代🍥（8964）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050583838754025472/N2MYQSUI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 486,
+          "like_count": 2552,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 569
+        },
+        "url": "https://t.co/uMYDt9cawl",
+        "username": "kawail_Yachiyo",
+        "verified": false
+      }
+    ]
+  }
+}

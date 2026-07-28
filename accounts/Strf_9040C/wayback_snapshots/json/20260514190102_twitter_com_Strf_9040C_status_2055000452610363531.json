@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055000449523343360",
+        "3_2055000449703714816",
+        "3_2055000450274058240"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2055000452610363531",
+    "created_at": "2026-05-14T19:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T20:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055000452610363531"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/J1Y4rx5RBh",
+          "end": 36,
+          "expanded_url": "https://x.com/Strf_9040C/status/2055000452610363531/photo/1",
+          "media_key": "3_2055000449523343360",
+          "start": 13,
+          "url": "https://t.co/J1Y4rx5RBh"
+        },
+        {
+          "display_url": "pic.x.com/J1Y4rx5RBh",
+          "end": 36,
+          "expanded_url": "https://x.com/Strf_9040C/status/2055000452610363531/photo/1",
+          "media_key": "3_2055000449703714816",
+          "start": 13,
+          "url": "https://t.co/J1Y4rx5RBh"
+        },
+        {
+          "display_url": "pic.x.com/J1Y4rx5RBh",
+          "end": 36,
+          "expanded_url": "https://x.com/Strf_9040C/status/2055000452610363531/photo/1",
+          "media_key": "3_2055000450274058240",
+          "start": 13,
+          "url": "https://t.co/J1Y4rx5RBh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055000452610363531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发现一个神秘的哌甲酯剂型 https://t.co/J1Y4rx5RBh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 200,
+        "media_key": "3_2055000449523343360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HITUBV8bYAAAnSQ.jpg",
+        "width": 233
+      },
+      {
+        "height": 289,
+        "media_key": "3_2055000449703714816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HITUBWnboAAdSXD.jpg",
+        "width": 474
+      },
+      {
+        "height": 502,
+        "media_key": "3_2055000450274058240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HITUBYvaYAA68Wq.jpg",
+        "width": 772
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055000449523343360",
+            "3_2055000449703714816",
+            "3_2055000450274058240"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055000452610363531",
+        "created_at": "2026-05-14T19:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T20:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055000452610363531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J1Y4rx5RBh",
+              "end": 36,
+              "expanded_url": "https://x.com/Strf_9040C/status/2055000452610363531/photo/1",
+              "media_key": "3_2055000449523343360",
+              "start": 13,
+              "url": "https://t.co/J1Y4rx5RBh"
+            },
+            {
+              "display_url": "pic.x.com/J1Y4rx5RBh",
+              "end": 36,
+              "expanded_url": "https://x.com/Strf_9040C/status/2055000452610363531/photo/1",
+              "media_key": "3_2055000449703714816",
+              "start": 13,
+              "url": "https://t.co/J1Y4rx5RBh"
+            },
+            {
+              "display_url": "pic.x.com/J1Y4rx5RBh",
+              "end": 36,
+              "expanded_url": "https://x.com/Strf_9040C/status/2055000452610363531/photo/1",
+              "media_key": "3_2055000450274058240",
+              "start": 13,
+              "url": "https://t.co/J1Y4rx5RBh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055000452610363531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发现一个神秘的哌甲酯剂型 https://t.co/J1Y4rx5RBh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2054846201502306755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1277,
+          "following_count": 2001,
+          "like_count": 9826,
+          "listed_count": 2,
+          "media_count": 487,
+          "tweet_count": 942
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

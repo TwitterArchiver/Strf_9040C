@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1869214957054963929",
+    "created_at": "2024-12-19T12:59:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T13:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869729198480523535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1668162892901023744",
+          "start": 0,
+          "username": "TSJ_JING"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869729198480523535",
+    "in_reply_to_user_id": "1668162892901023744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869214957054963929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TSJ_JING 沃野药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1869214957054963929",
+        "created_at": "2024-12-19T12:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T13:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869729198480523535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1668162892901023744",
+              "start": 0,
+              "username": "TSJ_JING"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869729198480523535",
+        "in_reply_to_user_id": "1668162892901023744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869214957054963929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TSJ_JING 沃野药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668162892901023744",
+        "conversation_id": "1869214957054963929",
+        "created_at": "2024-12-18T02:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T03:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869214957054963929"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1869214957054963929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 11086,
+          "like_count": 221,
+          "quote_count": 2,
+          "reply_count": 196,
+          "retweet_count": 192
+        },
+        "reply_settings": "everyone",
+        "text": "快到圣诞节了，给X友们搞个抽奖\n给我涨涨粉吧\n\n这是一条抽奖贴☝️ \n2024🎄圣诞节🎄开！\n\n🎁一等奖×1️⃣  🧧520\n🎁二等奖×1️⃣ 🧧188\n🎁三等奖×5️⃣ 🧧52\n🎁安慰奖×5（铲子或者lolm宝典）\n\n关注＋点赞＋评论＋转发此条，从里面随机抽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869344088295956831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 260,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 36
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-12T07:47:00.000Z",
+        "description": "ENFJ⁻A，爱猫。喜欢有趣的事物，爱看别人的碎碎念，只关注玩铲铲的和lolm玩家，自研玄学，相术，算命可以找我。欢迎互fo，不欢迎男同哦",
+        "id": "1668162892901023744",
+        "name": "纯爱0558",
+        "pinned_tweet_id": "1828117156493697455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685982193578037248/Pg4s0st2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 214,
+          "like_count": 788,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 754
+        },
+        "username": "TSJ_JING",
+        "verified": false
+      }
+    ]
+  }
+}

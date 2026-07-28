@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "2059534147513954616",
+    "created_at": "2026-05-28T02:00:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T03:00:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059816991431725465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2033500865362112512",
+          "start": 0,
+          "username": "Loved_Nemesis"
+        },
+        {
+          "end": 23,
+          "id": "2031620413550374912",
+          "start": 15,
+          "username": "gxyyawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059816991431725465",
+    "in_reply_to_user_id": "2033500865362112512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059815183376437659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Loved_Nemesis @gxyyawa 原句是墨茶那个草莓…可是太贵了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "2059534147513954616",
+        "created_at": "2026-05-28T02:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T03:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059816991431725465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2033500865362112512",
+              "start": 0,
+              "username": "Loved_Nemesis"
+            },
+            {
+              "end": 23,
+              "id": "2031620413550374912",
+              "start": 15,
+              "username": "gxyyawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059816991431725465",
+        "in_reply_to_user_id": "2033500865362112512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059815183376437659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Loved_Nemesis @gxyyawa 原句是墨茶那个草莓…可是太贵了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033500865362112512",
+        "conversation_id": "2059534147513954616",
+        "created_at": "2026-05-28T01:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T02:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059815183376437659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2031620413550374912",
+              "start": 0,
+              "username": "gxyyawa"
+            },
+            {
+              "end": 20,
+              "id": "1721895937357004800",
+              "start": 9,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059815183376437659",
+        "in_reply_to_user_id": "2031620413550374912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059748206993604922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gxyyawa @Strf_9040C 对，所以这句话就是套公式"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2057928692089905225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1422,
+          "following_count": 2172,
+          "like_count": 10962,
+          "listed_count": 2,
+          "media_count": 546,
+          "tweet_count": 1028
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T11:09:53.000Z",
+        "description": "𝑵𝒐𝒕𝒉𝒊𝒏𝒈 𝒉𝒆𝒓𝒆 𝒘𝒂𝒔 𝒎𝒆𝒂𝒏𝒕 𝒕𝒐 𝒑𝒆𝒓𝒔𝒊𝒔𝒕",
+        "id": "2033500865362112512",
+        "location": "Last Thoughts",
+        "name": "𝒩ℯ𝓂ℯ𝓈𝒾𝓈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034105172000182277/QepbVCs1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 48,
+          "like_count": 961,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 533
+        },
+        "username": "Loved_Nemesis",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T06:37:21.000Z",
+        "description": "b站同名/2026.1.21🏳️‍⚧️/已成年",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1761012330?spm…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/1761012330?spm_id_from=333.1007.0.0",
+                "start": 0,
+                "url": "https://t.co/vcdDTTO0N9"
+              }
+            ]
+          }
+        },
+        "id": "2031620413550374912",
+        "location": "江苏",
+        "name": "桂溪樱樱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031620716781776900/7XRKl65B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 13,
+          "like_count": 281,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 16
+        },
+        "url": "https://t.co/vcdDTTO0N9",
+        "username": "gxyyawa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059660794183454720",
+        "3_2059660785627086848",
+        "3_2059660780568768512",
+        "3_2059660787841687552"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2059660797819896022",
+    "created_at": "2026-05-27T15:39:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T16:39:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059660797819896022"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OS8skBvhcK",
+          "end": 104,
+          "expanded_url": "https://x.com/Strf_9040C/status/2059660797819896022/photo/1",
+          "media_key": "3_2059660794183454720",
+          "start": 81,
+          "url": "https://t.co/OS8skBvhcK"
+        },
+        {
+          "display_url": "pic.x.com/OS8skBvhcK",
+          "end": 104,
+          "expanded_url": "https://x.com/Strf_9040C/status/2059660797819896022/photo/1",
+          "media_key": "3_2059660785627086848",
+          "start": 81,
+          "url": "https://t.co/OS8skBvhcK"
+        },
+        {
+          "display_url": "pic.x.com/OS8skBvhcK",
+          "end": 104,
+          "expanded_url": "https://x.com/Strf_9040C/status/2059660797819896022/photo/1",
+          "media_key": "3_2059660780568768512",
+          "start": 81,
+          "url": "https://t.co/OS8skBvhcK"
+        },
+        {
+          "display_url": "pic.x.com/OS8skBvhcK",
+          "end": 104,
+          "expanded_url": "https://x.com/Strf_9040C/status/2059660797819896022/photo/1",
+          "media_key": "3_2059660787841687552",
+          "start": 81,
+          "url": "https://t.co/OS8skBvhcK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059660797819896022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "咴咴姐姐这说的好像是我…\n我之前经常对她开玩笑说“我要对你上监护仪，插气管插管之类的”\n我们曾经关系很好，甚至可以说当过一段时间的“对象\n我爱她\n我好想她……😢 https://t.co/OS8skBvhcK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 459,
+        "media_key": "3_2059660794183454720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVilGsakAAtrNC.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1467,
+        "media_key": "3_2059660785627086848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVikm0awAAGD81.jpg",
+        "width": 885
+      },
+      {
+        "height": 1100,
+        "media_key": "3_2059660780568768512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVikT-a8AAMUnd.jpg",
+        "width": 899
+      },
+      {
+        "height": 1971,
+        "media_key": "3_2059660787841687552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVikvEa4AAAE_B.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059660794183454720",
+            "3_2059660785627086848",
+            "3_2059660780568768512",
+            "3_2059660787841687552"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2059660797819896022",
+        "created_at": "2026-05-27T15:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059660797819896022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OS8skBvhcK",
+              "end": 104,
+              "expanded_url": "https://x.com/Strf_9040C/status/2059660797819896022/photo/1",
+              "media_key": "3_2059660794183454720",
+              "start": 81,
+              "url": "https://t.co/OS8skBvhcK"
+            },
+            {
+              "display_url": "pic.x.com/OS8skBvhcK",
+              "end": 104,
+              "expanded_url": "https://x.com/Strf_9040C/status/2059660797819896022/photo/1",
+              "media_key": "3_2059660785627086848",
+              "start": 81,
+              "url": "https://t.co/OS8skBvhcK"
+            },
+            {
+              "display_url": "pic.x.com/OS8skBvhcK",
+              "end": 104,
+              "expanded_url": "https://x.com/Strf_9040C/status/2059660797819896022/photo/1",
+              "media_key": "3_2059660780568768512",
+              "start": 81,
+              "url": "https://t.co/OS8skBvhcK"
+            },
+            {
+              "display_url": "pic.x.com/OS8skBvhcK",
+              "end": 104,
+              "expanded_url": "https://x.com/Strf_9040C/status/2059660797819896022/photo/1",
+              "media_key": "3_2059660787841687552",
+              "start": 81,
+              "url": "https://t.co/OS8skBvhcK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059660797819896022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咴咴姐姐这说的好像是我…\n我之前经常对她开玩笑说“我要对你上监护仪，插气管插管之类的”\n我们曾经关系很好，甚至可以说当过一段时间的“对象\n我爱她\n我好想她……😢 https://t.co/OS8skBvhcK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2057928692089905225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1417,
+          "following_count": 2157,
+          "like_count": 10914,
+          "listed_count": 2,
+          "media_count": 546,
+          "tweet_count": 1026
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

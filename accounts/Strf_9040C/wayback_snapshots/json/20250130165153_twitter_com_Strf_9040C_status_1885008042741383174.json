@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1885008042741383174",
+    "created_at": "2025-01-30T16:51:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T17:51:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1885008042741383174"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TimChirs/statu…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/TimChirs/status/1884812892446273725",
+          "start": 35,
+          "url": "https://t.co/a65FN9aGg1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885008042741383174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884812892446273725",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这图小时候抱过我\n在我还在用上古时期的火腿肠 One 的时候就看过了 https://t.co/a65FN9aGg1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1885008042741383174",
+        "created_at": "2025-01-30T16:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T17:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885008042741383174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TimChirs/statu…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/TimChirs/status/1884812892446273725",
+              "start": 35,
+              "url": "https://t.co/a65FN9aGg1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885008042741383174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884812892446273725",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这图小时候抱过我\n在我还在用上古时期的火腿肠 One 的时候就看过了 https://t.co/a65FN9aGg1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884812879498526720"
+          ]
+        },
+        "author_id": "1647216504851537920",
+        "conversation_id": "1884812892446273725",
+        "created_at": "2025-01-30T03:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T04:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884812892446273725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GPWP1VCY62",
+              "end": 31,
+              "expanded_url": "https://x.com/TimChirs/status/1884812892446273725/photo/1",
+              "media_key": "3_1884812879498526720",
+              "start": 8,
+              "url": "https://t.co/GPWP1VCY62"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884812892446273725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 65739,
+          "like_count": 676,
+          "quote_count": 12,
+          "reply_count": 140,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "《他是人贩子》 https://t.co/GPWP1VCY62"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 1514,
+          "like_count": 3781,
+          "listed_count": 0,
+          "media_count": 217,
+          "tweet_count": 467
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T12:33:24.000Z",
+        "description": "错误，简介无法显示",
+        "id": "1647216504851537920",
+        "name": "Lau.🌟",
+        "pinned_tweet_id": "1824077813097582832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883403890814484480/qxGJOFFA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 1304,
+          "like_count": 19405,
+          "listed_count": 3,
+          "media_count": 767,
+          "tweet_count": 2670
+        },
+        "username": "TimChirs",
+        "verified": false
+      }
+    ]
+  }
+}

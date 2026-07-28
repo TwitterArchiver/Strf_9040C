@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064398308924391424",
+        "3_2064398308051914752"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2064299248997552445",
+    "created_at": "2026-06-09T17:24:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T18:24:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064398312187511080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1884546510919979008",
+          "start": 0,
+          "username": "iamThuja"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S3y3DOLaYd",
+          "end": 44,
+          "expanded_url": "https://x.com/Strf_9040C/status/2064398312187511080/photo/1",
+          "media_key": "3_2064398308924391424",
+          "start": 21,
+          "url": "https://t.co/S3y3DOLaYd"
+        },
+        {
+          "display_url": "pic.x.com/S3y3DOLaYd",
+          "end": 44,
+          "expanded_url": "https://x.com/Strf_9040C/status/2064398312187511080/photo/1",
+          "media_key": "3_2064398308051914752",
+          "start": 21,
+          "url": "https://t.co/S3y3DOLaYd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064398312187511080",
+    "in_reply_to_user_id": "1884546510919979008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064299248997552445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iamThuja 怎么一会艾滋一会梅毒 https://t.co/S3y3DOLaYd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2176,
+        "media_key": "3_2064398308924391424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKY3UwZbAAAOsro.jpg",
+        "width": 1812
+      },
+      {
+        "height": 2176,
+        "media_key": "3_2064398308051914752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKY3UtJaEAAfdoN.jpg",
+        "width": 1812
+      },
+      {
+        "height": 255,
+        "media_key": "3_2064299246183133185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXdOi7aMAEU1C3.jpg",
+        "width": 206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064398308924391424",
+            "3_2064398308051914752"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2064299248997552445",
+        "created_at": "2026-06-09T17:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064398312187511080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1884546510919979008",
+              "start": 0,
+              "username": "iamThuja"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S3y3DOLaYd",
+              "end": 44,
+              "expanded_url": "https://x.com/Strf_9040C/status/2064398312187511080/photo/1",
+              "media_key": "3_2064398308924391424",
+              "start": 21,
+              "url": "https://t.co/S3y3DOLaYd"
+            },
+            {
+              "display_url": "pic.x.com/S3y3DOLaYd",
+              "end": 44,
+              "expanded_url": "https://x.com/Strf_9040C/status/2064398312187511080/photo/1",
+              "media_key": "3_2064398308051914752",
+              "start": 21,
+              "url": "https://t.co/S3y3DOLaYd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064398312187511080",
+        "in_reply_to_user_id": "1884546510919979008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064299248997552445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iamThuja 怎么一会艾滋一会梅毒 https://t.co/S3y3DOLaYd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064299246183133185"
+          ]
+        },
+        "author_id": "1884546510919979008",
+        "conversation_id": "2064299248997552445",
+        "created_at": "2026-06-09T10:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T11:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064299248997552445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l7eJj3mDgS",
+              "end": 47,
+              "expanded_url": "https://x.com/iamThuja/status/2064299248997552445/photo/1",
+              "media_key": "3_2064299246183133185",
+              "start": 24,
+              "url": "https://t.co/l7eJj3mDgS"
+            },
+            {
+              "display_url": "x.com/Viki211027/sta…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/Viki211027/status/2064217470228119790",
+              "start": 48,
+              "url": "https://t.co/MKpx5dqDL7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064299248997552445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3496,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064217470228119790",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "养图千日，用图一时。\n\n嗯对我刚考完最后一科。 https://t.co/l7eJj3mDgS https://t.co/MKpx5dqDL7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2057928692089905225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 2303,
+          "like_count": 11873,
+          "listed_count": 2,
+          "media_count": 591,
+          "tweet_count": 1087
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T10:18:10.000Z",
+        "description": "@theRealThuja唯一小号，@notThujaS原老号。默认一切到处瞎鉴证、追着骂的，不论立场全部浮木走飞升/我线下真不是大老粗，喝多了会泄露隐私⛔️建制激LGBT先去问AI查我成分立场再开火好不，乱扣帽子的蠢货\\\\欢迎勇士把我搬回墙里，感激不尽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "theRealThuja"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "notThujaS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuexi.cn",
+                "end": 23,
+                "expanded_url": "http://xuexi.cn",
+                "start": 0,
+                "url": "https://t.co/Wwc59b2vAo"
+              }
+            ]
+          }
+        },
+        "id": "1884546510919979008",
+        "location": "发射桥鲁鲁工位上",
+        "name": "传奇出生乌鲁鲁（巡飞弹只飞别人浮木）",
+        "pinned_tweet_id": "2064299248997552445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055663647347908608/v3bgVl7K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1451,
+          "following_count": 915,
+          "like_count": 7264,
+          "listed_count": 4,
+          "media_count": 270,
+          "tweet_count": 3388
+        },
+        "url": "https://t.co/Wwc59b2vAo",
+        "username": "iamThuja",
+        "verified": false
+      }
+    ]
+  }
+}

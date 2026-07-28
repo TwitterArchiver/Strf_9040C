@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1884843690671349975",
+    "created_at": "2025-01-30T05:58:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T06:58:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884843690671349975"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aalmonacid18/s…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/aalmonacid18/status/1884839282168471721",
+          "start": 31,
+          "url": "https://t.co/ud2e3ILWrT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884843690671349975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884839282168471721",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "何意味\n指望你心中伟大的李老师来帮你主持一下你心中的公道吗？ https://t.co/ud2e3ILWrT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1884843690671349975",
+        "created_at": "2025-01-30T05:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T06:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884843690671349975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aalmonacid18/s…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/aalmonacid18/status/1884839282168471721",
+              "start": 31,
+              "url": "https://t.co/ud2e3ILWrT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884843690671349975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884839282168471721",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "何意味\n指望你心中伟大的李老师来帮你主持一下你心中的公道吗？ https://t.co/ud2e3ILWrT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3406534323",
+        "conversation_id": "1884833684576170457",
+        "created_at": "2025-01-30T05:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T06:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884839282168471721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Strf_9040C/sta…",
+              "end": 39,
+              "expanded_url": "https://x.com/Strf_9040C/status/1884209602910380298",
+              "start": 16,
+              "url": "https://t.co/R9WfztwykG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884839282168471721",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884209602910380298",
+            "type": "quoted"
+          },
+          {
+            "id": "1884833684576170457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele https://t.co/R9WfztwykG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 1506,
+          "like_count": 3645,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 428
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-07T03:06:09.000Z",
+        "description": "https://t.co/HStc7FVyu3 亚硝酸钠链接",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xiangsjsiwjejd…",
+                "end": 23,
+                "expanded_url": "https://t.me/xiangsjsiwjejdhejwjsjsjdieej",
+                "start": 0,
+                "url": "https://t.co/HStc7FVyu3"
+              }
+            ]
+          }
+        },
+        "id": "3406534323",
+        "location": "你能",
+        "name": "angel almonacid",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 27
+        },
+        "username": "aalmonacid18",
+        "verified": false
+      }
+    ]
+  }
+}

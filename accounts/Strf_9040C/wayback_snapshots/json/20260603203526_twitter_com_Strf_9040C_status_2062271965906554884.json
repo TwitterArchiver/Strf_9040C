@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "2062271965906554884",
+    "created_at": "2026-06-03T20:35:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T21:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062271965906554884"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/smiroyama/stat…",
+          "end": 176,
+          "expanded_url": "https://twitter.com/smiroyama/status/2062233114798407781",
+          "start": 153,
+          "url": "https://t.co/V25TSwqvpJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062271965906554884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062233114798407781",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "def son_check(n):\n    if not isinstance(n, int) or n &lt;= 0:\n        return \"家长：我送来的儿子数量不对！\"\n    return f\"输入{n}个儿子 → 毕业{n}个儿子 ✅\\n杭电-刘春英：可无奖，但儿子一定要是儿子！\" https://t.co/V25TSwqvpJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1780,
+        "media_key": "3_2062233104564277248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ6GFRma0AAzYe_.jpg",
+        "width": 1050
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "2062271965906554884",
+        "created_at": "2026-06-03T20:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T21:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062271965906554884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/smiroyama/stat…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/smiroyama/status/2062233114798407781",
+              "start": 153,
+              "url": "https://t.co/V25TSwqvpJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062271965906554884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062233114798407781",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "def son_check(n):\n    if not isinstance(n, int) or n &lt;= 0:\n        return \"家长：我送来的儿子数量不对！\"\n    return f\"输入{n}个儿子 → 毕业{n}个儿子 ✅\\n杭电-刘春英：可无奖，但儿子一定要是儿子！\" https://t.co/V25TSwqvpJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062233104564277248"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2062233114798407781",
+        "created_at": "2026-06-03T18:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062233114798407781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fYir37mlND",
+              "end": 51,
+              "expanded_url": "https://x.com/smiroyama/status/2062233114798407781/photo/1",
+              "media_key": "3_2062233104564277248",
+              "start": 28,
+              "url": "https://t.co/fYir37mlND"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062233114798407781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 809,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "input 三个儿子 output 一定是要三个儿子😾 https://t.co/fYir37mlND"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2057928692089905225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1485,
+          "following_count": 2253,
+          "like_count": 11475,
+          "listed_count": 2,
+          "media_count": 571,
+          "tweet_count": 1066
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Developing https://t.co/pJ9VtduSxe | bestie🥰: @qianxunchan | friends: @Huang_Yut1ng @fukui_p26 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 94,
+                "start": 84,
+                "username": "fukui_p26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 34,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 11,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060621621879353344/jRdB1QDB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6341,
+          "following_count": 2361,
+          "like_count": 12644,
+          "listed_count": 19,
+          "media_count": 1944,
+          "tweet_count": 7406
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

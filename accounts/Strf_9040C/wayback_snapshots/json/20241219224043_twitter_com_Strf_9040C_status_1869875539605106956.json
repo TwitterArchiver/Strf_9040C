@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1869396248660443594",
+    "created_at": "2024-12-19T22:40:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T23:40:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869875539605106956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1016552943774920704",
+          "start": 0,
+          "username": "Akinoyo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869875539605106956",
+    "in_reply_to_user_id": "1016552943774920704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869396248660443594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akinoyo_ 沃野药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1869396248660443594",
+        "created_at": "2024-12-19T22:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T23:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869875539605106956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1016552943774920704",
+              "start": 0,
+              "username": "Akinoyo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869875539605106956",
+        "in_reply_to_user_id": "1016552943774920704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869396248660443594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akinoyo_ 沃野药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1016552943774920704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          }
+        ],
+        "conversation_id": "1869396248660443594",
+        "created_at": "2024-12-18T14:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T15:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869396248660443594"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1869396248660443594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1222,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "200fo了……想搞一个抽奖，但是由于主播现在穷的叮当响所以决定抽一些主播的小物件\n一等奖：罗技k380键盘或者gpw一代 x1\n二等奖：日版chiikawa小八玩偶 x1\n三等奖：10r x 3\n实体物品邮费自理\n呜呜呜主播目前只有这点能力希望不要嫌弃\n转+关+评参与\n2025.1.1中午开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869344088295956831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 302,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 39
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-10T05:21:23.000Z",
+        "description": "🏳️‍⚧️",
+        "id": "1016552943774920704",
+        "location": "天國",
+        "name": "仿生喹硫平🍥",
+        "pinned_tweet_id": "1858824781954773040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790297318358646784/_0D02grC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 1096,
+          "like_count": 1362,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 700
+        },
+        "username": "Akinoyo_",
+        "verified": false
+      }
+    ]
+  }
+}

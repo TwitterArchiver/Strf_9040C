@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "2069354210551009738",
+    "created_at": "2026-06-23T17:37:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T18:37:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069474823491965208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1360522586317348865",
+          "start": 0,
+          "username": "nanami_mua"
+        },
+        {
+          "end": 27,
+          "id": "1694679423159836672",
+          "start": 12,
+          "username": "AsakawaTsubaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069474823491965208",
+    "in_reply_to_user_id": "1360522586317348865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069394264593944815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanami_mua @AsakawaTsubaki 我还想着是一千四百九十九一盒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "2069354210551009738",
+        "created_at": "2026-06-23T17:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T18:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069474823491965208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1360522586317348865",
+              "start": 0,
+              "username": "nanami_mua"
+            },
+            {
+              "end": 27,
+              "id": "1694679423159836672",
+              "start": 12,
+              "username": "AsakawaTsubaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069474823491965208",
+        "in_reply_to_user_id": "1360522586317348865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069394264593944815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanami_mua @AsakawaTsubaki 我还想着是一千四百九十九一盒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360522586317348865",
+        "conversation_id": "2069354210551009738",
+        "created_at": "2026-06-23T12:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069394264593944815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1694679423159836672",
+              "start": 0,
+              "username": "AsakawaTsubaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069394264593944815",
+        "in_reply_to_user_id": "1694679423159836672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 414,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069354210551009738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsakawaTsubaki 一盒149？在日本都能买两盒了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2057928692089905225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 2366,
+          "like_count": 12611,
+          "listed_count": 2,
+          "media_count": 626,
+          "tweet_count": 1139
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "MtX/小证🍥25.1.11/半个家长党/100%健全/永远的好妹妹:@LCG_Akiball/愿她安息 @AnranbuSleep",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "LCG_Akiball"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "AnranbuSleep"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "name": "Nanameow～",
+        "pinned_tweet_id": "2023776700212097110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004949115835494400/OuSLocac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1126,
+          "following_count": 493,
+          "like_count": 89186,
+          "listed_count": 6,
+          "media_count": 843,
+          "tweet_count": 10491
+        },
+        "url": "",
+        "username": "nanami_mua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-24T11:54:02.000Z",
+        "description": "對不起，我只是在泥潭掙扎的可憐小孩\n无言直fo抱歉，查成分回fo。 我有点精日，下辈子希望是日本人\n匿名提问https://t.co/tFYgnHYSkF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/k%E2%80%86n%E2…",
+                "end": 77,
+                "expanded_url": "https://ngl.link/k%E2%80%86n%E2%80%86d",
+                "start": 54,
+                "url": "https://t.co/tFYgnHYSkF"
+              }
+            ]
+          }
+        },
+        "id": "1694679423159836672",
+        "name": "浅な川椿",
+        "pinned_tweet_id": "2063367844268818666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700458848673484800/n9u9uMHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 230,
+          "like_count": 1267,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1258
+        },
+        "url": "",
+        "username": "AsakawaTsubaki",
+        "verified": false
+      }
+    ]
+  }
+}

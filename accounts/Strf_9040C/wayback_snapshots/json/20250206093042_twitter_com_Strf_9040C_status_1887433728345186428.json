@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887433723110727680"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "1887358683916738725",
+    "created_at": "2025-02-06T09:30:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T10:30:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887433728345186428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1870490185051348992",
+          "start": 0,
+          "username": "yctf1112720"
+        },
+        {
+          "end": 21,
+          "id": "931934663198703616",
+          "start": 13,
+          "username": "BakaHDT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aHtTMzbzyj",
+          "end": 51,
+          "expanded_url": "https://x.com/Strf_9040C/status/1887433728345186428/photo/1",
+          "media_key": "3_1887433723110727680",
+          "start": 28,
+          "url": "https://t.co/aHtTMzbzyj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887433728345186428",
+    "in_reply_to_user_id": "1870490185051348992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887377739663159372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yctf1112720 @BakaHDT 这是你吗😁 https://t.co/aHtTMzbzyj"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1887433728345186428].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1887433728345186428",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1887433728345186428"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1887433723110727680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjGC-JsboAA2rvv.jpg",
+        "width": 992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870490185051348992",
+        "conversation_id": "1887358683916738725",
+        "created_at": "2025-02-06T05:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T06:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887377739663159372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "931934663198703616",
+              "start": 0,
+              "username": "BakaHDT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887377739663159372",
+        "in_reply_to_user_id": "931934663198703616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887358683916738725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BakaHDT 死人妖现在已经进化到脸都不要了吗，去机场恶心人还怪人指指点点，笑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 1618,
+          "like_count": 5085,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 584
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T15:23:25.000Z",
+        "description": "已有老婆，请勿打扰，我很爱我老婆，谢谢。女生不要私我，老婆会吃醋。老婆：@SurongNy1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "SurongNy1"
+              }
+            ]
+          }
+        },
+        "id": "1870490185051348992",
+        "name": "速溶奶酪",
+        "pinned_tweet_id": "1881637991749439624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870490498110300160/fRIa4odw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 37,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 267
+        },
+        "username": "yctf1112720",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-18T17:18:33.000Z",
+        "description": "mtf/双相/bpd/asd/adhd | 今天也在努力活着的小女孩，可以叫我123 | 发一些生活中的事情 | 下面的链接是提问箱 | 最爱的主人是 @FTMiaoX 愿意为他付出一切",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 76,
+                "username": "FTMiaoX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bakahdt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bakahdt",
+                "start": 0,
+                "url": "https://t.co/DVXWY0OIcQ"
+              }
+            ]
+          }
+        },
+        "id": "931934663198703616",
+        "location": "发条喵家的笼子里",
+        "name": "BakaHDT🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876193252422164480/fZqr5cG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 474,
+          "like_count": 5934,
+          "listed_count": 1,
+          "media_count": 313,
+          "tweet_count": 1705
+        },
+        "url": "https://t.co/DVXWY0OIcQ",
+        "username": "BakaHDT",
+        "verified": false
+      }
+    ]
+  }
+}

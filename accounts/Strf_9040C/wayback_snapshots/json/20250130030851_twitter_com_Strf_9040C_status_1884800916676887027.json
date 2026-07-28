@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1884462148920959287",
+    "created_at": "2025-01-30T03:08:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T04:08:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884800916676887027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3406534323",
+          "start": 0,
+          "username": "aalmonacid18"
+        },
+        {
+          "end": 27,
+          "id": "2155518091",
+          "start": 14,
+          "username": "MetalGemblax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884800916676887027",
+    "in_reply_to_user_id": "3406534323",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884555906790342988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aalmonacid18 @MetalGemblax 在我喝之前我还没有发现\n在我喝了之后才发现\n所以有什么问题吗"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [MetalGemblax].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "MetalGemblax",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "MetalGemblax"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1884462148920959287",
+        "created_at": "2025-01-30T03:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T04:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884800916676887027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3406534323",
+              "start": 0,
+              "username": "aalmonacid18"
+            },
+            {
+              "end": 27,
+              "id": "2155518091",
+              "start": 14,
+              "username": "MetalGemblax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884800916676887027",
+        "in_reply_to_user_id": "3406534323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884555906790342988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aalmonacid18 @MetalGemblax 在我喝之前我还没有发现\n在我喝了之后才发现\n所以有什么问题吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3406534323",
+        "conversation_id": "1884462148920959287",
+        "created_at": "2025-01-29T10:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T11:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884555906790342988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721895937357004800",
+              "start": 0,
+              "username": "Strf_9040C"
+            },
+            {
+              "end": 25,
+              "id": "2155518091",
+              "start": 12,
+              "username": "MetalGemblax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884555906790342988",
+        "in_reply_to_user_id": "1721895937357004800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884468495309738101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strf_9040C @MetalGemblax 找得到你还喝盐干什么？骗谁呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 1502,
+          "like_count": 3633,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 417
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-07T03:06:09.000Z",
+        "description": "",
+        "id": "3406534323",
+        "name": "angel almonacid",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "username": "aalmonacid18",
+        "verified": false
+      }
+    ]
+  }
+}

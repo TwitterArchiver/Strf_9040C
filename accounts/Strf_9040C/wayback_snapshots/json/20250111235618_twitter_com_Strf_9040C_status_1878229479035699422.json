@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1878142550248431699",
+    "created_at": "2025-01-11T23:56:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T00:56:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878229479035699422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1597105235516076033",
+          "start": 0,
+          "username": "TakotamiChan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878229479035699422",
+    "in_reply_to_user_id": "1721895937357004800",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878142550248431699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TakotamiChan"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1878142550248431699",
+        "created_at": "2025-01-11T23:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T00:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878229479035699422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1597105235516076033",
+              "start": 0,
+              "username": "TakotamiChan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878229479035699422",
+        "in_reply_to_user_id": "1721895937357004800",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878142550248431699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TakotamiChan"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878142546612039680",
+            "3_1878142545752137728"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1878142550248431699",
+        "created_at": "2025-01-11T18:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T19:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878142550248431699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k5TXdsGi7i",
+              "end": 41,
+              "expanded_url": "https://x.com/Strf_9040C/status/1878142550248431699/photo/1",
+              "media_key": "3_1878142546612039680",
+              "start": 18,
+              "url": "https://t.co/k5TXdsGi7i"
+            },
+            {
+              "display_url": "pic.x.com/k5TXdsGi7i",
+              "end": 41,
+              "expanded_url": "https://x.com/Strf_9040C/status/1878142550248431699/photo/1",
+              "media_key": "3_1878142545752137728",
+              "start": 18,
+              "url": "https://t.co/k5TXdsGi7i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878142550248431699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我超\n头一回见三十三导的心电图机… https://t.co/k5TXdsGi7i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 1018,
+          "like_count": 2139,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 221
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T05:49:01.000Z",
+        "description": "奶章魚🍼🐙🍓🍥🍊🍀❄️ 16齡 ♡forever with @toukorina @NozomiACR . Neurodivergent. Please let me know if I make you uncomfortable. EN/ZH/JP @ItouChika & YOTSUBA! 大好き🍀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "toukorina"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "NozomiACR"
+              },
+              {
+                "end": 137,
+                "start": 127,
+                "username": "ItouChika"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+yRSRkKo_owlkN…",
+                "end": 23,
+                "expanded_url": "http://t.me/+yRSRkKo_owlkNWM9",
+                "start": 0,
+                "url": "https://t.co/UUJ2atiGKn"
+              }
+            ]
+          }
+        },
+        "id": "1597105235516076033",
+        "location": "静岡県浜松市立広沢小学校",
+        "name": "四葉・たこ・伊藤🐙🍓🍀🍼",
+        "pinned_tweet_id": "1808538723841429888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860390713583902721/h5Ra5YHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 2510,
+          "like_count": 20351,
+          "listed_count": 0,
+          "media_count": 991,
+          "tweet_count": 6749
+        },
+        "url": "https://t.co/UUJ2atiGKn",
+        "username": "TakotamiChan",
+        "verified": false
+      }
+    ]
+  }
+}

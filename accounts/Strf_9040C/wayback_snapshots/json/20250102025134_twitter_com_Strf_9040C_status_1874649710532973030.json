@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1874649662810148864"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "1874649710532973030",
+    "created_at": "2025-01-02T02:51:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-02T03:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1874649710532973030"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wXTeDFycc3",
+          "end": 36,
+          "expanded_url": "https://x.com/Strf_9040C/status/1874649710532973030/video/1",
+          "media_key": "7_1874649662810148864",
+          "start": 13,
+          "url": "https://t.co/wXTeDFycc3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874649710532973030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我家猫怎么感觉有点子烟嗓 https://t.co/wXTeDFycc3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14129,
+        "height": 720,
+        "media_key": "7_1874649662810148864",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1874649662810148864/pu/img/QdvMjzrLBkA7cgzQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1874649662810148864/pu/vid/avc1/480x270/xsfRUlr6Nr-uFS6q.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1874649662810148864/pu/vid/avc1/640x360/RP8p7i-A9zcTjx_H.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1874649662810148864/pu/vid/avc1/1280x720/nVJZzwdC62I7-vrC.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1874649662810148864/pu/pl/5NpOUttWJHF-W08z.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1874649662810148864"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "1874649710532973030",
+        "created_at": "2025-01-02T02:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T03:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874649710532973030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wXTeDFycc3",
+              "end": 36,
+              "expanded_url": "https://x.com/Strf_9040C/status/1874649710532973030/video/1",
+              "media_key": "7_1874649662810148864",
+              "start": 13,
+              "url": "https://t.co/wXTeDFycc3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874649710532973030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我家猫怎么感觉有点子烟嗓 https://t.co/wXTeDFycc3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 829,
+          "like_count": 1631,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 163
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1884209602910380298",
+    "created_at": "2025-01-29T02:08:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T03:08:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884423457066344944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "914853828058521600",
+          "start": 0,
+          "username": "ShakeItOff_pi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884423457066344944",
+    "in_reply_to_user_id": "914853828058521600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884422486667968769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShakeItOff_pi 效仿？\n可能一传十十传百这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1884209602910380298",
+        "created_at": "2025-01-29T02:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T03:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884423457066344944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "914853828058521600",
+              "start": 0,
+              "username": "ShakeItOff_pi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884423457066344944",
+        "in_reply_to_user_id": "914853828058521600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884422486667968769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShakeItOff_pi 效仿？\n可能一传十十传百这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "914853828058521600",
+        "conversation_id": "1884209602910380298",
+        "created_at": "2025-01-29T02:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T03:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884422486667968769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721895937357004800",
+              "start": 0,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884422486667968769",
+        "in_reply_to_user_id": "1721895937357004800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884209602910380298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strf_9040C 在刷到不下一百个吃NaNo2自杀的推文以后我仍然没想明白一件事\n自杀的方式千千万，而且这个也那么痛苦，为什么那么多人自杀的方式仍然追求使用亚硝酸钠，哪怕没有这个药剂他们也能更体面的结束自己的生命？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 1485,
+          "like_count": 3472,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 396
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-02T14:05:24.000Z",
+        "description": "我是网黄，是淫魔转世 | 厌蠢 智商太低会传染 离我远点  | Fill me up with hate | 友链@Horace_yee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "Horace_yee"
+              }
+            ]
+          }
+        },
+        "id": "914853828058521600",
+        "location": "Hell",
+        "name": "风过荒野",
+        "pinned_tweet_id": "1875608964593021365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880317643707883520/lPU1rXyY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3875,
+          "following_count": 940,
+          "like_count": 14380,
+          "listed_count": 5,
+          "media_count": 1050,
+          "tweet_count": 9216
+        },
+        "username": "ShakeItOff_pi",
+        "verified": false
+      }
+    ]
+  }
+}

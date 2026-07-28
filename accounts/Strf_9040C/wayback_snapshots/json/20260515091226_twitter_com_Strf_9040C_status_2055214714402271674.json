@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "2055214714402271674",
+    "created_at": "2026-05-15T09:12:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T10:12:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055214714402271674"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bghtnya/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/bghtnya/status/2055178668079796541",
+          "start": 5,
+          "url": "https://t.co/Q05IPUxSbH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055214714402271674",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055178668079796541",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "学我放火 https://t.co/Q05IPUxSbH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1086,
+        "media_key": "3_2055178513880326144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIV1-DXaIAAJ_pH.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "2055214714402271674",
+        "created_at": "2026-05-15T09:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T10:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055214714402271674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/bghtnya/status/2055178668079796541",
+              "start": 5,
+              "url": "https://t.co/Q05IPUxSbH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055214714402271674",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055178668079796541",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "学我放火 https://t.co/Q05IPUxSbH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055178513880326144"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "2055178668079796541",
+        "created_at": "2026-05-15T06:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T07:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055178668079796541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vxwdNvJZge",
+              "end": 50,
+              "expanded_url": "https://x.com/bghtnya/status/2055178668079796541/photo/1",
+              "media_key": "3_2055178513880326144",
+              "start": 27,
+              "url": "https://t.co/vxwdNvJZge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055178668079796541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1185,
+          "like_count": 49,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "冰棍要整什么样的活才能和N55和唐毓文重新坐上一桌呢 https://t.co/vxwdNvJZge"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2054846201502306755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1279,
+          "following_count": 2007,
+          "like_count": 9872,
+          "listed_count": 2,
+          "media_count": 488,
+          "tweet_count": 946
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2053034864085971095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9293,
+          "following_count": 2240,
+          "like_count": 178116,
+          "listed_count": 20,
+          "media_count": 3898,
+          "tweet_count": 47728
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": true
+      }
+    ]
+  }
+}

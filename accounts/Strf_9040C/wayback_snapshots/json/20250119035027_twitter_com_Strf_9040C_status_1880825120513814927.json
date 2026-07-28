@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1880633608597307810",
+    "created_at": "2025-01-19T03:50:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T04:50:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880825120513814927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1372184630753853444",
+          "start": 0,
+          "username": "2temisinin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880825120513814927",
+    "in_reply_to_user_id": "1372184630753853444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880633608597307810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2temisinin 你怎么知道我有三台"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1880633608597307810",
+        "created_at": "2025-01-19T03:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T04:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880825120513814927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1372184630753853444",
+              "start": 0,
+              "username": "2temisinin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880825120513814927",
+        "in_reply_to_user_id": "1372184630753853444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880633608597307810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2temisinin 你怎么知道我有三台"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1372184630753853444",
+        "conversation_id": "1880633608597307810",
+        "created_at": "2025-01-18T15:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T16:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880633608597307810"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880633608597307810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 720,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好像小时候就很喜欢医疗仪器吧…\n心电监护什么的超涩的…\n这都什么xp啊啊啊\n迈瑞官网看爽了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 1254,
+          "like_count": 2645,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 286
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-17T13:54:56.000Z",
+        "description": "最爱@haku_dabai｜人生二周目｜可以叫我鸮｜INTJ/INTP，双相偶尔爆炸求原谅｜ MtF🏳️‍⚧️小证家长党｜HRT 2024.10.20｜ Wuhan生科大一休学 ，业余药理学习中｜忠实的尼康用户、电台呼号BH6RQG｜彩虹六号、Noita、MC｜现实的理想主义者 悲观的乐观主义者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "haku_dabai"
+              }
+            ]
+          }
+        },
+        "id": "1372184630753853444",
+        "location": "罗德岛",
+        "name": "哈茨涅米库",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877945835163619329/HtDpkILh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076,
+          "following_count": 1291,
+          "like_count": 20247,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1337
+        },
+        "username": "2temisinin",
+        "verified": false
+      }
+    ]
+  }
+}

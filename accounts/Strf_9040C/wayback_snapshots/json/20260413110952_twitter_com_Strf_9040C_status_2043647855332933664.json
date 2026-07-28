@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043647654136360960"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2043647855332933664",
+    "created_at": "2026-04-13T11:09:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T12:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043647855332933664"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fs6HmVWDu6",
+          "end": 158,
+          "expanded_url": "https://x.com/Strf_9040C/status/2043647855332933664/photo/1",
+          "media_key": "3_2043647654136360960",
+          "start": 135,
+          "url": "https://t.co/fs6HmVWDu6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043647855332933664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "あらあら～、私の ZOLL M Series 12Lead Biphasic Defibmonitor With SpO2 and PACER ちゃんかわいいなぁ～♡ ドキドキしちゃうわ～、優しくてすごくあったかいのよぉ！？ ほんとにマジでちいさくてきれいですもん～っ https://t.co/fs6HmVWDu6"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "阿拉阿拉～，瓦塔西诺 ZOLL M Series 12Lead Biphasic Defibmonitor With SpO2 and PACER 酱卡哇伊呐～♡ 多KI多KI 西桥乌瓦～，压萨西库贴 苏郭 阿塔卡伊 诺 哟喔！？ 恩托尼 马吉 贴 小萨库贴 KI雷 贴 苏蒙～っ\n哎呀哎呀～，我的 ZOLL M系列12导联双相除颤监护仪带血氧和起搏功能 小酱好可爱呀～♡ 都让我心跳加速啦～，它又温柔又超级暖和的对吧！？ 它真的真的好小巧好漂亮嘛～！",
+        "height": 1500,
+        "media_key": "3_2043647654136360960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFx-trbbsAAmVa0.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043647654136360960"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2043647855332933664",
+        "created_at": "2026-04-13T11:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T12:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043647855332933664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fs6HmVWDu6",
+              "end": 158,
+              "expanded_url": "https://x.com/Strf_9040C/status/2043647855332933664/photo/1",
+              "media_key": "3_2043647654136360960",
+              "start": 135,
+              "url": "https://t.co/fs6HmVWDu6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043647855332933664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "あらあら～、私の ZOLL M Series 12Lead Biphasic Defibmonitor With SpO2 and PACER ちゃんかわいいなぁ～♡ ドキドキしちゃうわ～、優しくてすごくあったかいのよぉ！？ ほんとにマジでちいさくてきれいですもん～っ https://t.co/fs6HmVWDu6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "2043259817121448322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1125,
+          "following_count": 1720,
+          "like_count": 6212,
+          "listed_count": 0,
+          "media_count": 406,
+          "tweet_count": 800
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

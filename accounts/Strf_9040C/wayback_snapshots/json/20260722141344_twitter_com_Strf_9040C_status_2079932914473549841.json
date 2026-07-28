@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079932902016778240"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079932914473549841",
+    "created_at": "2026-07-22T14:13:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T15:13:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079932914473549841"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JDgdUX7xXC",
+          "end": 83,
+          "expanded_url": "https://x.com/Strf_9040C/status/2079932914473549841/photo/1",
+          "media_key": "3_2079932902016778240",
+          "start": 60,
+          "url": "https://t.co/JDgdUX7xXC"
+        },
+        {
+          "display_url": "x.com/8964shrimp/sta…",
+          "end": 107,
+          "expanded_url": "https://twitter.com/8964shrimp/status/2079497829538836830",
+          "start": 84,
+          "url": "https://t.co/I5yODkkklj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079932914473549841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079497829538836830",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我：设备科，你可以帮我修监护吗\n设备科：什么监护\n我：SdI𠃍IHd 牌监护仪\n设备科：没听过，拍张照片给我看看\n我： https://t.co/JDgdUX7xXC https://t.co/I5yODkkklj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3600,
+        "media_key": "3_2079932902016778240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1n9FVbgAAUuCm.jpg",
+        "width": 3000
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2079497821884125184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvcQFiaEAAlAGh.jpg",
+        "width": 1081
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079932902016778240"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079932914473549841",
+        "created_at": "2026-07-22T14:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079932914473549841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JDgdUX7xXC",
+              "end": 83,
+              "expanded_url": "https://x.com/Strf_9040C/status/2079932914473549841/photo/1",
+              "media_key": "3_2079932902016778240",
+              "start": 60,
+              "url": "https://t.co/JDgdUX7xXC"
+            },
+            {
+              "display_url": "x.com/8964shrimp/sta…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/8964shrimp/status/2079497829538836830",
+              "start": 84,
+              "url": "https://t.co/I5yODkkklj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079932914473549841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079497829538836830",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我：设备科，你可以帮我修监护吗\n设备科：什么监护\n我：SdI𠃍IHd 牌监护仪\n设备科：没听过，拍张照片给我看看\n我： https://t.co/JDgdUX7xXC https://t.co/I5yODkkklj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079497821884125184"
+          ]
+        },
+        "author_id": "1891722301584048128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079497829538836830",
+        "created_at": "2026-07-21T09:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079497829538836830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dhwNyEqd4m",
+              "end": 28,
+              "expanded_url": "https://x.com/8964shrimp/status/2079497829538836830/photo/1",
+              "media_key": "3_2079497821884125184",
+              "start": 5,
+              "url": "https://t.co/dhwNyEqd4m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079497829538836830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 235,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "dy電腦 https://t.co/dhwNyEqd4m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2076732270384464027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1619,
+          "following_count": 2474,
+          "like_count": 14065,
+          "listed_count": 2,
+          "media_count": 661,
+          "tweet_count": 1173
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T05:32:05.000Z",
+        "description": "最愛的雨夏老婆：@xiyu86｜友順mtf（x？｜自殺干預｜蝦的精神狀態基本穩定 難受了可以找我聊天｜持證含糖：2025.3.12｜單車佬｜躁鬱｜酸民退散｜政治立場❌政治迷因🉑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 8,
+                "username": "xiyu86"
+              }
+            ]
+          }
+        },
+        "id": "1891722301584048128",
+        "location": "月球",
+        "name": "蝦蝦醬🏳️‍⚧️",
+        "pinned_tweet_id": "2076900555994349722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062537785681362944/QpoDPa-s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 636,
+          "like_count": 13599,
+          "listed_count": 2,
+          "media_count": 291,
+          "tweet_count": 2309
+        },
+        "url": "",
+        "username": "8964shrimp",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029502856374763520",
+        "3_2029503300014571520",
+        "3_2029503300014649345",
+        "3_2029503300027187200"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2029503318326960573",
+    "created_at": "2026-03-05T10:24:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T11:24:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029503318326960573"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/l9ZnzDr5Q1",
+          "end": 165,
+          "expanded_url": "https://x.com/Strf_9040C/status/2029503318326960573/photo/1",
+          "media_key": "3_2029502856374763520",
+          "start": 142,
+          "url": "https://t.co/l9ZnzDr5Q1"
+        },
+        {
+          "display_url": "pic.x.com/l9ZnzDr5Q1",
+          "end": 165,
+          "expanded_url": "https://x.com/Strf_9040C/status/2029503318326960573/photo/1",
+          "media_key": "3_2029503300014571520",
+          "start": 142,
+          "url": "https://t.co/l9ZnzDr5Q1"
+        },
+        {
+          "display_url": "pic.x.com/l9ZnzDr5Q1",
+          "end": 165,
+          "expanded_url": "https://x.com/Strf_9040C/status/2029503318326960573/photo/1",
+          "media_key": "3_2029503300014649345",
+          "start": 142,
+          "url": "https://t.co/l9ZnzDr5Q1"
+        },
+        {
+          "display_url": "pic.x.com/l9ZnzDr5Q1",
+          "end": 165,
+          "expanded_url": "https://x.com/Strf_9040C/status/2029503318326960573/photo/1",
+          "media_key": "3_2029503300027187200",
+          "start": 142,
+          "url": "https://t.co/l9ZnzDr5Q1"
+        },
+        {
+          "display_url": "x.com/iamThujaS/stat…",
+          "end": 189,
+          "expanded_url": "https://twitter.com/iamThujaS/status/2028460348618293620",
+          "start": 166,
+          "url": "https://t.co/Z9lEOf4cEk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029503318326960573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028460348618293620",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看不下去书的话，就翻开（或者重新翻开）《临床急救医学》\n《急诊与灾难医学》\n《实用急诊医学》\n《现代急诊医学》\n《协和急诊住院医师手册》\n《实用急诊手册》\n《急诊速查手册》，纪实、文采、阅读趣味性都有。\n\n从我个人角度…如果你没读过这本，那看正儿八经的比较枯燥的也绝对绝对读不下去。 https://t.co/l9ZnzDr5Q1 https://t.co/Z9lEOf4cEk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 695,
+        "media_key": "3_2029502856374763520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCo-GFjbwAAsKw_.jpg",
+        "width": 474
+      },
+      {
+        "height": 432,
+        "media_key": "3_2029503300014571520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCo-f6PaAAAmkRG.jpg",
+        "width": 306
+      },
+      {
+        "height": 656,
+        "media_key": "3_2029503300014649345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCo-f6PbMAEJcMe.jpg",
+        "width": 474
+      },
+      {
+        "height": 800,
+        "media_key": "3_2029503300027187200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCo-f6SagAA8_zh.png",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029502856374763520",
+            "3_2029503300014571520",
+            "3_2029503300014649345",
+            "3_2029503300027187200"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2029503318326960573",
+        "created_at": "2026-03-05T10:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T11:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029503318326960573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l9ZnzDr5Q1",
+              "end": 165,
+              "expanded_url": "https://x.com/Strf_9040C/status/2029503318326960573/photo/1",
+              "media_key": "3_2029502856374763520",
+              "start": 142,
+              "url": "https://t.co/l9ZnzDr5Q1"
+            },
+            {
+              "display_url": "pic.x.com/l9ZnzDr5Q1",
+              "end": 165,
+              "expanded_url": "https://x.com/Strf_9040C/status/2029503318326960573/photo/1",
+              "media_key": "3_2029503300014571520",
+              "start": 142,
+              "url": "https://t.co/l9ZnzDr5Q1"
+            },
+            {
+              "display_url": "pic.x.com/l9ZnzDr5Q1",
+              "end": 165,
+              "expanded_url": "https://x.com/Strf_9040C/status/2029503318326960573/photo/1",
+              "media_key": "3_2029503300014649345",
+              "start": 142,
+              "url": "https://t.co/l9ZnzDr5Q1"
+            },
+            {
+              "display_url": "pic.x.com/l9ZnzDr5Q1",
+              "end": 165,
+              "expanded_url": "https://x.com/Strf_9040C/status/2029503318326960573/photo/1",
+              "media_key": "3_2029503300027187200",
+              "start": 142,
+              "url": "https://t.co/l9ZnzDr5Q1"
+            },
+            {
+              "display_url": "x.com/iamThujaS/stat…",
+              "end": 189,
+              "expanded_url": "https://twitter.com/iamThujaS/status/2028460348618293620",
+              "start": 166,
+              "url": "https://t.co/Z9lEOf4cEk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029503318326960573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028460348618293620",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看不下去书的话，就翻开（或者重新翻开）《临床急救医学》\n《急诊与灾难医学》\n《实用急诊医学》\n《现代急诊医学》\n《协和急诊住院医师手册》\n《实用急诊手册》\n《急诊速查手册》，纪实、文采、阅读趣味性都有。\n\n从我个人角度…如果你没读过这本，那看正儿八经的比较枯燥的也绝对绝对读不下去。 https://t.co/l9ZnzDr5Q1 https://t.co/Z9lEOf4cEk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884546510919979008",
+        "conversation_id": "2028254519596032174",
+        "created_at": "2026-03-02T13:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T14:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028460348618293620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1558634618739474432",
+              "start": 0,
+              "username": "Meico_Meico"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028460348618293620",
+        "in_reply_to_user_id": "1558634618739474432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55596,
+          "like_count": 18,
+          "quote_count": 18,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028444203802320919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meico_Meico 看不下去书的话，就翻开（或者重新翻开）《红星照耀中国》，纪实、文采、阅读趣味性都有。\n\n从我个人角度…如果你没读过这本，那看正儿八经的比较枯燥的也绝对绝对读不下去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1888264013416645010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 1476,
+          "like_count": 5000,
+          "listed_count": 0,
+          "media_count": 309,
+          "tweet_count": 665
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T10:18:10.000Z",
+        "description": "依旧正宗劳保，依旧做题蛆//冲出地狱，只为让各位粉红王座反贼之黑顺直o圈伪娘非二元地雷系性压抑南拳女拳扫福瑞币圈赌狗随机吃上一口新鲜大份/依旧平等歧视三观不正之神人，依旧刀刀烈火刀刀爆/@theRealThujaS唯一小号，@ThujaSlover为支黑假扮号。默认一切瞎鉴证追着骂的不论立场司爹司马//求转帖QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 93,
+                "username": "theRealThujaS"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "ThujaSlover"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuexi.cn",
+                "end": 23,
+                "expanded_url": "http://xuexi.cn",
+                "start": 0,
+                "url": "https://t.co/Wwc59b2vAo"
+              }
+            ]
+          }
+        },
+        "id": "1884546510919979008",
+        "location": "章北海和马督工的老家",
+        "name": "传奇出生乌鲁鲁（浮木克星）",
+        "pinned_tweet_id": "2028782459337535762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025544194094489600/fqjmK1vS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 508,
+          "like_count": 2377,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 820
+        },
+        "url": "https://t.co/Wwc59b2vAo",
+        "username": "iamThujaS",
+        "verified": true
+      }
+    ]
+  }
+}

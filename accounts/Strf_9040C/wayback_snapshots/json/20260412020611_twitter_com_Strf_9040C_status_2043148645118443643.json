@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043148589220974592",
+        "3_2043148589208317952"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2043148645118443643",
+    "created_at": "2026-04-12T02:06:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T03:06:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043148645118443643"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5xDn85tUC1",
+          "end": 36,
+          "expanded_url": "https://x.com/Strf_9040C/status/2043148645118443643/photo/1",
+          "media_key": "3_2043148589220974592",
+          "start": 13,
+          "url": "https://t.co/5xDn85tUC1"
+        },
+        {
+          "display_url": "pic.x.com/5xDn85tUC1",
+          "end": 36,
+          "expanded_url": "https://x.com/Strf_9040C/status/2043148645118443643/photo/1",
+          "media_key": "3_2043148589208317952",
+          "start": 13,
+          "url": "https://t.co/5xDn85tUC1"
+        },
+        {
+          "display_url": "x.com/0xTraderYi/sta…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/0xTraderYi/status/2042870145287360685",
+          "start": 37,
+          "url": "https://t.co/G10HDJoROc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043148645118443643",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042870145287360685",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "穿个全封闭重型防化服直播 https://t.co/5xDn85tUC1 https://t.co/G10HDJoROc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2043148589220974592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFq40RvbUAA4PHf.jpg",
+        "width": 2666
+      },
+      {
+        "height": 500,
+        "media_key": "3_2043148589208317952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFq40RsaMAAAgOK.jpg",
+        "width": 500
+      },
+      {
+        "height": 480,
+        "media_key": "3_2042870131718787074",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFm7j6takAIfesS.jpg",
+        "width": 763
+      },
+      {
+        "height": 1737,
+        "media_key": "3_2042870131710410753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFm7j6rawAEy8Ne.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043148589220974592",
+            "3_2043148589208317952"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2043148645118443643",
+        "created_at": "2026-04-12T02:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T03:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043148645118443643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5xDn85tUC1",
+              "end": 36,
+              "expanded_url": "https://x.com/Strf_9040C/status/2043148645118443643/photo/1",
+              "media_key": "3_2043148589220974592",
+              "start": 13,
+              "url": "https://t.co/5xDn85tUC1"
+            },
+            {
+              "display_url": "pic.x.com/5xDn85tUC1",
+              "end": 36,
+              "expanded_url": "https://x.com/Strf_9040C/status/2043148645118443643/photo/1",
+              "media_key": "3_2043148589208317952",
+              "start": 13,
+              "url": "https://t.co/5xDn85tUC1"
+            },
+            {
+              "display_url": "x.com/0xTraderYi/sta…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/0xTraderYi/status/2042870145287360685",
+              "start": 37,
+              "url": "https://t.co/G10HDJoROc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043148645118443643",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042870145287360685",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "穿个全封闭重型防化服直播 https://t.co/5xDn85tUC1 https://t.co/G10HDJoROc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042870131718787074",
+            "3_2042870131710410753"
+          ]
+        },
+        "author_id": "965503592391098368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042870145287360685",
+        "created_at": "2026-04-11T07:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042870145287360685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9AcMaCkPyb",
+              "end": 56,
+              "expanded_url": "https://x.com/0xTraderYi/status/2042870145287360685/photo/1",
+              "media_key": "3_2042870131718787074",
+              "start": 33,
+              "url": "https://t.co/9AcMaCkPyb"
+            },
+            {
+              "display_url": "pic.x.com/9AcMaCkPyb",
+              "end": 56,
+              "expanded_url": "https://x.com/0xTraderYi/status/2042870145287360685/photo/1",
+              "media_key": "3_2042870131710410753",
+              "start": 33,
+              "url": "https://t.co/9AcMaCkPyb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042870145287360685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3881,
+          "impression_count": 2851474,
+          "like_count": 23527,
+          "quote_count": 137,
+          "reply_count": 416,
+          "retweet_count": 1284
+        },
+        "reply_settings": "everyone",
+        "text": "永劫无间直播厅里的女解说员被批过于暴露，然后。。。。图2来了🤣🤣 https://t.co/9AcMaCkPyb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1888264013416645010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 1678,
+          "like_count": 5899,
+          "listed_count": 0,
+          "media_count": 397,
+          "tweet_count": 790
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-19T08:29:29.000Z",
+        "description": "实盘trader ｜币coin实盘 四年240倍 ｜币安 现货合约邀请码 BNBN2026|🛰️ xiazongbatou｜qq裙 1015797317",
+        "id": "965503592391098368",
+        "location": "Auckland, New Zealand",
+        "name": "Trader壹身武艺｜🔶BNB| IQ16 🕊️",
+        "pinned_tweet_id": "1961787183049953397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012142279079952384/_FESP4fc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14020,
+          "following_count": 1597,
+          "like_count": 12714,
+          "listed_count": 130,
+          "media_count": 4725,
+          "tweet_count": 20754
+        },
+        "username": "0xTraderYi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "2055950296895963220",
+    "created_at": "2026-05-17T09:58:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T10:58:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055951017855074702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2039523379137396736",
+          "start": 0,
+          "username": "edjdjwjsifjnf8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055951017855074702",
+    "in_reply_to_user_id": "2039523379137396736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055950296895963220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@edjdjwjsifjnf8 我是吃完静坐不能\n之后就不吃了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "2055950296895963220",
+        "created_at": "2026-05-17T09:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055951017855074702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2039523379137396736",
+              "start": 0,
+              "username": "edjdjwjsifjnf8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055951017855074702",
+        "in_reply_to_user_id": "2039523379137396736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055950296895963220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@edjdjwjsifjnf8 我是吃完静坐不能\n之后就不吃了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039523379137396736",
+        "conversation_id": "2055950296895963220",
+        "created_at": "2026-05-17T09:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055950296895963220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Strf_9040C/sta…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Strf_9040C/status/2055946484147970172",
+              "start": 22,
+              "url": "https://t.co/APrKTrSu6G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055950296895963220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055946484147970172",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以前为了戒烟吃过，吃完之后躁狂，再不吃了😇 https://t.co/APrKTrSu6G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2054846201502306755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1302,
+          "following_count": 2043,
+          "like_count": 10124,
+          "listed_count": 2,
+          "media_count": 500,
+          "tweet_count": 959
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T02:01:07.000Z",
+        "description": "专心干自己的事最重要\n\n时政禁止🚫/炒作禁止🚫/性欲禁止🚫/有限社交😷/太烦人了会block👿/自由左🤯/摄影初学📷/谢谢😘",
+        "id": "2039523379137396736",
+        "name": "Pr4v_a",
+        "pinned_tweet_id": "2054986430036754635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043975819488571408/QGZD530C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 72,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 140
+        },
+        "username": "edjdjwjsifjnf8",
+        "verified": false
+      }
+    ]
+  }
+}

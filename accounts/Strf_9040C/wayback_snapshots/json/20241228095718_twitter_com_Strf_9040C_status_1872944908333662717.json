@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1872794683174469892",
+    "created_at": "2024-12-28T09:57:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T10:57:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872944908333662717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1842419332187561984",
+          "start": 0,
+          "username": "AlyssaKUMA_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872944908333662717",
+    "in_reply_to_user_id": "1842419332187561984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872794683174469892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlyssaKUMA_ 中国现在有齐鲁方案\n如果抢救的及时，净化的彻底，吸收的量少的话\n还是有几率可以抢救回来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1872794683174469892",
+        "created_at": "2024-12-28T09:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T10:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872944908333662717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1842419332187561984",
+              "start": 0,
+              "username": "AlyssaKUMA_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872944908333662717",
+        "in_reply_to_user_id": "1842419332187561984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872794683174469892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlyssaKUMA_ 中国现在有齐鲁方案\n如果抢救的及时，净化的彻底，吸收的量少的话\n还是有几率可以抢救回来的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872794680276205570"
+          ]
+        },
+        "author_id": "1842419332187561984",
+        "conversation_id": "1872794683174469892",
+        "created_at": "2024-12-28T00:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T01:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872794683174469892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RSsYwftxEK",
+              "end": 77,
+              "expanded_url": "https://x.com/AlyssaKUMA_/status/1872794683174469892/photo/1",
+              "media_key": "3_1872794680276205570",
+              "start": 54,
+              "url": "https://t.co/RSsYwftxEK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872794683174469892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 332,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只要成分里没有百草枯，以现在农药的毒性，基本都能洗得回来。\n如果检测出有一丁点百草枯，那就准备后事吧没救了 https://t.co/RSsYwftxEK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 663,
+          "like_count": 913,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 137
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T04:19:46.000Z",
+        "description": "病名為愛中國人的病。\n\n零壹貳叁肆伍陸柒捌。",
+        "id": "1842419332187561984",
+        "location": "中國人能理解什麼是愛嗎",
+        "name": "🧸愛莉莎∞小熊🍻『中國人重度依賴』",
+        "pinned_tweet_id": "1872152510624104691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872558404293771264/IsH3BFnl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 106,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 156
+        },
+        "username": "AlyssaKUMA_",
+        "verified": false
+      }
+    ]
+  }
+}

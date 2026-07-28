@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051988904258228224"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2051988911703171091",
+    "created_at": "2026-05-06T11:34:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T12:34:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051988911703171091"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/v2nojSTktw",
+          "end": 34,
+          "expanded_url": "https://x.com/Strf_9040C/status/2051988911703171091/photo/1",
+          "media_key": "3_2051988904258228224",
+          "start": 11,
+          "url": "https://t.co/v2nojSTktw"
+        },
+        {
+          "display_url": "x.com/ashasw114514/s…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/ashasw114514/status/2048699344552161741",
+          "start": 35,
+          "url": "https://t.co/Fs2Ezq4hOq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051988911703171091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048699344552161741",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是不是水最多的跨区 https://t.co/v2nojSTktw https://t.co/Fs2Ezq4hOq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2051988911703171091].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2051988911703171091",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2051988911703171091"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1387,
+        "media_key": "3_2051988904258228224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHohCVla0AAoXhw.jpg",
+        "width": 640
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2048699341737701376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5xMmPaMAAmE7G.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048699341737701376"
+          ]
+        },
+        "author_id": "1981638054688501760",
+        "conversation_id": "2048699344552161741",
+        "created_at": "2026-04-27T09:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048699344552161741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BrY9EHgBle",
+              "end": 34,
+              "expanded_url": "https://x.com/ashasw114514/status/2048699344552161741/photo/1",
+              "media_key": "3_2048699341737701376",
+              "start": 11,
+              "url": "https://t.co/BrY9EHgBle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048699344552161741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 12646,
+          "like_count": 128,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是不是水最多的跨区 https://t.co/BrY9EHgBle"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A\n主人🥰@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              },
+              {
+                "end": 152,
+                "start": 143,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "2043259817121448322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 1956,
+          "like_count": 9323,
+          "listed_count": 0,
+          "media_count": 482,
+          "tweet_count": 933
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "they/him  县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52 妈妈 @maopao_hfqy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 78,
+                "username": "maopao_hfqy"
+              }
+            ]
+          }
+        },
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2953,
+          "following_count": 2651,
+          "like_count": 6262,
+          "listed_count": 9,
+          "media_count": 418,
+          "tweet_count": 3752
+        },
+        "username": "ashasw114514",
+        "verified": true
+      }
+    ]
+  }
+}

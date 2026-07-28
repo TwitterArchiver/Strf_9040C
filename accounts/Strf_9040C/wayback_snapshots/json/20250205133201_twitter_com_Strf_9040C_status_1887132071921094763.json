@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1886707425052655891",
+    "created_at": "2025-02-05T13:32:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T14:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887132071921094763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1795643595703431168",
+          "start": 0,
+          "username": "emo_love_tired"
+        },
+        {
+          "end": 28,
+          "id": "1794430867655602176",
+          "start": 16,
+          "username": "SuperLzydtt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887132071921094763",
+    "in_reply_to_user_id": "1795643595703431168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887131587101278583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@emo_love_tired @SuperLzydtt 告诉他亚硝酸钠有多痛苦\n我主页就有\n往下翻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1886707425052655891",
+        "created_at": "2025-02-05T13:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T14:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887132071921094763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1795643595703431168",
+              "start": 0,
+              "username": "emo_love_tired"
+            },
+            {
+              "end": 28,
+              "id": "1794430867655602176",
+              "start": 16,
+              "username": "SuperLzydtt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887132071921094763",
+        "in_reply_to_user_id": "1795643595703431168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887131587101278583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@emo_love_tired @SuperLzydtt 告诉他亚硝酸钠有多痛苦\n我主页就有\n往下翻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795643595703431168",
+        "conversation_id": "1886707425052655891",
+        "created_at": "2025-02-05T13:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T14:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887131587101278583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1794430867655602176",
+              "start": 0,
+              "username": "SuperLzydtt"
+            },
+            {
+              "end": 24,
+              "id": "1721895937357004800",
+              "start": 13,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887131587101278583",
+        "in_reply_to_user_id": "1794430867655602176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887130746118443236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuperLzydtt @Strf_9040C 唉 我知道这样劝也没有用 因为我也想死 别人劝我我也听不进去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 1608,
+          "like_count": 4999,
+          "listed_count": 1,
+          "media_count": 259,
+          "tweet_count": 573
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T02:29:41.000Z",
+        "description": "女/20/双相情感障碍/臭🐟烂🦐/废物/腐烂发臭\n\n别的也懒得多说了，总之垃圾一个",
+        "id": "1795643595703431168",
+        "location": "我是垃圾",
+        "name": "emo崽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805917035660283904/kbPDchZh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 205,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 1023
+        },
+        "username": "emo_love_tired",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T18:10:58.000Z",
+        "description": "坐标武汉Wuhan/07高中生/不是很看重MBTI，但是自测ISFP-OH/🌈0brat/phigros/第五人格/王者/米游我已经没怎么玩了😭/上学ing/一般都会互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qicaiji.cn",
+                "end": 23,
+                "expanded_url": "http://www.qicaiji.cn",
+                "start": 0,
+                "url": "https://t.co/pA4sFfKuq3"
+              }
+            ]
+          }
+        },
+        "id": "1794430867655602176",
+        "location": "中国",
+        "name": "0761b2",
+        "pinned_tweet_id": "1816731532138348945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866322679177039872/hNLy2vue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 331,
+          "like_count": 4366,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1427
+        },
+        "url": "https://t.co/pA4sFfKuq3",
+        "username": "SuperLzydtt",
+        "verified": false
+      }
+    ]
+  }
+}

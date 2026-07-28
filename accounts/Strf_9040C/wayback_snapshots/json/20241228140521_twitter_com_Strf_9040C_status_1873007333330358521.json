@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1871954514917666991",
+    "created_at": "2024-12-28T14:05:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T15:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873007333330358521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1690706941134397440",
+          "start": 0,
+          "username": "ITNSatori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873007333330358521",
+    "in_reply_to_user_id": "1690706941134397440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871954514917666991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ITNSatori 至少我知道震颤是因为锂的副作用导致的\n碳酸锂的毒副作用就有震颤，而且根据你的服药史似乎也没有其他可以导致震颤的药物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1871954514917666991",
+        "created_at": "2024-12-28T14:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T15:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873007333330358521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1690706941134397440",
+              "start": 0,
+              "username": "ITNSatori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873007333330358521",
+        "in_reply_to_user_id": "1690706941134397440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871954514917666991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ITNSatori 至少我知道震颤是因为锂的副作用导致的\n碳酸锂的毒副作用就有震颤，而且根据你的服药史似乎也没有其他可以导致震颤的药物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690706941134397440",
+        "conversation_id": "1871954514917666991",
+        "created_at": "2024-12-25T16:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T17:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871954514917666991"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1871954514917666991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 608,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么吃完阿普唑仑后就一直在发抖（还吃了劳拉西泮，碳酸锂和舍曲林）\n然后说出的话也毫无逻辑，脑袋也有点晕晕的分辨不了方向\n甚至还有点兴奋？这不是安眠药吗\n可能兴奋一会就睡着了吧呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 687,
+          "like_count": 990,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 139
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T12:48:48.000Z",
+        "description": "1/5 164/49 🏳‍⚧️HRT:2023.12.16🍥 主人 @KOISHI_IV 姐姐们 @shuixian120886 不明程度抖M  拒绝键政\n英酱是一只想努力帮助别人的猫猫\n原来英酱只是过气了所以推文才没人看",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "KOISHI_IV"
+              },
+              {
+                "end": 64,
+                "start": 49,
+                "username": "shuixian120886"
+              }
+            ]
+          }
+        },
+        "id": "1690706941134397440",
+        "location": "距离你 -18cm",
+        "name": "小英酱喵🍥🏳‍⚧️",
+        "pinned_tweet_id": "1834562768722379079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866231302997098496/mnl2_0mk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3077,
+          "following_count": 224,
+          "like_count": 6286,
+          "listed_count": 7,
+          "media_count": 133,
+          "tweet_count": 640
+        },
+        "username": "ITNSatori",
+        "verified": false
+      }
+    ]
+  }
+}

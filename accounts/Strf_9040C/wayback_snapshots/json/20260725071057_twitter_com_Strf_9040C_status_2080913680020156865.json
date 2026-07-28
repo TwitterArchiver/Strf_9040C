@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "2080515994423079298",
+    "created_at": "2026-07-25T07:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T08:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080913680020156865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "461558918",
+          "start": 0,
+          "username": "jljensen326"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080913680020156865",
+    "in_reply_to_user_id": "461558918",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080886496064831992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jljensen326 You just eat beef, lamb, pork, and chicken to fill your stomach? Isn't that ridiculous?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "2080515994423079298",
+        "created_at": "2026-07-25T07:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080913680020156865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "461558918",
+              "start": 0,
+              "username": "jljensen326"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080913680020156865",
+        "in_reply_to_user_id": "461558918",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080886496064831992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jljensen326 You just eat beef, lamb, pork, and chicken to fill your stomach? Isn't that ridiculous?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "461558918",
+        "conversation_id": "2080515994423079298",
+        "created_at": "2026-07-25T05:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080886496064831992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721895937357004800",
+              "start": 0,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080886496064831992",
+        "in_reply_to_user_id": "1721895937357004800",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080515994423079298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strf_9040C Fuck you motherfucker \n\nYou kill cats for fun?\n\nSubhuman piece of shit."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2076732270384464027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 2480,
+          "like_count": 14221,
+          "listed_count": 2,
+          "media_count": 670,
+          "tweet_count": 1184
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-11T22:57:21.000Z",
+        "description": "",
+        "id": "461558918",
+        "name": ".........",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758576738593034240/88wJ9ho3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 3693,
+          "like_count": 9016,
+          "listed_count": 1,
+          "media_count": 402,
+          "tweet_count": 2397
+        },
+        "url": "",
+        "username": "jljensen326",
+        "verified": false
+      }
+    ]
+  }
+}

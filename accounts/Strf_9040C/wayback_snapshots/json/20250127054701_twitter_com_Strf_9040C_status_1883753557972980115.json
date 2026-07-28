@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1883753557972980115",
+    "created_at": "2025-01-27T05:47:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T06:47:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883753557972980115"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/blackkingbar11…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/blackkingbar114/status/1883716347999457728",
+          "start": 20,
+          "url": "https://t.co/dh0vI1RrRl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883753557972980115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883716347999457728",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一想到和我对线的是这种人我就长舒一口气 https://t.co/dh0vI1RrRl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1883753557972980115",
+        "created_at": "2025-01-27T05:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T06:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883753557972980115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/blackkingbar11…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/blackkingbar114/status/1883716347999457728",
+              "start": 20,
+              "url": "https://t.co/dh0vI1RrRl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883753557972980115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883716347999457728",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一想到和我对线的是这种人我就长舒一口气 https://t.co/dh0vI1RrRl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883716345763917824"
+          ]
+        },
+        "author_id": "1331199428657483783",
+        "conversation_id": "1883716347999457728",
+        "created_at": "2025-01-27T03:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T04:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883716347999457728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z6cgEf5tDI",
+              "end": 41,
+              "expanded_url": "https://x.com/blackkingbar114/status/1883716347999457728/photo/1",
+              "media_key": "3_1883716345763917824",
+              "start": 18,
+              "url": "https://t.co/Z6cgEf5tDI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883716347999457728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 831,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蜘蛛感觉都是一个模子里刻出来的…… https://t.co/Z6cgEf5tDI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 1447,
+          "like_count": 3211,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 355
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-24T11:34:23.000Z",
+        "description": "INFP-T| 你觉得对那我就草死你的吗|幼稚的理想英雄主义者| 尊重不同立场丨galgame音游单机DOTA2中军LOL癌症晚期车万术力口｜pjsk｜邦邦｜Jpop、电子，流行朋克以及爵士｜已经变成死宅｜我是神人/极致抽象b",
+        "id": "1331199428657483783",
+        "location": "君の居た街だ",
+        "name": "Amia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882132203561431040/1HJY_0qL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 763,
+          "like_count": 25021,
+          "listed_count": 0,
+          "media_count": 1358,
+          "tweet_count": 6647
+        },
+        "username": "blackkingbar114",
+        "verified": false
+      }
+    ]
+  }
+}

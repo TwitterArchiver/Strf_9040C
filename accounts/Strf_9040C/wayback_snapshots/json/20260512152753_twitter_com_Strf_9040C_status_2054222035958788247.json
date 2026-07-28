@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2054222035958788247",
+    "created_at": "2026-05-12T15:27:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T16:27:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054222035958788247"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/A_Asystem/stat…",
+          "end": 252,
+          "expanded_url": "https://twitter.com/A_Asystem/status/2054220390747222476",
+          "start": 229,
+          "url": "https://t.co/0qV1dAxwew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054222035958788247",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054220390747222476",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "《2025 美国国家行为健康危机护理协调系统指南》(SAMHSA)\n《中国精神科急诊管理专家共识 》\n《Kaplan &amp; Sadock's Synopsis of Psychiatry 》\n《Oxford Textbook of Clinical Nephrology/Medicine 》\n《NetCE: A Review of Psychiatric Emergencies 》\nC-SSRS量表\n《WHO mhGAP 介入指南 (2024)》 https://t.co/0qV1dAxwew"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2054222035958788247",
+        "created_at": "2026-05-12T15:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054222035958788247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/A_Asystem/stat…",
+              "end": 252,
+              "expanded_url": "https://twitter.com/A_Asystem/status/2054220390747222476",
+              "start": 229,
+              "url": "https://t.co/0qV1dAxwew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054222035958788247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054220390747222476",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《2025 美国国家行为健康危机护理协调系统指南》(SAMHSA)\n《中国精神科急诊管理专家共识 》\n《Kaplan &amp; Sadock's Synopsis of Psychiatry 》\n《Oxford Textbook of Clinical Nephrology/Medicine 》\n《NetCE: A Review of Psychiatric Emergencies 》\nC-SSRS量表\n《WHO mhGAP 介入指南 (2024)》 https://t.co/0qV1dAxwew"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868701291830206464",
+        "conversation_id": "2053692161615683832",
+        "created_at": "2026-05-12T15:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054220390747222476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721895937357004800",
+              "start": 0,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054220390747222476",
+        "in_reply_to_user_id": "1868701291830206464",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054165482794799430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strf_9040C 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A\n主人🥰@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              },
+              {
+                "end": 152,
+                "start": 143,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "2043259817121448322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 1993,
+          "like_count": 9678,
+          "listed_count": 2,
+          "media_count": 469,
+          "tweet_count": 922
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T16:54:52.000Z",
+        "description": "这里还是一只喜欢打牌的含糖🍥小熊🧸@Ereaurora的新账号/\n主要发推记录日常或当做树洞/\n偶尔读社会科学/\n炉石 影之诗 ptcg(国际服环境) lor 万智牌(xmage和untap上玩edh) \n以及一些小众卡牌游戏均有涉猎\n(不会三国杀和游戏王qwq)/\n卡牌游戏及steam加好友或互fo请私信哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Ereaurora"
+              }
+            ]
+          }
+        },
+        "id": "1868701291830206464",
+        "location": "1m",
+        "name": "Aurora&Andromeda🧸🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1905421355195269408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868702280343801856/VCqgJsef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 575,
+          "like_count": 10598,
+          "listed_count": 7,
+          "media_count": 122,
+          "tweet_count": 6067
+        },
+        "username": "A_Asystem",
+        "verified": false
+      }
+    ]
+  }
+}

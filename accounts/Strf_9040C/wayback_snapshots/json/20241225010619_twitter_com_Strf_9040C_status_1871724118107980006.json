@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1871724103251730432"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "1871724118107980006",
+    "created_at": "2024-12-25T01:06:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-25T02:06:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1871724118107980006"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hgNMJPuYBg",
+          "end": 34,
+          "expanded_url": "https://x.com/Strf_9040C/status/1871724118107980006/photo/1",
+          "media_key": "3_1871724103251730432",
+          "start": 11,
+          "url": "https://t.co/hgNMJPuYBg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871724118107980006",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "肉色纯丝弹力原味谁要 https://t.co/hgNMJPuYBg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1871724118107980006].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1871724118107980006",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1871724118107980006"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2080,
+        "media_key": "3_1871724103251730432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfmzJ7PbIAAiclH.jpg",
+        "width": 1168
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 529,
+          "like_count": 623,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 92
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

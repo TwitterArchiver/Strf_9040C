@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "2055849053041447409",
+    "created_at": "2026-05-17T03:13:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T04:13:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055849053041447409"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kawail_Yachiyo…",
+          "end": 114,
+          "expanded_url": "https://twitter.com/kawail_Yachiyo/status/2055836904294134137",
+          "start": 91,
+          "url": "https://t.co/tAR6sM458Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055849053041447409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055836904294134137",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "披着“干预”外衣行霸凌之实，拒学专家共识却迷信举报。口称保护MTF免受言论伤害，实则疯狂输出恶毒咒骂。用“抑郁症”绑架舆论，将救助异化为权力傲慢。既无专业素养更无共情，这哪是救人？ https://t.co/tAR6sM458Q"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "2055849053041447409",
+        "created_at": "2026-05-17T03:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055849053041447409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kawail_Yachiyo…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/kawail_Yachiyo/status/2055836904294134137",
+              "start": 91,
+              "url": "https://t.co/tAR6sM458Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055849053041447409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055836904294134137",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "披着“干预”外衣行霸凌之实，拒学专家共识却迷信举报。口称保护MTF免受言论伤害，实则疯狂输出恶毒咒骂。用“抑郁症”绑架舆论，将救助异化为权力傲慢。既无专业素养更无共情，这哪是救人？ https://t.co/tAR6sM458Q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974380290031132672",
+        "conversation_id": "2055836904294134137",
+        "created_at": "2026-05-17T02:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055836904294134137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Strf_9040C/sta…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/Strf_9040C/status/2053527981717680140",
+              "start": 138,
+              "url": "https://t.co/TbP25Nq1nY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055836904294134137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053527981717680140",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "问题是我不是在第一条帖子里面已经提及了另外两个人吗 我本人本来现在就已经是重度抑郁症 我举报之后我是会向另外两个人说的好吗 你要是想骂人你可以直接提及我没有必要把我的帖子截图后发到你这个账号上 你父母是想被我操飞了还是怎么着 不了解实际情况就在这里骂有意思吗 真是他妈欠屠了 https://t.co/TbP25Nq1nY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2054846201502306755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 2037,
+          "like_count": 10015,
+          "listed_count": 2,
+          "media_count": 495,
+          "tweet_count": 954
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T07:45:32.000Z",
+        "description": "八年級初中生｜重度抑鬱症｜不一定即時互fo｜pepoyo粉絲｜成分正常可互fo｜全力支持LGBTQ+ 社區｜聯繫我：lzeyu2811@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@lzy-u4q",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/@lzy-u4q",
+                "start": 0,
+                "url": "https://t.co/uMYDt9cawl"
+              }
+            ]
+          }
+        },
+        "id": "1974380290031132672",
+        "location": "仮想空間＜ツクヨミ＞",
+        "name": "PPY@推八千代🍥（8964）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050583838754025472/N2MYQSUI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 486,
+          "like_count": 2552,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 569
+        },
+        "url": "https://t.co/uMYDt9cawl",
+        "username": "kawail_Yachiyo",
+        "verified": false
+      }
+    ]
+  }
+}

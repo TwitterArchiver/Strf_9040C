@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1884946360946045293",
+    "created_at": "2025-01-30T14:55:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T15:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884978739148357952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1798351536222789632",
+          "start": 0,
+          "username": "BeckyW2349"
+        },
+        {
+          "end": 25,
+          "id": "3406534323",
+          "start": 12,
+          "username": "aalmonacid18"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884978739148357952",
+    "in_reply_to_user_id": "1798351536222789632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884978475188240882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeckyW2349 @aalmonacid18 急"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1884946360946045293",
+        "created_at": "2025-01-30T14:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T15:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884978739148357952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1798351536222789632",
+              "start": 0,
+              "username": "BeckyW2349"
+            },
+            {
+              "end": 25,
+              "id": "3406534323",
+              "start": 12,
+              "username": "aalmonacid18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884978739148357952",
+        "in_reply_to_user_id": "1798351536222789632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884978475188240882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeckyW2349 @aalmonacid18 急"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798351536222789632",
+        "conversation_id": "1884946360946045293",
+        "created_at": "2025-01-30T14:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T15:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884978475188240882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3406534323",
+              "start": 0,
+              "username": "aalmonacid18"
+            },
+            {
+              "end": 25,
+              "id": "1721895937357004800",
+              "start": 14,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884978475188240882",
+        "in_reply_to_user_id": "3406534323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884951048332480764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aalmonacid18 @Strf_9040C 妈的骂不过就举报笑死我了玩不起的小孩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 1512,
+          "like_count": 3690,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 452
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T13:50:11.000Z",
+        "description": "NaNa+ Tg@Fei991111",
+        "id": "1798351536222789632",
+        "name": "阿飞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884977840376213504/6RHghSY6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "BeckyW2349",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-07T03:06:09.000Z",
+        "description": "https://t.co/HStc7FVyu3 亚硝酸钠链接",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xiangsjsiwjejd…",
+                "end": 23,
+                "expanded_url": "https://t.me/xiangsjsiwjejdhejwjsjsjdieej",
+                "start": 0,
+                "url": "https://t.co/HStc7FVyu3"
+              }
+            ]
+          }
+        },
+        "id": "3406534323",
+        "location": "你能",
+        "name": "angel almonacid",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 53
+        },
+        "username": "aalmonacid18",
+        "verified": false
+      }
+    ]
+  }
+}

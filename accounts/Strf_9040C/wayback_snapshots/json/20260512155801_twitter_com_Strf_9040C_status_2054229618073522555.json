@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2054229618073522555",
+    "created_at": "2026-05-12T15:58:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T16:58:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054229618073522555"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Strf_9040C/sta…",
+          "end": 181,
+          "expanded_url": "https://twitter.com/Strf_9040C/status/2054228810258952499",
+          "start": 158,
+          "url": "https://t.co/fc6ceBOjDl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054229618073522555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054228810258952499",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "《精神病学》\n《沈渔邨精神病学》\n《精神医学》\n《实用精神病学》\n《精神障碍诊断与统计手册 第五版-修订版 》（DSM-5-TR）\n《精神病理学》\n《费希临床精神病理学》\n《Stahl精神药理学精要》\n《Maudsley精神科处方指南》\n《精神障碍治疗与康复》\n《心智化治疗实践指南系列》\n《动力取向精神障碍治疗》 https://t.co/fc6ceBOjDl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2054229618073522555",
+        "created_at": "2026-05-12T15:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054229618073522555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Strf_9040C/sta…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/Strf_9040C/status/2054228810258952499",
+              "start": 158,
+              "url": "https://t.co/fc6ceBOjDl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054229618073522555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054228810258952499",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《精神病学》\n《沈渔邨精神病学》\n《精神医学》\n《实用精神病学》\n《精神障碍诊断与统计手册 第五版-修订版 》（DSM-5-TR）\n《精神病理学》\n《费希临床精神病理学》\n《Stahl精神药理学精要》\n《Maudsley精神科处方指南》\n《精神障碍治疗与康复》\n《心智化治疗实践指南系列》\n《动力取向精神障碍治疗》 https://t.co/fc6ceBOjDl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2054228810258952499",
+        "created_at": "2026-05-12T15:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054228810258952499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/A_Asystem/stat…",
+              "end": 275,
+              "expanded_url": "https://twitter.com/A_Asystem/status/2054165482794799430",
+              "start": 252,
+              "url": "https://t.co/bXIXxmDTpr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054228810258952499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054165482794799430",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《2025 美国国家行为健康危机护理协调系统指南》(SAMHSA)\n《Kaplan &amp; Sadock's Synopsis of Psychiatry 》\n《Oxford Textbook of Clinical Nephrology/Medicine 》\n《NetCE: A Review of Psychiatric Emergencies 》\n《WHO mhGAP 介入指南 (2024)》\nC-SSRS  (Columbia-Suicide Severity Rating Scale) https://t.co/bXIXxmDTpr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A\n主人🥰@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              },
+              {
+                "end": 152,
+                "start": 143,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "2054229094762680406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 1993,
+          "like_count": 9677,
+          "listed_count": 2,
+          "media_count": 470,
+          "tweet_count": 923
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

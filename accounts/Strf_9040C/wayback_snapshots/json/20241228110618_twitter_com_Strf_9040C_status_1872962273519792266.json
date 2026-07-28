@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1872943043554455881",
+    "created_at": "2024-12-28T11:06:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T12:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872962273519792266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "13605432",
+          "start": 0,
+          "username": "FelicityCWells"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872962273519792266",
+    "in_reply_to_user_id": "13605432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872961059965026697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FelicityCWells 钉皮机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1872943043554455881",
+        "created_at": "2024-12-28T11:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T12:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872962273519792266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "13605432",
+              "start": 0,
+              "username": "FelicityCWells"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872962273519792266",
+        "in_reply_to_user_id": "13605432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872961059965026697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FelicityCWells 钉皮机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "13605432",
+        "conversation_id": "1872943043554455881",
+        "created_at": "2024-12-28T11:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T12:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872961059965026697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721895937357004800",
+              "start": 0,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872961059965026697",
+        "in_reply_to_user_id": "1721895937357004800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872943043554455881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strf_9040C 订人机？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 665,
+          "like_count": 943,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 138
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2008-02-18T02:27:47.000Z",
+        "description": "🌠🌠🌠wire fox terriers are forever ever\n🧬new 👗girl 🎀and 🖖still 🚀scifi 🌌space 🤖nerd 🌈arc\n∞asd 🦋adhd 🥀mdd ❤️‍🩹cptsd 💋agp 🌸sapphic\n🏳️‍⚧️she/her/slut",
+        "id": "13605432",
+        "location": "RLE/Terra-Sol",
+        "name": "✨Lady💋Felicity✨🏳️‍⚧️🏳️‍🌈🇺🇦",
+        "pinned_tweet_id": "1867237376982155681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871561615004606465/2SO0dw9K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2098,
+          "following_count": 3274,
+          "like_count": 6242,
+          "listed_count": 37,
+          "media_count": 552,
+          "tweet_count": 28034
+        },
+        "username": "FelicityCWells",
+        "verified": false
+      }
+    ]
+  }
+}

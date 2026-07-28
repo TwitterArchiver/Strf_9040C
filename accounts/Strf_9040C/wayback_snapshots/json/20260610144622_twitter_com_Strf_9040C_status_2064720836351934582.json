@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064720827850092544"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2064429264922128731",
+    "created_at": "2026-06-10T14:46:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:46:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064720836351934582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1767868938657169408",
+          "start": 0,
+          "username": "shana_yowaino"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p87ZRl16LU",
+          "end": 38,
+          "expanded_url": "https://x.com/Strf_9040C/status/2064720836351934582/photo/1",
+          "media_key": "3_2064720827850092544",
+          "start": 15,
+          "url": "https://t.co/p87ZRl16LU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064720836351934582",
+    "in_reply_to_user_id": "1767868938657169408",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064718488648950246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shana_yowaino https://t.co/p87ZRl16LU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 230,
+        "media_key": "3_2064720827850092544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdcp1Ba8AAZfN2.jpg",
+        "width": 396
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064720827850092544"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064429264922128731",
+        "created_at": "2026-06-10T14:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064720836351934582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767868938657169408",
+              "start": 0,
+              "username": "shana_yowaino"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p87ZRl16LU",
+              "end": 38,
+              "expanded_url": "https://x.com/Strf_9040C/status/2064720836351934582/photo/1",
+              "media_key": "3_2064720827850092544",
+              "start": 15,
+              "url": "https://t.co/p87ZRl16LU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064720836351934582",
+        "in_reply_to_user_id": "1767868938657169408",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064718488648950246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shana_yowaino https://t.co/p87ZRl16LU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767868938657169408",
+        "conversation_id": "2064429264922128731",
+        "created_at": "2026-06-10T14:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064718488648950246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721895937357004800",
+              "start": 0,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064718488648950246",
+        "in_reply_to_user_id": "1721895937357004800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064429264922128731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strf_9040C 你获取消息是靠飞鸽传书吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2057928692089905225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 2304,
+          "like_count": 11910,
+          "listed_count": 2,
+          "media_count": 599,
+          "tweet_count": 1096
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-13T11:03:17.000Z",
+        "description": "行尸走肉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shana_yowaino",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shana_yowaino",
+                "start": 0,
+                "url": "https://t.co/E90wC7OQa1"
+              }
+            ]
+          }
+        },
+        "id": "1767868938657169408",
+        "location": "酒馆",
+        "name": "shana🖊️🪶📚📖🍺🚬",
+        "pinned_tweet_id": "1897668478535962936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885755463402438656/YwgiN1sE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 187,
+          "like_count": 2103,
+          "listed_count": 1,
+          "media_count": 265,
+          "tweet_count": 2775
+        },
+        "url": "https://t.co/E90wC7OQa1",
+        "username": "shana_yowaino",
+        "verified": false
+      }
+    ]
+  }
+}

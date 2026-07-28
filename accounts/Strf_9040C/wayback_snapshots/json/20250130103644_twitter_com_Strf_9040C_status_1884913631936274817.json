@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1884913629138685952"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "1880246011702177844",
+    "created_at": "2025-01-30T10:36:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T11:36:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884913631936274817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1880237554005602310",
+          "start": 0,
+          "username": "Afei991111"
+        },
+        {
+          "end": 18,
+          "id": "1421238969346445316",
+          "start": 12,
+          "username": "KwDfu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lKYEzJbelF",
+          "end": 65,
+          "expanded_url": "https://x.com/Strf_9040C/status/1884913631936274817/photo/1",
+          "media_key": "3_1884913629138685952",
+          "start": 42,
+          "url": "https://t.co/lKYEzJbelF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884913631936274817",
+    "in_reply_to_user_id": "1880237554005602310",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884910142539612651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Afei991111 @KwDfu 哟，这不是成都找鸡哥？哥们也在成都，来整我？ https://t.co/lKYEzJbelF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 343,
+        "media_key": "3_1884913629138685952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiiO9YEakAABkyX.jpg",
+        "width": 709
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884913629138685952"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "1880246011702177844",
+        "created_at": "2025-01-30T10:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T11:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884913631936274817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880237554005602310",
+              "start": 0,
+              "username": "Afei991111"
+            },
+            {
+              "end": 18,
+              "id": "1421238969346445316",
+              "start": 12,
+              "username": "KwDfu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lKYEzJbelF",
+              "end": 65,
+              "expanded_url": "https://x.com/Strf_9040C/status/1884913631936274817/photo/1",
+              "media_key": "3_1884913629138685952",
+              "start": 42,
+              "url": "https://t.co/lKYEzJbelF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884913631936274817",
+        "in_reply_to_user_id": "1880237554005602310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884910142539612651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Afei991111 @KwDfu 哟，这不是成都找鸡哥？哥们也在成都，来整我？ https://t.co/lKYEzJbelF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880237554005602310",
+        "conversation_id": "1880246011702177844",
+        "created_at": "2025-01-30T10:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T11:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884910142539612651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1421238969346445316",
+              "start": 0,
+              "username": "KwDfu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884910142539612651",
+        "in_reply_to_user_id": "1421238969346445316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884868289995911583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KwDfu 哟，这不是重庆约炮崽？哥们也在重庆，来整我？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 1511,
+          "like_count": 3668,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 429
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T12:55:53.000Z",
+        "description": "NaNa88需要➕tg@Fei991111",
+        "id": "1880237554005602310",
+        "name": "阿飞",
+        "pinned_tweet_id": "1880246011702177844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882742113789792256/cqPNym3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 0,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 44
+        },
+        "username": "Afei991111",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-30T22:39:18.000Z",
+        "description": "私宅阴暗b (全是负能量/介意慎入) 球球你们找我玩吧🥺",
+        "id": "1421238969346445316",
+        "name": "前度",
+        "pinned_tweet_id": "1884084989282910630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881935423548870656/foFkOjX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 54,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 199
+        },
+        "username": "KwDfu",
+        "verified": false
+      }
+    ]
+  }
+}

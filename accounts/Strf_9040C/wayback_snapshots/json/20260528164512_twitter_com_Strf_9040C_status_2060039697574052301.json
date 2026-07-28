@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "2060039697574052301",
+    "created_at": "2026-05-28T16:45:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:45:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060039697574052301"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gozZoazYckXOXc…",
+          "end": 139,
+          "expanded_url": "https://twitter.com/gozZoazYckXOXcW/status/2059944782429110563",
+          "start": 116,
+          "url": "https://t.co/Npqzw3tNeH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060039697574052301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059944782429110563",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "直接手机拍屏（物理重采样）也是可以的，效果很好\n因为水印是数字化的精准信号，而手机拍屏会引入摩尔纹、镜头畸变、光线反射、传感器噪点以及重新量化\n这种物理层面的巨大干扰会彻底打乱水印在空间域或频率域的分布，使得原有的解码算法无法识别 https://t.co/Npqzw3tNeH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "2060039697574052301",
+        "created_at": "2026-05-28T16:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060039697574052301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gozZoazYckXOXc…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/gozZoazYckXOXcW/status/2059944782429110563",
+              "start": 116,
+              "url": "https://t.co/Npqzw3tNeH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060039697574052301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059944782429110563",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "直接手机拍屏（物理重采样）也是可以的，效果很好\n因为水印是数字化的精准信号，而手机拍屏会引入摩尔纹、镜头畸变、光线反射、传感器噪点以及重新量化\n这种物理层面的巨大干扰会彻底打乱水印在空间域或频率域的分布，使得原有的解码算法无法识别 https://t.co/Npqzw3tNeH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1221562724829691905",
+        "conversation_id": "2059944782429110563",
+        "created_at": "2026-05-28T10:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059944782429110563"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059944782429110563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 671,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现 去除隐水印的一个办法是 起ai重绘一遍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2057928692089905225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 2185,
+          "like_count": 11067,
+          "listed_count": 2,
+          "media_count": 550,
+          "tweet_count": 1035
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-26T22:37:11.000Z",
+        "description": "Amab  |公开频道：https://t.co/o7u3PzZ637 |联系方式:https://t.co/GnRL4ruaVX |点赞不代表赞同观点 |Μαsтоdоn：@yongyiwang |Βsκу：@yongyiwang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "yongyiwang"
+              },
+              {
+                "end": 116,
+                "start": 105,
+                "username": "yongyiwang"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/bakayong",
+                "end": 35,
+                "expanded_url": "https://t.me/bakayong",
+                "start": 12,
+                "url": "https://t.co/o7u3PzZ637"
+              },
+              {
+                "display_url": "t.me/Yongyi_dm_bot",
+                "end": 65,
+                "expanded_url": "http://t.me/Yongyi_dm_bot",
+                "start": 42,
+                "url": "https://t.co/GnRL4ruaVX"
+              }
+            ]
+          }
+        },
+        "id": "1221562724829691905",
+        "name": "永仪#咸鱼版",
+        "pinned_tweet_id": "1534197498281328640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862179978751684609/NWGhr4LD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26276,
+          "following_count": 3038,
+          "like_count": 32012,
+          "listed_count": 31,
+          "media_count": 767,
+          "tweet_count": 15413
+        },
+        "username": "gozZoazYckXOXcW",
+        "verified": false
+      }
+    ]
+  }
+}

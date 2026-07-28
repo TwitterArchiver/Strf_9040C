@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "2047581738000699596",
+    "created_at": "2026-04-24T07:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T08:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047581738000699596"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/luminescence_0…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/luminescence_0/status/2047578998293790737",
+          "start": 6,
+          "url": "https://t.co/IdNw5hkJ11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047581738000699596",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047578998293790737",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不回抽？🤔 https://t.co/IdNw5hkJ11"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047578991121534976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGp2Pm9aEAAjmPk.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "2047581738000699596",
+        "created_at": "2026-04-24T07:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T08:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047581738000699596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luminescence_0…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/luminescence_0/status/2047578998293790737",
+              "start": 6,
+              "url": "https://t.co/IdNw5hkJ11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047581738000699596",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047578998293790737",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不回抽？🤔 https://t.co/IdNw5hkJ11"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047578991121534976"
+          ]
+        },
+        "author_id": "2011051704440274947",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047578998293790737",
+        "created_at": "2026-04-24T07:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T08:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047578998293790737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZeUo5Ad9Ax",
+              "end": 53,
+              "expanded_url": "https://x.com/luminescence_0/status/2047578998293790737/photo/1",
+              "media_key": "3_2047578991121534976",
+              "start": 30,
+              "url": "https://t.co/ZeUo5Ad9Ax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047578998293790737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日雌 皮下注射 操作流程\n（不构成医疗建议 仅供学习使用） https://t.co/ZeUo5Ad9Ax"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "2043259817121448322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1168,
+          "following_count": 1836,
+          "like_count": 8085,
+          "listed_count": 0,
+          "media_count": 446,
+          "tweet_count": 867
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-13T12:24:59.000Z",
+        "description": "🟨⬜🟪⬛enby | 互fo欢迎 | 私信友好\nInterests in Linguistics\n想转Consulting/SA的CS Major",
+        "id": "2011051704440274947",
+        "location": "Leicester, England",
+        "name": "Luminescence",
+        "pinned_tweet_id": "2043777325595275513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047352722354270208/_IfDIyYI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 294,
+          "like_count": 490,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 42
+        },
+        "username": "luminescence_0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1884454701967847424",
+        "3_1884454702081007619"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "1884454704438206913",
+    "created_at": "2025-01-29T04:13:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T05:13:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884454704438206913"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/S1ti9HFh8t",
+          "end": 136,
+          "expanded_url": "https://x.com/Strf_9040C/status/1884454704438206913/photo/1",
+          "media_key": "3_1884454701967847424",
+          "start": 113,
+          "url": "https://t.co/S1ti9HFh8t"
+        },
+        {
+          "display_url": "pic.x.com/S1ti9HFh8t",
+          "end": 136,
+          "expanded_url": "https://x.com/Strf_9040C/status/1884454704438206913/photo/1",
+          "media_key": "3_1884454702081007619",
+          "start": 113,
+          "url": "https://t.co/S1ti9HFh8t"
+        },
+        {
+          "display_url": "x.com/MetalGemblax/s…",
+          "end": 160,
+          "expanded_url": "https://twitter.com/MetalGemblax/status/1884444264098324816",
+          "start": 137,
+          "url": "https://t.co/kpgD1Z1mNh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884454704438206913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884444264098324816",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是芙卡之前吃亚硝酸钠之后写的笔记\n绝对不会是你所说的那样只有一点腹痛\n也绝对不会是你所说的无痛\n我自己也吃过\n不要试图将亚硝酸钠的痛苦描述的那么轻以此来让更多人买你的亚硝酸钠\n我们都知道\n亚硝酸钠不是一个好的方式\n绝对不是 https://t.co/S1ti9HFh8t https://t.co/kpgD1Z1mNh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1884454701967847424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GibtkTIbsAAC6WB.jpg",
+        "width": 541
+      },
+      {
+        "height": 960,
+        "media_key": "3_1884454702081007619",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GibtkTjaYAMW8SK.jpg",
+        "width": 432
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884454701967847424",
+            "3_1884454702081007619"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "1884454704438206913",
+        "created_at": "2025-01-29T04:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T05:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884454704438206913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S1ti9HFh8t",
+              "end": 136,
+              "expanded_url": "https://x.com/Strf_9040C/status/1884454704438206913/photo/1",
+              "media_key": "3_1884454701967847424",
+              "start": 113,
+              "url": "https://t.co/S1ti9HFh8t"
+            },
+            {
+              "display_url": "pic.x.com/S1ti9HFh8t",
+              "end": 136,
+              "expanded_url": "https://x.com/Strf_9040C/status/1884454704438206913/photo/1",
+              "media_key": "3_1884454702081007619",
+              "start": 113,
+              "url": "https://t.co/S1ti9HFh8t"
+            },
+            {
+              "display_url": "x.com/MetalGemblax/s…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/MetalGemblax/status/1884444264098324816",
+              "start": 137,
+              "url": "https://t.co/kpgD1Z1mNh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884454704438206913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884444264098324816",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是芙卡之前吃亚硝酸钠之后写的笔记\n绝对不会是你所说的那样只有一点腹痛\n也绝对不会是你所说的无痛\n我自己也吃过\n不要试图将亚硝酸钠的痛苦描述的那么轻以此来让更多人买你的亚硝酸钠\n我们都知道\n亚硝酸钠不是一个好的方式\n绝对不是 https://t.co/S1ti9HFh8t https://t.co/kpgD1Z1mNh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2155518091",
+        "conversation_id": "1884209602910380298",
+        "created_at": "2025-01-29T03:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T04:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884444264098324816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "914853828058521600",
+              "start": 0,
+              "username": "ShakeItOff_pi"
+            },
+            {
+              "end": 26,
+              "id": "1721895937357004800",
+              "start": 15,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884444264098324816",
+        "in_reply_to_user_id": "914853828058521600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884422486667968769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShakeItOff_pi @Strf_9040C 我自己也吃过一点没有到致死量的，唯一真正算痛苦的只有腹痛，其他虽然的也难受，但真的能算是无痛自杀了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 1486,
+          "like_count": 3473,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 397
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-25T19:38:01.000Z",
+        "description": "https://t.co/on8sTqCSl2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xiangsijinkuai…",
+                "end": 23,
+                "expanded_url": "https://t.me/xiangsijinkuaiqusi",
+                "start": 0,
+                "url": "https://t.co/on8sTqCSl2"
+              }
+            ]
+          }
+        },
+        "id": "2155518091",
+        "location": "Jakarta",
+        "name": "亚硝酸钠购买",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/477887908297207809/HoXIzZgf_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 29,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "username": "MetalGemblax",
+        "verified": false
+      }
+    ]
+  }
+}

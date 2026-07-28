@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1872614404459827200"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1872614407282557398",
+    "created_at": "2024-12-27T12:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T13:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1872614407282557398"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hdZnjojqTh",
+          "end": 23,
+          "expanded_url": "https://x.com/Strf_9040C/status/1872614407282557398/photo/1",
+          "media_key": "3_1872614404459827200",
+          "start": 0,
+          "url": "https://t.co/hdZnjojqTh"
+        },
+        {
+          "display_url": "x.com/Fomalhautawa/s…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/Fomalhautawa/status/1871971160713548195",
+          "start": 24,
+          "url": "https://t.co/0M2D0CVdgK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872614407282557398",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871971160713548195",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/hdZnjojqTh https://t.co/0M2D0CVdgK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 877,
+        "media_key": "3_1872614404459827200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gfzc4RsbkAA4H2Y.jpg",
+        "width": 622
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872614404459827200"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1872614407282557398",
+        "created_at": "2024-12-27T12:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T13:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872614407282557398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hdZnjojqTh",
+              "end": 23,
+              "expanded_url": "https://x.com/Strf_9040C/status/1872614407282557398/photo/1",
+              "media_key": "3_1872614404459827200",
+              "start": 0,
+              "url": "https://t.co/hdZnjojqTh"
+            },
+            {
+              "display_url": "x.com/Fomalhautawa/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Fomalhautawa/status/1871971160713548195",
+              "start": 24,
+              "url": "https://t.co/0M2D0CVdgK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872614407282557398",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871971160713548195",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/hdZnjojqTh https://t.co/0M2D0CVdgK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871970975321059328"
+          ]
+        },
+        "author_id": "1248637653001494529",
+        "conversation_id": "1871971160713548195",
+        "created_at": "2024-12-25T17:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T18:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871971160713548195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/31sj6HRjFB",
+              "end": 49,
+              "expanded_url": "https://x.com/Fomalhautawa/status/1871971160713548195/photo/1",
+              "media_key": "3_1871970975321059328",
+              "start": 26,
+              "url": "https://t.co/31sj6HRjFB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871971160713548195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 116524,
+          "like_count": 2162,
+          "quote_count": 9,
+          "reply_count": 73,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "请问我的母校你们狂欢夜在cos什么东西啊我草？？！ https://t.co/31sj6HRjFB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 564,
+          "like_count": 689,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 121
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-10T15:43:19.000Z",
+        "description": "是师师，在阴暗地爬行。\n要互关可以来敲敲我awa\n🈲政治。",
+        "id": "1248637653001494529",
+        "name": "师酱",
+        "pinned_tweet_id": "1869049116426489979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871996410197069824/Sf3wtEDF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 61,
+          "like_count": 3111,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 532
+        },
+        "username": "Fomalhautawa",
+        "verified": false
+      }
+    ]
+  }
+}

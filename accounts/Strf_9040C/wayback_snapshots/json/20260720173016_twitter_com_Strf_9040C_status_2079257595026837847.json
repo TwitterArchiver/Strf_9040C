@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079256896809361408",
+        "3_2079256898604539904",
+        "3_2079256898633859072",
+        "3_2079257429880246272"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079257595026837847",
+    "created_at": "2026-07-20T17:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T18:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079257595026837847"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XOwZzKIYOb",
+          "end": 63,
+          "expanded_url": "https://x.com/Strf_9040C/status/2079257595026837847/photo/1",
+          "media_key": "3_2079256896809361408",
+          "start": 40,
+          "url": "https://t.co/XOwZzKIYOb"
+        },
+        {
+          "display_url": "pic.x.com/XOwZzKIYOb",
+          "end": 63,
+          "expanded_url": "https://x.com/Strf_9040C/status/2079257595026837847/photo/1",
+          "media_key": "3_2079256898604539904",
+          "start": 40,
+          "url": "https://t.co/XOwZzKIYOb"
+        },
+        {
+          "display_url": "pic.x.com/XOwZzKIYOb",
+          "end": 63,
+          "expanded_url": "https://x.com/Strf_9040C/status/2079257595026837847/photo/1",
+          "media_key": "3_2079256898633859072",
+          "start": 40,
+          "url": "https://t.co/XOwZzKIYOb"
+        },
+        {
+          "display_url": "pic.x.com/XOwZzKIYOb",
+          "end": 63,
+          "expanded_url": "https://x.com/Strf_9040C/status/2079257595026837847/photo/1",
+          "media_key": "3_2079257429880246272",
+          "start": 40,
+          "url": "https://t.co/XOwZzKIYOb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079257595026837847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看见言论：眉头紧锁\n看见IP：豁然看朗\n看见装扮：眉开眼笑\n看见抽奖：捧腹大笑 https://t.co/XOwZzKIYOb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2079256896809361408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsBIZsaYAAncdb.jpg",
+        "width": 1128
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079256898604539904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsBIgYaoAA4zGB.jpg",
+        "width": 1001
+      },
+      {
+        "height": 529,
+        "media_key": "3_2079256898633859072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsBIgfaAAAxKl-.jpg",
+        "width": 532
+      },
+      {
+        "height": 1400,
+        "media_key": "3_2079257429880246272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsBnbiakAA1wlK.jpg",
+        "width": 1128
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079256896809361408",
+            "3_2079256898604539904",
+            "3_2079256898633859072",
+            "3_2079257429880246272"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079257595026837847",
+        "created_at": "2026-07-20T17:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079257595026837847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XOwZzKIYOb",
+              "end": 63,
+              "expanded_url": "https://x.com/Strf_9040C/status/2079257595026837847/photo/1",
+              "media_key": "3_2079256896809361408",
+              "start": 40,
+              "url": "https://t.co/XOwZzKIYOb"
+            },
+            {
+              "display_url": "pic.x.com/XOwZzKIYOb",
+              "end": 63,
+              "expanded_url": "https://x.com/Strf_9040C/status/2079257595026837847/photo/1",
+              "media_key": "3_2079256898604539904",
+              "start": 40,
+              "url": "https://t.co/XOwZzKIYOb"
+            },
+            {
+              "display_url": "pic.x.com/XOwZzKIYOb",
+              "end": 63,
+              "expanded_url": "https://x.com/Strf_9040C/status/2079257595026837847/photo/1",
+              "media_key": "3_2079256898633859072",
+              "start": 40,
+              "url": "https://t.co/XOwZzKIYOb"
+            },
+            {
+              "display_url": "pic.x.com/XOwZzKIYOb",
+              "end": 63,
+              "expanded_url": "https://x.com/Strf_9040C/status/2079257595026837847/photo/1",
+              "media_key": "3_2079257429880246272",
+              "start": 40,
+              "url": "https://t.co/XOwZzKIYOb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079257595026837847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看见言论：眉头紧锁\n看见IP：豁然看朗\n看见装扮：眉开眼笑\n看见抽奖：捧腹大笑 https://t.co/XOwZzKIYOb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2076732270384464027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1614,
+          "following_count": 2464,
+          "like_count": 13815,
+          "listed_count": 2,
+          "media_count": 657,
+          "tweet_count": 1169
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

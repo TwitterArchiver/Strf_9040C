@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080395189043232768"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2080275261577380250",
+    "created_at": "2026-07-23T20:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T21:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080395194055401756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1934293244764119040",
+          "start": 0,
+          "username": "nancylvalone"
+        },
+        {
+          "end": 26,
+          "id": "1929798380240465921",
+          "start": 14,
+          "username": "AacerF59616"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dlxenaBzVm",
+          "end": 81,
+          "expanded_url": "https://x.com/Strf_9040C/status/2080395194055401756/photo/1",
+          "media_key": "3_2080395189043232768",
+          "start": 58,
+          "url": "https://t.co/dlxenaBzVm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080395194055401756",
+    "in_reply_to_user_id": "1934293244764119040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080339966803300765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nancylvalone @AacerF59616 Bayer 有 10mg 的分装剂型\n不过不知道为什么很少见 https://t.co/dlxenaBzVm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2080395189043232768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN8MZutagAA6sKK.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080395189043232768"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2080275261577380250",
+        "created_at": "2026-07-23T20:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T21:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080395194055401756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1934293244764119040",
+              "start": 0,
+              "username": "nancylvalone"
+            },
+            {
+              "end": 26,
+              "id": "1929798380240465921",
+              "start": 14,
+              "username": "AacerF59616"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dlxenaBzVm",
+              "end": 81,
+              "expanded_url": "https://x.com/Strf_9040C/status/2080395194055401756/photo/1",
+              "media_key": "3_2080395189043232768",
+              "start": 58,
+              "url": "https://t.co/dlxenaBzVm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080395194055401756",
+        "in_reply_to_user_id": "1934293244764119040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080339966803300765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nancylvalone @AacerF59616 Bayer 有 10mg 的分装剂型\n不过不知道为什么很少见 https://t.co/dlxenaBzVm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934293244764119040",
+        "conversation_id": "2080275261577380250",
+        "created_at": "2026-07-23T17:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T18:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080339966803300765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080339966803300765",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080275261577380250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 好处是分次用剂量能更平均，但这个好处在补上并不明显，要色能从 50mg 拆成 25mg 一粒倒是挺好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2076732270384464027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1620,
+          "following_count": 2475,
+          "like_count": 14156,
+          "listed_count": 2,
+          "media_count": 666,
+          "tweet_count": 1178
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T16:53:57.000Z",
+        "description": "非常社恐躲在暗处 | 🏳️‍🌈🏳️‍⚧️ non-binary\n🐧 I use Arch & Hyprland, btw | 💔 是很缺爱很缺爱的小朋友 | 读研想退学的笨蛋",
+        "id": "1934293244764119040",
+        "name": "碎念",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934293406269968384/kOJqWEuK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 129,
+          "like_count": 692,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 128
+        },
+        "url": "",
+        "username": "nancylvalone",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 633,
+          "like_count": 4263,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1193
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      }
+    ]
+  }
+}

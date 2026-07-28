@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886776057547960320"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "1886776060714660129",
+    "created_at": "2025-02-04T13:57:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T14:57:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886776060714660129"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CHsazdyhKT",
+          "end": 33,
+          "expanded_url": "https://x.com/Strf_9040C/status/1886776060714660129/photo/1",
+          "media_key": "3_1886776057547960320",
+          "start": 10,
+          "url": "https://t.co/CHsazdyhKT"
+        },
+        {
+          "display_url": "x.com/Strf_9040C/sta…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/Strf_9040C/status/1886760581681832357",
+          "start": 34,
+          "url": "https://t.co/l22Y8ps1Dq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886776060714660129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886760581681832357",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "状态撤回\n谢谢大家 https://t.co/CHsazdyhKT https://t.co/l22Y8ps1Dq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1612,
+        "media_key": "3_1886776057547960320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi8s0-jbsAAN15F.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886776057547960320"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "1886776060714660129",
+        "created_at": "2025-02-04T13:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T14:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886776060714660129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CHsazdyhKT",
+              "end": 33,
+              "expanded_url": "https://x.com/Strf_9040C/status/1886776060714660129/photo/1",
+              "media_key": "3_1886776057547960320",
+              "start": 10,
+              "url": "https://t.co/CHsazdyhKT"
+            },
+            {
+              "display_url": "x.com/Strf_9040C/sta…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/Strf_9040C/status/1886760581681832357",
+              "start": 34,
+              "url": "https://t.co/l22Y8ps1Dq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886776060714660129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886760581681832357",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "状态撤回\n谢谢大家 https://t.co/CHsazdyhKT https://t.co/l22Y8ps1Dq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886760577101619200",
+            "3_1886760578565513216",
+            "3_1886760579194609665"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "1886760581681832357",
+        "created_at": "2025-02-04T12:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T13:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886760581681832357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1682963026738319361",
+              "start": 0,
+              "username": "xlzhongfxnzhong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WXcjbkyoiV",
+              "end": 114,
+              "expanded_url": "https://x.com/Strf_9040C/status/1886760581681832357/photo/1",
+              "media_key": "3_1886760577101619200",
+              "start": 91,
+              "url": "https://t.co/WXcjbkyoiV"
+            },
+            {
+              "display_url": "pic.x.com/WXcjbkyoiV",
+              "end": 114,
+              "expanded_url": "https://x.com/Strf_9040C/status/1886760581681832357/photo/1",
+              "media_key": "3_1886760578565513216",
+              "start": 91,
+              "url": "https://t.co/WXcjbkyoiV"
+            },
+            {
+              "display_url": "pic.x.com/WXcjbkyoiV",
+              "end": 114,
+              "expanded_url": "https://x.com/Strf_9040C/status/1886760581681832357/photo/1",
+              "media_key": "3_1886760579194609665",
+              "start": 91,
+              "url": "https://t.co/WXcjbkyoiV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886760581681832357",
+        "in_reply_to_user_id": "1682963026738319361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@xlzhongfxnzhong \n发布了可能有自杀倾向的消息\n于 8:47PM 后的消息全部未读\n省份可能在江苏\n有任何人认识他或有她可用信息的\n请实行自杀干预\n特此预警\n望周知 https://t.co/WXcjbkyoiV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 1604,
+          "like_count": 4927,
+          "listed_count": 1,
+          "media_count": 246,
+          "tweet_count": 553
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

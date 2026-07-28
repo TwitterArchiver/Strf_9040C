@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072961142092365824"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2072961146798440570",
+    "created_at": "2026-07-03T08:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T09:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072961146798440570"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fVHiFBuj94",
+          "end": 36,
+          "expanded_url": "https://x.com/Strf_9040C/status/2072961146798440570/photo/1",
+          "media_key": "3_2072961142092365824",
+          "start": 13,
+          "url": "https://t.co/fVHiFBuj94"
+        },
+        {
+          "display_url": "x.com/auspiceshirley…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/auspiceshirley/status/2072630537596924261",
+          "start": 37,
+          "url": "https://t.co/IyGPqiTq5d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072961146798440570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072630537596924261",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这里是 D 老师的状态页 https://t.co/fVHiFBuj94 https://t.co/IyGPqiTq5d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1982,
+        "media_key": "3_2072961142092365824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSjLPuagAA26KA.jpg",
+        "width": 1575
+      },
+      {
+        "alt_text": "Claude Status - https://status.claude.com",
+        "height": 891,
+        "media_key": "3_2072630411063144449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMN2YKoXMAEnRut.jpg",
+        "width": 1030
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072961142092365824"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2072961146798440570",
+        "created_at": "2026-07-03T08:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T09:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072961146798440570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fVHiFBuj94",
+              "end": 36,
+              "expanded_url": "https://x.com/Strf_9040C/status/2072961146798440570/photo/1",
+              "media_key": "3_2072961142092365824",
+              "start": 13,
+              "url": "https://t.co/fVHiFBuj94"
+            },
+            {
+              "display_url": "x.com/auspiceshirley…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/auspiceshirley/status/2072630537596924261",
+              "start": 37,
+              "url": "https://t.co/IyGPqiTq5d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072961146798440570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072630537596924261",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这里是 D 老师的状态页 https://t.co/fVHiFBuj94 https://t.co/IyGPqiTq5d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072630411063144449"
+          ]
+        },
+        "author_id": "2050253104935997440",
+        "conversation_id": "2072630537596924261",
+        "created_at": "2026-07-02T10:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072630537596924261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hfzc9FQRvU",
+              "end": 71,
+              "expanded_url": "https://x.com/auspiceshirley/status/2072630537596924261/photo/1",
+              "media_key": "3_2072630411063144449",
+              "start": 48,
+              "url": "https://t.co/Hfzc9FQRvU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072630537596924261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6499,
+          "like_count": 65,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闲来无事，我打开Claude的状态页看了一下，花花绿绿的，这要是放在其他厂都不知道倒闭多少回了 https://t.co/Hfzc9FQRvU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2057928692089905225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 2383,
+          "like_count": 13046,
+          "listed_count": 2,
+          "media_count": 651,
+          "tweet_count": 1166
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T16:38:27.000Z",
+        "description": "ENG/中文 | Daily life & Technology &「魔法少女ノ魔女裁判」🍎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/auspiceshirley",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/auspiceshirley",
+                "start": 0,
+                "url": "https://t.co/2Fyt0qKe8z"
+              }
+            ]
+          }
+        },
+        "id": "2050253104935997440",
+        "location": "Hong Kong",
+        "name": "Shirley Auspice",
+        "pinned_tweet_id": "2065781030783472110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050253824372412417/h-oCtpG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 546,
+          "like_count": 1340,
+          "listed_count": 1,
+          "media_count": 227,
+          "tweet_count": 1897
+        },
+        "url": "https://t.co/2Fyt0qKe8z",
+        "username": "auspiceshirley",
+        "verified": true
+      }
+    ]
+  }
+}

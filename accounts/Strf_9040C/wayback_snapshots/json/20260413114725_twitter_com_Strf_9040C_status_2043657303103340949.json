@@ -1,0 +1,116 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "2043657303103340949",
+    "created_at": "2026-04-13T11:47:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T12:47:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043657303103340949"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043657303103340949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "别人的护理操作：口腔护理\n气道湿化护理\n深部吸痰\n气管导管护理\n气切套管护理\n轴线翻身\n床体位调整\n皮肤护理\n肢体约束护理\n管路固定与更换\n鼻饲护理\n尿管护理\n静脉输液护理\n生命体征监测\n血糖监测\n出入量记录\n眼部护理\n冷疗护理\n热疗护理\n压疮预防护理\n我的护理操作：\n老爷爷，我给你踩背来咯～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "2043657303103340949",
+        "created_at": "2026-04-13T11:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T12:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043657303103340949"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043657303103340949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别人的护理操作：口腔护理\n气道湿化护理\n深部吸痰\n气管导管护理\n气切套管护理\n轴线翻身\n床体位调整\n皮肤护理\n肢体约束护理\n管路固定与更换\n鼻饲护理\n尿管护理\n静脉输液护理\n生命体征监测\n血糖监测\n出入量记录\n眼部护理\n冷疗护理\n热疗护理\n压疮预防护理\n我的护理操作：\n老爷爷，我给你踩背来咯～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "2043259817121448322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1125,
+          "following_count": 1720,
+          "like_count": 6216,
+          "listed_count": 0,
+          "media_count": 406,
+          "tweet_count": 801
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

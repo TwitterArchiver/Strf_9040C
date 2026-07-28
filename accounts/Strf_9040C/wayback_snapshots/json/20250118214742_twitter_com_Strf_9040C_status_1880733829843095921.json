@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1880681771261640884",
+    "created_at": "2025-01-18T21:47:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T22:47:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880733829843095921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828008363273388032",
+          "start": 0,
+          "username": "akui1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880733829843095921",
+    "in_reply_to_user_id": "1828008363273388032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880681771261640884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akui1121 注意安全嗷宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1880681771261640884",
+        "created_at": "2025-01-18T21:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T22:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880733829843095921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828008363273388032",
+              "start": 0,
+              "username": "akui1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880733829843095921",
+        "in_reply_to_user_id": "1828008363273388032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880681771261640884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akui1121 注意安全嗷宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880681768900276225"
+          ]
+        },
+        "author_id": "1828008363273388032",
+        "conversation_id": "1880681771261640884",
+        "created_at": "2025-01-18T18:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T19:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880681771261640884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bbkmkyRvLx",
+              "end": 122,
+              "expanded_url": "https://x.com/akui1121/status/1880681771261640884/photo/1",
+              "media_key": "3_1880681768900276225",
+              "start": 99,
+              "url": "https://t.co/bbkmkyRvLx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880681771261640884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7441,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你成功约到了我（因为感觉我也蛮难约的😋）（因为媿只接受无套和内射口爆吞精ww），我会让你禁欲最少两周最长一个月或者更久，过来喂你两颗强效伟哥红牛劲酒，一天，一天之后我让你一个月再起不能（提裙） https://t.co/bbkmkyRvLx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 1245,
+          "like_count": 2609,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 282
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T09:55:39.000Z",
+        "description": "是男生❤️你喜欢僵尸嘛？❤️我只是单纯的坏，坏到骨子里那种哦🥰 门槛60，谢谢你🥰不接推广，致歉🥰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wanshengjie1121",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wanshengjie1121",
+                "start": 0,
+                "url": "https://t.co/EVbGAjIoP9"
+              }
+            ]
+          }
+        },
+        "id": "1828008363273388032",
+        "name": "万媿夜",
+        "pinned_tweet_id": "1867585801808462077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871744628757770240/O_UAguNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12427,
+          "following_count": 774,
+          "like_count": 12923,
+          "listed_count": 26,
+          "media_count": 328,
+          "tweet_count": 5120
+        },
+        "url": "https://t.co/EVbGAjIoP9",
+        "username": "akui1121",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057928688793219072",
+        "3_2057928688436731904",
+        "3_2057928687639764992",
+        "3_2057928688386387969"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2057928692089905225",
+    "created_at": "2026-05-22T20:56:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T21:56:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057928692089905225"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UNpzrlw7IU",
+          "end": 172,
+          "expanded_url": "https://x.com/Strf_9040C/status/2057928692089905225/photo/1",
+          "media_key": "3_2057928688793219072",
+          "start": 149,
+          "url": "https://t.co/UNpzrlw7IU"
+        },
+        {
+          "display_url": "pic.x.com/UNpzrlw7IU",
+          "end": 172,
+          "expanded_url": "https://x.com/Strf_9040C/status/2057928692089905225/photo/1",
+          "media_key": "3_2057928688436731904",
+          "start": 149,
+          "url": "https://t.co/UNpzrlw7IU"
+        },
+        {
+          "display_url": "pic.x.com/UNpzrlw7IU",
+          "end": 172,
+          "expanded_url": "https://x.com/Strf_9040C/status/2057928692089905225/photo/1",
+          "media_key": "3_2057928687639764992",
+          "start": 149,
+          "url": "https://t.co/UNpzrlw7IU"
+        },
+        {
+          "display_url": "pic.x.com/UNpzrlw7IU",
+          "end": 172,
+          "expanded_url": "https://x.com/Strf_9040C/status/2057928692089905225/photo/1",
+          "media_key": "3_2057928688386387969",
+          "start": 149,
+          "url": "https://t.co/UNpzrlw7IU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057928692089905225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中毒急救\n✅立刻拨打电话呼叫急救服务\n✅施救先做好自身防护，避免自身中毒\n✅服毒1小时内是洗胃黄金期，超6小时效果下降；强酸强碱中毒严禁催吐、洗胃\n✅百草枯中毒：立刻口服泥浆水/白陶土混悬液\n✅皮肤/眼部沾染：立刻用流动清水持续冲洗15分钟以上\n✅带毒物包装、说明书、MSDS送医，记录时间与症状 https://t.co/UNpzrlw7IU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057928688793219072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI87PTSa8AAFSNG.jpg",
+        "width": 1159
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057928688436731904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI87PR9bYAANR-A.jpg",
+        "width": 1164
+      },
+      {
+        "alt_text": "急性中毒诊断与治疗中国专家共识\n中国医师协会急诊医师分会\n中国毒理学会中毒与救治专业委员\n会中华急诊医学杂志, 2016,25(11) : 1361-1375. DOI: 10.3760/cma.j.issn.1671-0282.2016.11.004\n原文网址：\nhttps://cmab.yiigle.com/uploads/guide_html/%E6%80%A5%E6%80%A7%E4%B8%AD%E6%AF%92%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E4%B8%AD%E5%9B%BD%E4%B8%93%E5%AE%B6%E5%85%B1%E8%AF%86.html",
+        "height": 1235,
+        "media_key": "3_2057928687639764992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI87PO_aoAATZj3.jpg",
+        "width": 865
+      },
+      {
+        "height": 823,
+        "media_key": "3_2057928688386387969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI87PRxbMAE1EnE.jpg",
+        "width": 1812
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057928688793219072",
+            "3_2057928688436731904",
+            "3_2057928687639764992",
+            "3_2057928688386387969"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057928692089905225",
+        "created_at": "2026-05-22T20:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T21:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057928692089905225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UNpzrlw7IU",
+              "end": 172,
+              "expanded_url": "https://x.com/Strf_9040C/status/2057928692089905225/photo/1",
+              "media_key": "3_2057928688793219072",
+              "start": 149,
+              "url": "https://t.co/UNpzrlw7IU"
+            },
+            {
+              "display_url": "pic.x.com/UNpzrlw7IU",
+              "end": 172,
+              "expanded_url": "https://x.com/Strf_9040C/status/2057928692089905225/photo/1",
+              "media_key": "3_2057928688436731904",
+              "start": 149,
+              "url": "https://t.co/UNpzrlw7IU"
+            },
+            {
+              "display_url": "pic.x.com/UNpzrlw7IU",
+              "end": 172,
+              "expanded_url": "https://x.com/Strf_9040C/status/2057928692089905225/photo/1",
+              "media_key": "3_2057928687639764992",
+              "start": 149,
+              "url": "https://t.co/UNpzrlw7IU"
+            },
+            {
+              "display_url": "pic.x.com/UNpzrlw7IU",
+              "end": 172,
+              "expanded_url": "https://x.com/Strf_9040C/status/2057928692089905225/photo/1",
+              "media_key": "3_2057928688386387969",
+              "start": 149,
+              "url": "https://t.co/UNpzrlw7IU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057928692089905225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中毒急救\n✅立刻拨打电话呼叫急救服务\n✅施救先做好自身防护，避免自身中毒\n✅服毒1小时内是洗胃黄金期，超6小时效果下降；强酸强碱中毒严禁催吐、洗胃\n✅百草枯中毒：立刻口服泥浆水/白陶土混悬液\n✅皮肤/眼部沾染：立刻用流动清水持续冲洗15分钟以上\n✅带毒物包装、说明书、MSDS送医，记录时间与症状 https://t.co/UNpzrlw7IU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2057928692089905225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1371,
+          "following_count": 2106,
+          "like_count": 10627,
+          "listed_count": 2,
+          "media_count": 524,
+          "tweet_count": 994
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

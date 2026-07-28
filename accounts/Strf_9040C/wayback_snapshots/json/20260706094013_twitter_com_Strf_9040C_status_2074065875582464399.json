@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074065863402303488"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2074061182969970700",
+    "created_at": "2026-07-06T09:40:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T10:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074065875582464399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1776142720056385537",
+          "start": 0,
+          "username": "qtbrmdh19120101"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e2wMnBUTdr",
+          "end": 40,
+          "expanded_url": "https://x.com/Strf_9040C/status/2074065875582464399/photo/1",
+          "media_key": "3_2074065863402303488",
+          "start": 17,
+          "url": "https://t.co/e2wMnBUTdr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074065875582464399",
+    "in_reply_to_user_id": "1776142720056385537",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074061182969970700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qtbrmdh19120101 https://t.co/e2wMnBUTdr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2074065863402303488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMiP6fTbsAAPq19.jpg",
+        "width": 1920
+      },
+      {
+        "height": 880,
+        "media_key": "3_2074060966820745216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMiLdeHakAATCPz.jpg",
+        "width": 1184
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074065863402303488"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2074061182969970700",
+        "created_at": "2026-07-06T09:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074065875582464399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1776142720056385537",
+              "start": 0,
+              "username": "qtbrmdh19120101"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e2wMnBUTdr",
+              "end": 40,
+              "expanded_url": "https://x.com/Strf_9040C/status/2074065875582464399/photo/1",
+              "media_key": "3_2074065863402303488",
+              "start": 17,
+              "url": "https://t.co/e2wMnBUTdr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074065875582464399",
+        "in_reply_to_user_id": "1776142720056385537",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074061182969970700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qtbrmdh19120101 https://t.co/e2wMnBUTdr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074060966820745216"
+          ]
+        },
+        "author_id": "1776142720056385537",
+        "conversation_id": "2074061182969970700",
+        "created_at": "2026-07-06T09:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074061182969970700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/li3uJdNtCn",
+              "end": 47,
+              "expanded_url": "https://x.com/qtbrmdh19120101/status/2074061182969970700/photo/1",
+              "media_key": "3_2074060966820745216",
+              "start": 24,
+              "url": "https://t.co/li3uJdNtCn"
+            },
+            {
+              "display_url": "x.com/Strf_9040C/sta…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/Strf_9040C/status/2073988008832082047",
+              "start": 48,
+              "url": "https://t.co/PE1E85VAax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074061182969970700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073988008832082047",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我們從未忘記\n大陸無人開口\n台北我們替他們守候 https://t.co/li3uJdNtCn https://t.co/PE1E85VAax"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2057928692089905225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1563,
+          "following_count": 2390,
+          "like_count": 13151,
+          "listed_count": 2,
+          "media_count": 650,
+          "tweet_count": 1165
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-05T07:00:13.000Z",
+        "description": "青天白日の名において\n青天白日滿地紅之名",
+        "id": "1776142720056385537",
+        "location": "中華民國福建省金門縣 寶寶@zhngjing322708",
+        "name": "李延卿🇹🇼",
+        "pinned_tweet_id": "2041493528765747318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069437190871089152/XzMHMYK__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 160,
+          "like_count": 11727,
+          "listed_count": 4,
+          "media_count": 132,
+          "tweet_count": 3705
+        },
+        "url": "",
+        "username": "qtbrmdh19120101",
+        "verified": true
+      }
+    ]
+  }
+}

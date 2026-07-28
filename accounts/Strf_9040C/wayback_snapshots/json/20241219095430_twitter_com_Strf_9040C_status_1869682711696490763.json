@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1869682407802302807",
+    "created_at": "2024-12-19T09:54:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T10:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869682711696490763"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "使用的時候應該注意哪些事",
+          "display_url": "wtf.hiigara.net/t/La4Gir/",
+          "end": 23,
+          "expanded_url": "https://wtf.hiigara.net/t/La4Gir/",
+          "images": [
+            {
+              "height": 315,
+              "url": "https://pbs.twimg.com/news_img/1869320036495818752/z7BLWTby?format=png&name=orig",
+              "width": 600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1869320036495818752/z7BLWTby?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "你的使用注意事項 - 鬼東西",
+          "unwound_url": "https://wtf.hiigara.net/t/La4Gir/",
+          "url": "https://t.co/6mzBbfxrgH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869682711696490763",
+    "in_reply_to_user_id": "1721895937357004800",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869682407802302807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/6mzBbfxrgH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1869682407802302807",
+        "created_at": "2024-12-19T09:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T10:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869682711696490763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "使用的時候應該注意哪些事",
+              "display_url": "wtf.hiigara.net/t/La4Gir/",
+              "end": 23,
+              "expanded_url": "https://wtf.hiigara.net/t/La4Gir/",
+              "images": [
+                {
+                  "height": 315,
+                  "url": "https://pbs.twimg.com/news_img/1869320036495818752/z7BLWTby?format=png&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1869320036495818752/z7BLWTby?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "你的使用注意事項 - 鬼東西",
+              "unwound_url": "https://wtf.hiigara.net/t/La4Gir/",
+              "url": "https://t.co/6mzBbfxrgH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869682711696490763",
+        "in_reply_to_user_id": "1721895937357004800",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869682407802302807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/6mzBbfxrgH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869682404769882112"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "1869682407802302807",
+        "created_at": "2024-12-19T09:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T10:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869682407802302807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UYhjws4YLL",
+              "end": 38,
+              "expanded_url": "https://x.com/Strf_9040C/status/1869682407802302807/photo/1",
+              "media_key": "3_1869682404769882112",
+              "start": 15,
+              "url": "https://t.co/UYhjws4YLL"
+            },
+            {
+              "display_url": "x.com/shudesu00/stat…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/shudesu00/status/1869666671239262383",
+              "start": 39,
+              "url": "https://t.co/HoRalkY9cm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869682407802302807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869666671239262383",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我装甲不够厚嘛\n还给于开放感 https://t.co/UYhjws4YLL https://t.co/HoRalkY9cm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869344088295956831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 166,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 24
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

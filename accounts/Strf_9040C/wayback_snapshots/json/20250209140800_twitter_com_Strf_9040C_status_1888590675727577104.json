@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888583781692702720"
+      ],
+      "media_source_tweet_id": [
+        "1888583791276646470"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "1888590675727577104",
+    "created_at": "2025-02-09T14:08:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T15:08:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888590675727577104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1843461544740564995",
+          "start": 3,
+          "username": "Apache2_91329"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QPVFdImqfk",
+          "end": 134,
+          "expanded_url": "https://x.com/Apache2_91329/status/1888583791276646470/photo/1",
+          "media_key": "3_1888583781692702720",
+          "start": 111,
+          "url": "https://t.co/QPVFdImqfk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888590675727577104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888583791276646470",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Apache2_91329: 目前暂时借到了手机\n绿泡泡：apache91329\nQQ：86555309\nbilibili：松坂砂糖福建分糖\noutlook：nightsky_chaser@outlook.com https://t.co/QPVFdImqfk"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1888590675727577104].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1888590675727577104",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1888590675727577104"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1888583781692702720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjWY8XxbgAAVoVu.png",
+        "width": 1203
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888583781692702720"
+          ]
+        },
+        "author_id": "1843461544740564995",
+        "conversation_id": "1888583791276646470",
+        "created_at": "2025-02-09T13:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T14:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888583791276646470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QPVFdImqfk",
+              "end": 115,
+              "expanded_url": "https://x.com/Apache2_91329/status/1888583791276646470/photo/1",
+              "media_key": "3_1888583781692702720",
+              "start": 92,
+              "url": "https://t.co/QPVFdImqfk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888583791276646470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "目前暂时借到了手机\n绿泡泡：apache91329\nQQ：86555309\nbilibili：松坂砂糖福建分糖\noutlook：nightsky_chaser@outlook.com https://t.co/QPVFdImqfk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1888264013416645010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 1632,
+          "like_count": 5367,
+          "listed_count": 1,
+          "media_count": 280,
+          "tweet_count": 614
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T01:21:18.000Z",
+        "description": "你好啊 ~ 这里是一只超爱Apache2的猫猫 ~ |\nINFP一只，喜欢网络安全以及各种硬件知识 ~|Debian什么的最喜欢了❤️@debian|Primary Account @ChaserCHN0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 67,
+                "username": "debian"
+              },
+              {
+                "end": 105,
+                "start": 91,
+                "username": "ChaserCHN0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=frs1jakp",
+                "start": 0,
+                "url": "https://t.co/iIK6AO3sQl"
+              }
+            ]
+          }
+        },
+        "id": "1843461544740564995",
+        "location": "https://ngl.link/chaserchn0721",
+        "name": "Apache2🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849037579662032897/rG0taPWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 605,
+          "like_count": 3851,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 1303
+        },
+        "url": "https://t.co/iIK6AO3sQl",
+        "username": "Apache2_91329",
+        "verified": false
+      }
+    ]
+  }
+}

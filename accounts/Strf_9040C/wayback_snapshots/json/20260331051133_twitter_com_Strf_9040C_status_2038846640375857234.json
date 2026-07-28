@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2038846640375857234",
+    "created_at": "2026-03-31T05:11:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T06:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038846640375857234"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Strf_9040C/sta…",
+          "end": 172,
+          "expanded_url": "https://twitter.com/Strf_9040C/status/2038846500630127055",
+          "start": 149,
+          "url": "https://t.co/FeyL6lDCj8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038846640375857234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038846500630127055",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "跨性别群体因长期遭受性别少数压力、社会歧视、家庭排斥、医疗资源可及性不足等多重因素，在中国大陆面临极高自杀风险。\n全国研究显示：青少年跨性别者自杀意念率达71.7%、尝试率28.3%，为顺性别5-10倍\n药物/化学品中毒是核心自杀手段，并常伴随激素替代治疗不当用药、药物滥用叠加中毒等复杂毒理问题 https://t.co/FeyL6lDCj8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 937,
+        "media_key": "3_2038846259302465536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEtv3t1bgAAFsPT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2038846640375857234",
+        "created_at": "2026-03-31T05:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T06:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038846640375857234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Strf_9040C/sta…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/Strf_9040C/status/2038846500630127055",
+              "start": 149,
+              "url": "https://t.co/FeyL6lDCj8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038846640375857234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038846500630127055",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跨性别群体因长期遭受性别少数压力、社会歧视、家庭排斥、医疗资源可及性不足等多重因素，在中国大陆面临极高自杀风险。\n全国研究显示：青少年跨性别者自杀意念率达71.7%、尝试率28.3%，为顺性别5-10倍\n药物/化学品中毒是核心自杀手段，并常伴随激素替代治疗不当用药、药物滥用叠加中毒等复杂毒理问题 https://t.co/FeyL6lDCj8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038846259302465536"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2038846500630127055",
+        "created_at": "2026-03-31T05:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T06:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038846500630127055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BCKMN2NIRm",
+              "end": 166,
+              "expanded_url": "https://x.com/Strf_9040C/status/2038846500630127055/photo/1",
+              "media_key": "3_2038846259302465536",
+              "start": 143,
+              "url": "https://t.co/BCKMN2NIRm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038846500630127055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鉴于大陆跨性别者过高的中毒率，尤其化学品中毒（如亚硝酸钠，碳酸钡）\n我宣布\n在跨性别现身日这一天建立\n中国毒理学会跨性别医学毒理专业委员会\n委员会将始终以守护跨性别者生命安全为核心，持续深耕自杀性中毒防治领域，为消除性别歧视、保障跨性别群体健康权益、推动全民健康事业发展贡献专业力量。 https://t.co/BCKMN2NIRm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1888264013416645010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 1611,
+          "like_count": 5325,
+          "listed_count": 0,
+          "media_count": 361,
+          "tweet_count": 738
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

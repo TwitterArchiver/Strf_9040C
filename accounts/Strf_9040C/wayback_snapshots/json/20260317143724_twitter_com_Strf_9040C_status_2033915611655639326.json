@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "2033915611655639326",
+    "created_at": "2026-03-17T14:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T15:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033915611655639326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1789184782825615360",
+          "start": 3,
+          "username": "nonsweetsuger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033915611655639326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033883886066012540",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nonsweetsuger: j4sib3r的爱人使用亚硝酸盐自杀，尽管经过抢救侥幸捡回一命，但在重症监护室依然生命垂危。\n但是一天的住院费用对于她来说是天文数字，希望各位好心人能帮忙转发或解囊以解燃眉之急。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "2033915611655639326",
+        "created_at": "2026-03-17T14:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T15:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033915611655639326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1789184782825615360",
+              "start": 3,
+              "username": "nonsweetsuger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033915611655639326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033883886066012540",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nonsweetsuger: j4sib3r的爱人使用亚硝酸盐自杀，尽管经过抢救侥幸捡回一命，但在重症监护室依然生命垂危。\n但是一天的住院费用对于她来说是天文数字，希望各位好心人能帮忙转发或解囊以解燃眉之急。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789184782825615360",
+        "conversation_id": "2033883886066012540",
+        "created_at": "2026-03-17T12:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T13:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033883886066012540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kukudejiaxibei…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/kukudejiaxibei/status/2033858594781974531",
+              "start": 90,
+              "url": "https://t.co/1lrJrfxZz9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033883886066012540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 473,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033858594781974531",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "j4sib3r的爱人使用亚硝酸盐自杀，尽管经过抢救侥幸捡回一命，但在重症监护室依然生命垂危。\n但是一天的住院费用对于她来说是天文数字，希望各位好心人能帮忙转发或解囊以解燃眉之急。 https://t.co/1lrJrfxZz9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1888264013416645010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 1535,
+          "like_count": 5205,
+          "listed_count": 0,
+          "media_count": 328,
+          "tweet_count": 700
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-11T06:44:59.000Z",
+        "description": "悲伤的设计狗/非二元有男友",
+        "id": "1789184782825615360",
+        "name": "不甜的某糖 nonsweetsuger 🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1820497848582201477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790064536709730304/6xzaU-q8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 753,
+          "like_count": 22961,
+          "listed_count": 2,
+          "media_count": 480,
+          "tweet_count": 10521
+        },
+        "username": "nonsweetsuger",
+        "verified": false
+      }
+    ]
+  }
+}

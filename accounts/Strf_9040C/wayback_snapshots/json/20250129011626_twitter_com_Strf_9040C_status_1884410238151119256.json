@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1884396963770319021",
+    "created_at": "2025-01-29T01:16:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T02:16:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884410238151119256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1843873950704775171",
+          "start": 0,
+          "username": "snowy_1001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884410238151119256",
+    "in_reply_to_user_id": "1843873950704775171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884406600531861517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snowy_1001 密闭，遮光，通风\n定期喂麦片\n定期加水（不能用自来水因为有余氯）\n差不多就这样吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1884396963770319021",
+        "created_at": "2025-01-29T01:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T02:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884410238151119256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1843873950704775171",
+              "start": 0,
+              "username": "snowy_1001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884410238151119256",
+        "in_reply_to_user_id": "1843873950704775171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884406600531861517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snowy_1001 密闭，遮光，通风\n定期喂麦片\n定期加水（不能用自来水因为有余氯）\n差不多就这样吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843873950704775171",
+        "conversation_id": "1884396963770319021",
+        "created_at": "2025-01-29T01:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T02:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884406600531861517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721895937357004800",
+              "start": 0,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884406600531861517",
+        "in_reply_to_user_id": "1721895937357004800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884396963770319021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strf_9040C 养这个有什么注意事项吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 1484,
+          "like_count": 3471,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 393
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T04:40:09.000Z",
+        "description": "生草推 - 小药娘～ 我的宠物霜霜喵喵谁也不许抢@AsahiSnowDream 来自蜂鸟云的可爱小药娘 可怜的流浪宠物@ElysiumFengxuan 小狗狗喵呜～～@china3191 🚪520usdt 地址看我亮点里面 喵没有门槛也可以聊天除非我特意和你提～ vps代购喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 24,
+                "username": "AsahiSnowDream"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "ElysiumFengxuan"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "china3191"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=E7pFms0U",
+                "start": 0,
+                "url": "https://t.co/cyCZZLiafy"
+              }
+            ]
+          }
+        },
+        "id": "1843873950704775171",
+        "location": "白雪窝",
+        "name": "白雪snowy～※ ※ ※ ※ - -- - 邪神好好吃蘸着酱油一口吃掉了",
+        "pinned_tweet_id": "1876277006608081298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843874379882496001/o2RXa8Ve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 393,
+          "like_count": 5640,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 2368
+        },
+        "url": "https://t.co/cyCZZLiafy",
+        "username": "snowy_1001",
+        "verified": true
+      }
+    ]
+  }
+}

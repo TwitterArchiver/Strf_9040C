@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "2056605063809020224",
+    "created_at": "2026-05-19T05:17:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T06:17:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056605261021008328"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "DrugsData.org lab analysis and drug checking results",
+          "display_url": "drugsdata.org",
+          "end": 34,
+          "expanded_url": "https://www.drugsdata.org/",
+          "start": 11,
+          "status": 200,
+          "title": "DrugsData.org: Lab Analysis / Drug Checking for Recreational Drugs",
+          "unwound_url": "https://www.drugsdata.org/",
+          "url": "https://t.co/I830GYTKp1"
+        },
+        {
+          "description": "Health and safety nonprofit dedicated to ending the drug war, providing on-the-ground services, distributing drug checking materials, and more.",
+          "display_url": "dancesafe.org",
+          "end": 58,
+          "expanded_url": "https://dancesafe.org/",
+          "images": [
+            {
+              "height": 100,
+              "url": "https://pbs.twimg.com/news_img/2055461404656967680/ZPVoS7mm?format=png&name=orig",
+              "width": 100
+            },
+            {
+              "height": 100,
+              "url": "https://pbs.twimg.com/news_img/2055461404656967680/ZPVoS7mm?format=png&name=150x150",
+              "width": 100
+            }
+          ],
+          "start": 35,
+          "status": 200,
+          "title": "Home | DanceSafe",
+          "unwound_url": "https://dancesafe.org/",
+          "url": "https://t.co/vHIozKqTOP"
+        },
+        {
+          "description": "Detailed magic mushroom information including growing shrooms, mushroom identification, spores, psychedelic art, trip reports and an active community.",
+          "display_url": "shroomery.org",
+          "end": 82,
+          "expanded_url": "https://www.shroomery.org/",
+          "images": [
+            {
+              "height": 438,
+              "url": "https://pbs.twimg.com/news_img/2051106696743804929/nnh25QqO?format=png&name=orig",
+              "width": 426
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2051106696743804929/nnh25QqO?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 59,
+          "status": 200,
+          "title": "Shroomery - Magic Mushrooms (Shrooms) Demystified",
+          "unwound_url": "https://www.shroomery.org/",
+          "url": "https://t.co/yQSG6235U7"
+        },
+        {
+          "description": "DMT-Nexus, for all your information on DMT, Ayahuasca and the sorts...",
+          "display_url": "dmt-nexus.me/forum/",
+          "end": 106,
+          "expanded_url": "https://www.dmt-nexus.me/forum/",
+          "start": 83,
+          "status": 200,
+          "title": "Welcome to the DMT-Nexus",
+          "unwound_url": "https://www.dmt-nexus.me/forum/",
+          "url": "https://t.co/dUmSIvBZG5"
+        },
+        {
+          "description": "导论 关于PsydrugsWiki本站的免责声明：非专业或公立站点，医疗建议仅可参考，不建议人员以本站内容而举动，一切责任后果由读者自行承担。任何人从事的行为，都不应当 违反法律、有害健康于自己或他人、有损社会公序良俗。 本项目名为 精神活性物质指南，旨在相对科学客观地提供 药物信息、使用方案、药物紧急处理方法、后续恢复减害措施。本站主题为 概述精神药物具有精神效应的药物及其减害措施。本站提倡科",
+          "display_url": "psydrugs.org/drugs/",
+          "end": 130,
+          "expanded_url": "https://psydrugs.org/drugs/",
+          "start": 107,
+          "status": 200,
+          "title": "药物使用导论",
+          "unwound_url": "https://psydrugs.org/drugs/",
+          "url": "https://t.co/CaGzwL8zFv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056605261021008328",
+    "in_reply_to_user_id": "1721895937357004800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056605063809020224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "药物减害网站：（续）\nhttps://t.co/I830GYTKp1\nhttps://t.co/vHIozKqTOP\nhttps://t.co/yQSG6235U7\nhttps://t.co/dUmSIvBZG5\nhttps://t.co/CaGzwL8zFv\n祝旅行愉快！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "2056605063809020224",
+        "created_at": "2026-05-19T05:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T06:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056605261021008328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "DrugsData.org lab analysis and drug checking results",
+              "display_url": "drugsdata.org",
+              "end": 34,
+              "expanded_url": "https://www.drugsdata.org/",
+              "start": 11,
+              "status": 200,
+              "title": "DrugsData.org: Lab Analysis / Drug Checking for Recreational Drugs",
+              "unwound_url": "https://www.drugsdata.org/",
+              "url": "https://t.co/I830GYTKp1"
+            },
+            {
+              "description": "Health and safety nonprofit dedicated to ending the drug war, providing on-the-ground services, distributing drug checking materials, and more.",
+              "display_url": "dancesafe.org",
+              "end": 58,
+              "expanded_url": "https://dancesafe.org/",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2055461404656967680/ZPVoS7mm?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2055461404656967680/ZPVoS7mm?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 35,
+              "status": 200,
+              "title": "Home | DanceSafe",
+              "unwound_url": "https://dancesafe.org/",
+              "url": "https://t.co/vHIozKqTOP"
+            },
+            {
+              "description": "Detailed magic mushroom information including growing shrooms, mushroom identification, spores, psychedelic art, trip reports and an active community.",
+              "display_url": "shroomery.org",
+              "end": 82,
+              "expanded_url": "https://www.shroomery.org/",
+              "images": [
+                {
+                  "height": 438,
+                  "url": "https://pbs.twimg.com/news_img/2051106696743804929/nnh25QqO?format=png&name=orig",
+                  "width": 426
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2051106696743804929/nnh25QqO?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 59,
+              "status": 200,
+              "title": "Shroomery - Magic Mushrooms (Shrooms) Demystified",
+              "unwound_url": "https://www.shroomery.org/",
+              "url": "https://t.co/yQSG6235U7"
+            },
+            {
+              "description": "DMT-Nexus, for all your information on DMT, Ayahuasca and the sorts...",
+              "display_url": "dmt-nexus.me/forum/",
+              "end": 106,
+              "expanded_url": "https://www.dmt-nexus.me/forum/",
+              "start": 83,
+              "status": 200,
+              "title": "Welcome to the DMT-Nexus",
+              "unwound_url": "https://www.dmt-nexus.me/forum/",
+              "url": "https://t.co/dUmSIvBZG5"
+            },
+            {
+              "description": "导论 关于PsydrugsWiki本站的免责声明：非专业或公立站点，医疗建议仅可参考，不建议人员以本站内容而举动，一切责任后果由读者自行承担。任何人从事的行为，都不应当 违反法律、有害健康于自己或他人、有损社会公序良俗。 本项目名为 精神活性物质指南，旨在相对科学客观地提供 药物信息、使用方案、药物紧急处理方法、后续恢复减害措施。本站主题为 概述精神药物具有精神效应的药物及其减害措施。本站提倡科",
+              "display_url": "psydrugs.org/drugs/",
+              "end": 130,
+              "expanded_url": "https://psydrugs.org/drugs/",
+              "start": 107,
+              "status": 200,
+              "title": "药物使用导论",
+              "unwound_url": "https://psydrugs.org/drugs/",
+              "url": "https://t.co/CaGzwL8zFv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056605261021008328",
+        "in_reply_to_user_id": "1721895937357004800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056605063809020224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药物减害网站：（续）\nhttps://t.co/I830GYTKp1\nhttps://t.co/vHIozKqTOP\nhttps://t.co/yQSG6235U7\nhttps://t.co/dUmSIvBZG5\nhttps://t.co/CaGzwL8zFv\n祝旅行愉快！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "2056605063809020224",
+        "created_at": "2026-05-19T05:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T06:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056605063809020224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Drugs-Forum",
+              "display_url": "drugs-forum.com",
+              "end": 31,
+              "expanded_url": "https://drugs-forum.com/",
+              "start": 8,
+              "status": 200,
+              "title": "Drugs-Forum",
+              "unwound_url": "https://drugs-forum.com/",
+              "url": "https://t.co/oQHegz3h46"
+            },
+            {
+              "description": "Erowid is a non-profit educational & harm-reduction resource with 60 thousand pages of online information about psychoactive drugs, plants, chemicals, and technologies including entheogens, psychedelics, new psychoactive substances, research chemicals, stimulants, depressants and pharmaceuticals. This includes traditional, spiritual, and responsible use, info on health, effects, experiences, images, research, chemistry, law, media coverage, bibliographies and a whole lot more.",
+              "display_url": "erowid.org/splash.php",
+              "end": 55,
+              "expanded_url": "https://erowid.org/splash.php",
+              "start": 32,
+              "status": 200,
+              "title": "Erowid",
+              "unwound_url": "https://erowid.org/splash.php",
+              "url": "https://t.co/47oDc2CDKL"
+            },
+            {
+              "description": "在这里所有od知识都是自由开源编辑的，你可以来解决你的疑惑，顺便帮我们完善我们的od百科喵！",
+              "display_url": "freeodwiki.org",
+              "end": 79,
+              "expanded_url": "https://freeodwiki.org/",
+              "start": 56,
+              "status": 200,
+              "title": "FreeODWiki主页 - FreeODwiki——可自由编辑的开源Overdose百科",
+              "unwound_url": "https://freeodwiki.org/",
+              "url": "https://t.co/q3dq3dEa20"
+            },
+            {
+              "description": "Practices: Breathing techniques ⋅ Fasting ⋅ Meditation ⋅ Sensory deprivation ⋅ Sleep deprivation ⋅ Tulpa Tools: Meditation frequency ⋅ Psychedelic art ⋅ Shulgin Rating Scale ⋅ Vibes (Good vibes ⋅ Trippy vibes ⋅ Bad vibes)",
+              "display_url": "m.psychonautwiki.org/wiki/Main_Page",
+              "end": 103,
+              "expanded_url": "https://m.psychonautwiki.org/wiki/Main_Page",
+              "start": 80,
+              "status": 200,
+              "title": "PsychonautWiki",
+              "unwound_url": "https://m.psychonautwiki.org/wiki/Main_Page",
+              "url": "https://t.co/czyX1BFJOB"
+            },
+            {
+              "description": "Tripsit Harm Reduction Through Education",
+              "display_url": "tripsit.me",
+              "end": 127,
+              "expanded_url": "https://tripsit.me/",
+              "images": [
+                {
+                  "height": 1575,
+                  "url": "https://pbs.twimg.com/news_img/2056603103777214464/eU--E_3u?format=png&name=orig",
+                  "width": 3800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2056603103777214464/eU--E_3u?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 104,
+              "status": 200,
+              "title": "TripSit.Me",
+              "unwound_url": "https://tripsit.me/",
+              "url": "https://t.co/5jjrB7Vbux"
+            },
+            {
+              "description": "bluelight.org is a community-driven platform that provides relevant information and dialogue about drug use and harm reduction.",
+              "display_url": "bluelight.org",
+              "end": 151,
+              "expanded_url": "https://bluelight.org/",
+              "images": [
+                {
+                  "height": 960,
+                  "url": "https://pbs.twimg.com/news_img/2056603093207556096/N9RWcJXV?format=jpg&name=orig",
+                  "width": 960
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2056603093207556096/N9RWcJXV?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 128,
+              "status": 200,
+              "title": "bluelight.org - A safe and credible community for harm reduction",
+              "unwound_url": "https://bluelight.org/",
+              "url": "https://t.co/Uap2kzRDXp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056605063809020224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药物减害网站：\nhttps://t.co/oQHegz3h46\nhttps://t.co/47oDc2CDKL\nhttps://t.co/q3dq3dEa20\nhttps://t.co/czyX1BFJOB\nhttps://t.co/5jjrB7Vbux\nhttps://t.co/Uap2kzRDXp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2054846201502306755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1348,
+          "following_count": 2090,
+          "like_count": 10367,
+          "listed_count": 2,
+          "media_count": 507,
+          "tweet_count": 974
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

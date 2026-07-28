@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2037508339027132416"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2037508980713652396",
+    "created_at": "2026-03-27T12:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T13:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037508980713652396"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZX4Jqazu6m",
+          "end": 36,
+          "expanded_url": "https://x.com/Strf_9040C/status/2037508980713652396/video/1",
+          "media_key": "13_2037508339027132416",
+          "start": 13,
+          "url": "https://t.co/ZX4Jqazu6m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037508980713652396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "坦克酱高潮时候的心电图… https://t.co/ZX4Jqazu6m"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9966,
+        "height": 1080,
+        "media_key": "13_2037508339027132416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037508339027132416/img/fOIs27m_99SFfLhG.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037508339027132416/vid/avc1/480x270/wG7IzcJTKs3nsusE.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037508339027132416/vid/avc1/640x360/WcfyrspasoZAfUkU.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037508339027132416/vid/avc1/1280x720/2z8g8wj-TdE6bn_0.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037508339027132416/pl/zB960-_j7subfi0D.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037508339027132416"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2037508980713652396",
+        "created_at": "2026-03-27T12:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T13:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037508980713652396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZX4Jqazu6m",
+              "end": 36,
+              "expanded_url": "https://x.com/Strf_9040C/status/2037508980713652396/video/1",
+              "media_key": "13_2037508339027132416",
+              "start": 13,
+              "url": "https://t.co/ZX4Jqazu6m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037508980713652396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坦克酱高潮时候的心电图… https://t.co/ZX4Jqazu6m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1888264013416645010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 1562,
+          "like_count": 5288,
+          "listed_count": 0,
+          "media_count": 346,
+          "tweet_count": 719
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

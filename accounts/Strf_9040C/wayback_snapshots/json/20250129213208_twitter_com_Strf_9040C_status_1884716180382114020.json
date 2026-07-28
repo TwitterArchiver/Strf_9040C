@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "1884716180382114020",
+    "created_at": "2025-01-29T21:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T22:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884716180382114020"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Meowneko_Mio/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/Meowneko_Mio/status/1884470046602453392",
+          "start": 9,
+          "url": "https://t.co/VbKBkeQx0M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884716180382114020",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884470046602453392",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "龙年飞过的机场： https://t.co/VbKBkeQx0M"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1884716180382114020",
+        "created_at": "2025-01-29T21:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T22:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884716180382114020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Meowneko_Mio/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Meowneko_Mio/status/1884470046602453392",
+              "start": 9,
+              "url": "https://t.co/VbKBkeQx0M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884716180382114020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884470046602453392",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "龙年飞过的机场： https://t.co/VbKBkeQx0M"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2486372011",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Sapporo",
+              "id": "1009884650444021760",
+              "name": "Sapporo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1884470046602453392",
+        "created_at": "2025-01-29T05:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T06:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884470046602453392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/teadelimao/sta…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/teadelimao/status/1884245210856841333",
+              "start": 54,
+              "url": "https://t.co/wtos1Pk2do"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884470046602453392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1014,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884245210856841333",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "龍年飛過的機場：\n澳門\n香港\n台北桃園\n高雄\n東京成田\n佐賀\n新加坡\n吉隆坡\n上海浦東\n廣州白雲\n達州金埡 https://t.co/wtos1Pk2do"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 1495,
+          "like_count": 3542,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 413
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-10T01:56:58.000Z",
+        "description": "📷 | 🚃 | 🇲🇴 | 🇭🇰 | 85.60x53.98 ｜Best Linux @Debian | https://t.co/hCUoYx0hAa in Computer Science ｜ 💫@McXiaowei | 💫 @RenkoUsagi1155｜Moonlight @Hongcha_Meow",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 42,
+                "username": "Debian"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "McXiaowei"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "RenkoUsagi1155"
+              },
+              {
+                "end": 153,
+                "start": 140,
+                "username": "Hongcha_Meow"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "B.Sc",
+                "end": 75,
+                "expanded_url": "http://B.Sc",
+                "start": 52,
+                "url": "https://t.co/hCUoYx0hAa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amiya.eu.org",
+                "end": 23,
+                "expanded_url": "https://amiya.eu.org",
+                "start": 0,
+                "url": "https://t.co/CGRr5ZrJmw"
+              }
+            ]
+          }
+        },
+        "id": "2486372011",
+        "location": "Nether",
+        "name": "Mio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718374429770776576/Yn6W1pM6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 746,
+          "like_count": 51385,
+          "listed_count": 3,
+          "media_count": 347,
+          "tweet_count": 3293
+        },
+        "url": "https://t.co/CGRr5ZrJmw",
+        "username": "Meowneko_Mio",
+        "verified": false
+      }
+    ]
+  }
+}

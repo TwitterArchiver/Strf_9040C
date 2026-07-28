@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889704213489524743"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "1889640738222178571",
+    "created_at": "2025-02-12T15:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T16:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889704218388254793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1609619970811482112",
+          "start": 0,
+          "username": "3ch4O1H"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n2GGBbPSb0",
+          "end": 32,
+          "expanded_url": "https://x.com/Strf_9040C/status/1889704218388254793/photo/1",
+          "media_key": "3_1889704213489524743",
+          "start": 9,
+          "url": "https://t.co/n2GGBbPSb0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889704218388254793",
+    "in_reply_to_user_id": "1609619970811482112",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889701851940954415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3ch4O1H https://t.co/n2GGBbPSb0"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1889701851940954415].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1889701851940954415",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1889701851940954415"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2080,
+        "media_key": "3_1889704213489524743",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjmT-FeaIAc14MQ.jpg",
+        "width": 1168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889704213489524743"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "1889640738222178571",
+        "created_at": "2025-02-12T15:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T16:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889704218388254793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1609619970811482112",
+              "start": 0,
+              "username": "3ch4O1H"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n2GGBbPSb0",
+              "end": 32,
+              "expanded_url": "https://x.com/Strf_9040C/status/1889704218388254793/photo/1",
+              "media_key": "3_1889704213489524743",
+              "start": 9,
+              "url": "https://t.co/n2GGBbPSb0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889704218388254793",
+        "in_reply_to_user_id": "1609619970811482112",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889701851940954415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3ch4O1H https://t.co/n2GGBbPSb0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1888264013416645010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076,
+          "following_count": 1664,
+          "like_count": 5793,
+          "listed_count": 1,
+          "media_count": 300,
+          "tweet_count": 659
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T18:38:28.000Z",
+        "description": "爱在当下\n顺男 弗雷尔卓德人\n最爱的伴侣@LixdH5jzYx99195",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "LixdH5jzYx99195"
+              }
+            ]
+          }
+        },
+        "id": "1609619970811482112",
+        "location": "unknown",
+        "name": "Echo4th",
+        "pinned_tweet_id": "1854585828779212968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889015458311127040/NTwC5zPF_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 2208,
+          "like_count": 31366,
+          "listed_count": 1,
+          "media_count": 509,
+          "tweet_count": 17175
+        },
+        "username": "3ch4O1H",
+        "verified": false
+      }
+    ]
+  }
+}

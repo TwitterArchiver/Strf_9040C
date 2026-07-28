@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "2029842054696808946",
+    "created_at": "2026-03-06T08:50:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T09:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029842054696808946"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SPYDER_AIO/sta…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/SPYDER_AIO/status/2029814232896917830",
+          "start": 35,
+          "url": "https://t.co/PW1Lq9zMNk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029842054696808946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029814232896917830",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "望周知\n望转发\n望书签\n真的很有用啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊 https://t.co/PW1Lq9zMNk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "2029842054696808946",
+        "created_at": "2026-03-06T08:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T09:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029842054696808946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SPYDER_AIO/sta…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/SPYDER_AIO/status/2029814232896917830",
+              "start": 35,
+              "url": "https://t.co/PW1Lq9zMNk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029842054696808946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029814232896917830",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "望周知\n望转发\n望书签\n真的很有用啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊 https://t.co/PW1Lq9zMNk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959688702088945664",
+        "conversation_id": "2029814232896917830",
+        "created_at": "2026-03-06T06:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T07:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029814232896917830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "doctor-network.com/Public/LittleT…",
+              "end": 62,
+              "expanded_url": "https://www.doctor-network.com/Public/LittleTools/125.html",
+              "start": 39,
+              "status": 200,
+              "title": "格拉斯哥昏迷评分（GCS）",
+              "unwound_url": "https://www.doctor-network.com/Public/LittleTools/125.html",
+              "url": "https://t.co/SF98TVztGd"
+            },
+            {
+              "display_url": "ntneuro.org/scale/scl90.asp",
+              "end": 92,
+              "expanded_url": "http://www.ntneuro.org/scale/scl90.asp",
+              "start": 69,
+              "status": 200,
+              "title": "症状自评量表 SCL-90 在线测试",
+              "unwound_url": "http://www.ntneuro.org/scale/scl90.asp",
+              "url": "https://t.co/kijnApToLX"
+            },
+            {
+              "description": "HAMA汉密尔顿焦虑量表免费测试，14题专业评估当前焦虑症状严重程度，包含精神性、躯体性焦虑症状分析，提供焦虑风险等级和综合建议，适用于16岁以上人群。",
+              "display_url": "freetoolhouse.com/mental-tests/h…",
+              "end": 121,
+              "expanded_url": "https://www.freetoolhouse.com/mental-tests/hama",
+              "start": 98,
+              "status": 200,
+              "title": "汉密尔顿焦虑量表(HAMA) | 专业焦虑症状评估工具",
+              "unwound_url": "https://www.freetoolhouse.com/mental-tests/hama",
+              "url": "https://t.co/dJttEd8L60"
+            },
+            {
+              "display_url": "cals.medlive.cn/calc/show/2?id…",
+              "end": 150,
+              "expanded_url": "https://cals.medlive.cn/calc/show/2?id=calc-224",
+              "start": 127,
+              "status": 301,
+              "unwound_url": "https://cals.medlive.cn/calc/show/2?id=calc-224",
+              "url": "https://t.co/YZnDn7lwtl"
+            },
+            {
+              "display_url": "cals.medlive.cn/calc/show/2?id…",
+              "end": 179,
+              "expanded_url": "https://cals.medlive.cn/calc/show/2?id=calc-823",
+              "start": 156,
+              "status": 301,
+              "unwound_url": "https://cals.medlive.cn/calc/show/2?id=calc-823",
+              "url": "https://t.co/aTCr50nYqF"
+            },
+            {
+              "display_url": "cals.medlive.cn/calc/show/2?id…",
+              "end": 209,
+              "expanded_url": "https://cals.medlive.cn/calc/show/2?id=calc-1315",
+              "start": 186,
+              "status": 301,
+              "unwound_url": "https://cals.medlive.cn/calc/show/2?id=calc-1315",
+              "url": "https://t.co/4bZ77BrwPV"
+            },
+            {
+              "description": "GAD-7.org提供值得信赖的GAD-7焦虑测试。在几分钟内获得您的分数，并探索可选的AI驱动的报告以获得更深入的了解。今天评估您的焦虑！",
+              "display_url": "gad-7.org/zh",
+              "end": 239,
+              "expanded_url": "https://gad-7.org/zh",
+              "start": 216,
+              "status": 200,
+              "title": "在线进行GAD-7焦虑测试 - GAD-7.org",
+              "unwound_url": "https://gad-7.org/zh",
+              "url": "https://t.co/vuJyYo7783"
+            },
+            {
+              "display_url": "x.com/DXMDusk/status…",
+              "end": 266,
+              "expanded_url": "https://twitter.com/DXMDusk/status/2029785883973763263",
+              "start": 243,
+              "url": "https://t.co/to8l8o1Wuw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029814232896917830",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 113,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029785883973763263",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "整合一下目前我知道的精神科临床评估量表相关链接：\n精神科常用量表：\nGCS：\nhttps://t.co/SF98TVztGd\nSCL90:https://t.co/kijnApToLX\nHAMA：https://t.co/dJttEd8L60\nHAMD：https://t.co/YZnDn7lwtl\nBDI：\nhttps://t.co/aTCr50nYqF\nBHQ9:\nhttps://t.co/4bZ77BrwPV\nGAD7:\nhttps://t.co/vuJyYo7783\n后续 https://t.co/to8l8o1Wuw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1888264013416645010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 1487,
+          "like_count": 5025,
+          "listed_count": 0,
+          "media_count": 313,
+          "tweet_count": 671
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-24T18:46:20.000Z",
+        "description": "以色列SPYDER AIO防空系统是以色列拉斐尔先进防御系统公司与以色列航空工业公司联合研制的机动防空平台。\n配备exMHR雷达，该雷达工作在F波段，由四个非旋转雷达组成，每个覆盖90度扇区，可提供360度全向覆盖，最大射程达110公里，且具备自动识别大多数 飞机的能力\n可发射怪蛇-5、I-DERBY SR等制导飞弹.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rafael.co.il",
+                "end": 23,
+                "expanded_url": "http://www.rafael.co.il/",
+                "start": 0,
+                "url": "https://t.co/7B2Q6w7p87"
+              }
+            ]
+          }
+        },
+        "id": "1959688702088945664",
+        "location": "רפאל-מערכות לחימה מתקדמות בע",
+        "name": "高生存性测试全自动家庭闯祸捣蛋机坦克酱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2028340994366931406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959988780779405312/ISyppMCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 614,
+          "like_count": 1209,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 182
+        },
+        "url": "https://t.co/7B2Q6w7p87",
+        "username": "SPYDER_AIO",
+        "verified": false
+      }
+    ]
+  }
+}

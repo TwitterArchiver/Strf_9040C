@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1879271945176486108",
+    "created_at": "2025-02-01T02:50:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T03:50:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885521174643564970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1729001071656439808",
+          "start": 0,
+          "username": "mhsfnx"
+        },
+        {
+          "end": 18,
+          "id": "1841768354178334721",
+          "start": 8,
+          "username": "jingzi004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885521174643564970",
+    "in_reply_to_user_id": "1729001071656439808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879271945176486108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mhsfnx @jingzi004 好巨\n含糖含多久了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1879271945176486108",
+        "created_at": "2025-02-01T02:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T03:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885521174643564970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1729001071656439808",
+              "start": 0,
+              "username": "mhsfnx"
+            },
+            {
+              "end": 18,
+              "id": "1841768354178334721",
+              "start": 8,
+              "username": "jingzi004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885521174643564970",
+        "in_reply_to_user_id": "1729001071656439808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879271945176486108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mhsfnx @jingzi004 好巨\n含糖含多久了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879271941301063681",
+            "3_1879271941531701249"
+          ]
+        },
+        "author_id": "1729001071656439808",
+        "conversation_id": "1879271945176486108",
+        "created_at": "2025-01-14T20:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T21:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879271945176486108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z7LDsnLvwu",
+              "end": 71,
+              "expanded_url": "https://x.com/mhsfnx/status/1879271945176486108/photo/1",
+              "media_key": "3_1879271941301063681",
+              "start": 48,
+              "url": "https://t.co/Z7LDsnLvwu"
+            },
+            {
+              "display_url": "pic.x.com/Z7LDsnLvwu",
+              "end": 71,
+              "expanded_url": "https://x.com/mhsfnx/status/1879271945176486108/photo/1",
+              "media_key": "3_1879271941531701249",
+              "start": 48,
+              "url": "https://t.co/Z7LDsnLvwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879271945176486108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 796,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "憧憬成为涩推.ing（识别标签:手腕上的红线与胸口的痣，希望别被现实中的熟人刷到……祈祷🙏🏻） https://t.co/Z7LDsnLvwu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 1571,
+          "like_count": 4312,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 502
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-27T04:56:17.000Z",
+        "description": "一名04普通的大学生（休学ing），喜欢ACG，时不时会cos，无证含🍥，深柜中（炸一半），有容貌、身材焦虑，有一点点m。接线下接定制，咱有对象哦～ @ling7021351",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "ling7021351"
+              }
+            ]
+          }
+        },
+        "id": "1729001071656439808",
+        "name": "红丝绒蛋糕🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853303333865529344/Mr-d6Qtf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 386,
+          "like_count": 1790,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 845
+        },
+        "username": "mhsfnx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T09:14:54.000Z",
+        "description": "MTF🏳️‍⚧️HRT2022🍥生物化學專業🧪實驗室技術員👩‍🔬仿製藥糖商💊擅長減肥、豐胸、泌乳、互fo🌝",
+        "id": "1841768354178334721",
+        "name": "四代目京子",
+        "pinned_tweet_id": "1870662020733038653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841771063333814272/eXhgbIdt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1677,
+          "following_count": 1941,
+          "like_count": 807,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 2251
+        },
+        "username": "jingzi004",
+        "verified": false
+      }
+    ]
+  }
+}

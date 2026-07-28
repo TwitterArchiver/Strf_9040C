@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "2076889775299264979",
+    "created_at": "2026-07-14T23:34:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T00:34:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077174912465416273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1300828282061877249",
+          "start": 0,
+          "username": "HANLIANYI331"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/NekoSukiXoX/st…",
+          "end": 37,
+          "expanded_url": "https://x.com/NekoSukiXoX/status/2077009172382847384?s=20",
+          "start": 14,
+          "url": "https://t.co/OPLMiCdcIa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077174912465416273",
+    "in_reply_to_user_id": "1300828282061877249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077009172382847384",
+        "type": "quoted"
+      },
+      {
+        "id": "2076889775299264979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HANLIANYI331 https://t.co/OPLMiCdcIa\n\n目前已经收治入院了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077009163675443200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNME1HQbIAAtnKY.jpg",
+        "width": 1068
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "2076889775299264979",
+        "created_at": "2026-07-14T23:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T00:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077174912465416273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/NekoSukiXoX/st…",
+              "end": 37,
+              "expanded_url": "https://x.com/NekoSukiXoX/status/2077009172382847384?s=20",
+              "start": 14,
+              "url": "https://t.co/OPLMiCdcIa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077174912465416273",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077009172382847384",
+            "type": "quoted"
+          },
+          {
+            "id": "2076889775299264979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 https://t.co/OPLMiCdcIa\n\n目前已经收治入院了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077009163675443200"
+          ]
+        },
+        "author_id": "1299233902066692097",
+        "conversation_id": "2077009172382847384",
+        "created_at": "2026-07-14T12:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077009172382847384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WoTeCYD9bS",
+              "end": 60,
+              "expanded_url": "https://x.com/NekoSukiXoX/status/2077009172382847384/photo/1",
+              "media_key": "3_2077009163675443200",
+              "start": 37,
+              "url": "https://t.co/WoTeCYD9bS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077009172382847384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2477,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "被救了，进ICU了，要住一周，临时要来了手机，住院期间应该拿不到手机了… https://t.co/WoTeCYD9bS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2076889775299264979",
+        "created_at": "2026-07-14T04:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076889775299264979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/2076696668259697029",
+              "start": 9,
+              "url": "https://t.co/W4UCB4bfdP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076889775299264979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 53630,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076696668259697029",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "目前有人报警吗？ https://t.co/W4UCB4bfdP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2076732270384464027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 2412,
+          "like_count": 13458,
+          "listed_count": 2,
+          "media_count": 653,
+          "tweet_count": 1169
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41967,
+          "following_count": 3939,
+          "like_count": 1891,
+          "listed_count": 3,
+          "media_count": 408,
+          "tweet_count": 3077
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-28T06:34:47.000Z",
+        "description": "キモいの雑魚変態バカ一只/中英日はOK/喜欢碎碎念/2010.11出厂/初三在读/想要变成可爱的女孩子/水仙/深柜/MTF/酒蒙子/偶尔自残(确信)/不太敢鉴证/已累似/希望25岁前似掉/可互fo喔/匿名提问箱https://t.co/bEwcPWTArv\n恋人&主人@NekoSukiXoX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 134,
+                "username": "NekoSukiXoX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/naizinaizinai",
+                "end": 128,
+                "expanded_url": "https://ngl.link/naizinaizinai",
+                "start": 105,
+                "url": "https://t.co/bEwcPWTArv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/naizinaizinai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/naizinaizinai",
+                "start": 0,
+                "url": "https://t.co/bEwcPWTArv"
+              }
+            ]
+          }
+        },
+        "id": "1299233902066692097",
+        "location": "NightCity",
+        "name": "𝓝𝓪𝓲𝔃𝓲𝓝𝓪𝓲𝔃𝓲𝓝𝓪𝓲🏳️‍⚧️",
+        "pinned_tweet_id": "2063600929774109039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059999535716544513/0EsfSBv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 226,
+          "like_count": 365,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 381
+        },
+        "url": "https://t.co/bEwcPWTArv",
+        "username": "NekoSukiXoX",
+        "verified": true
+      }
+    ]
+  }
+}

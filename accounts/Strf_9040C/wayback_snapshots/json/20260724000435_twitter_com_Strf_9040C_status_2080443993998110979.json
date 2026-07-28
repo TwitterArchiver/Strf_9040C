@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080443971797757952"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2080275647180755118",
+    "created_at": "2026-07-24T00:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T01:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080443993998110979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1672124894694490117",
+          "start": 0,
+          "username": "NanaseToki0923"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PwzloqGHfX",
+          "end": 49,
+          "expanded_url": "https://x.com/Strf_9040C/status/2080443993998110979/photo/1",
+          "media_key": "3_2080443971797757952",
+          "start": 26,
+          "url": "https://t.co/PwzloqGHfX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080443993998110979",
+    "in_reply_to_user_id": "1672124894694490117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080275647180755118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NanaseToki0923 感觉像癔症集体发作 https://t.co/PwzloqGHfX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3600,
+        "media_key": "3_2080443971797757952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN84xQobsAAWTHB.jpg",
+        "width": 3000
+      },
+      {
+        "height": 637,
+        "media_key": "3_2080275541748568064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6flVzbUAAU60S.jpg",
+        "width": 3074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080443971797757952"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2080275647180755118",
+        "created_at": "2026-07-24T00:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T01:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080443993998110979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1672124894694490117",
+              "start": 0,
+              "username": "NanaseToki0923"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PwzloqGHfX",
+              "end": 49,
+              "expanded_url": "https://x.com/Strf_9040C/status/2080443993998110979/photo/1",
+              "media_key": "3_2080443971797757952",
+              "start": 26,
+              "url": "https://t.co/PwzloqGHfX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080443993998110979",
+        "in_reply_to_user_id": "1672124894694490117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080275647180755118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanaseToki0923 感觉像癔症集体发作 https://t.co/PwzloqGHfX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080275541748568064"
+          ]
+        },
+        "author_id": "1672124894694490117",
+        "conversation_id": "2080275647180755118",
+        "created_at": "2026-07-23T12:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080275647180755118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yB2RpdSkiS",
+              "end": 60,
+              "expanded_url": "https://x.com/NanaseToki0923/status/2080275647180755118/photo/1",
+              "media_key": "3_2080275541748568064",
+              "start": 37,
+              "url": "https://t.co/yB2RpdSkiS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080275647180755118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 563,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有大佬可以分析一下这可能是什么病🤔\n我猜测病因可能是中毒，症状像癔症 https://t.co/yB2RpdSkiS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2076732270384464027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1620,
+          "following_count": 2474,
+          "like_count": 14164,
+          "listed_count": 2,
+          "media_count": 668,
+          "tweet_count": 1180
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-23T06:10:28.000Z",
+        "description": "22岁/MtX/天残党丑蝈蝻/人群中最不像xyn的就是我/持证含糖/泛性恋/双相/BPD/HPD/ADHD/人格分裂/ISFP-T/抖M/火车迷/骑行佬/已炸柜/超大只/数码爱好者/maimai 真•超•檄•橙•晓•桃•紫•白•熊•华将取得/maimai霸者取得/maimai LV12全AP/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12306.cn",
+                "end": 23,
+                "expanded_url": "https://www.12306.cn",
+                "start": 0,
+                "url": "https://t.co/Z1K8st8x9l"
+              }
+            ]
+          }
+        },
+        "id": "1672124894694490117",
+        "location": "上局金温公司",
+        "name": "七濑与喜🏳️‍⚧️🍥开始推11+全AP",
+        "pinned_tweet_id": "2073029940602372493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984842117060153344/X4c6c0w9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1799,
+          "following_count": 778,
+          "like_count": 9273,
+          "listed_count": 6,
+          "media_count": 1190,
+          "tweet_count": 5277
+        },
+        "url": "https://t.co/Z1K8st8x9l",
+        "username": "NanaseToki0923",
+        "verified": false
+      }
+    ]
+  }
+}

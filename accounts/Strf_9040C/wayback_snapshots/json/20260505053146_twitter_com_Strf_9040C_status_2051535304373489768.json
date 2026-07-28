@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051535295141773312"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2051535304373489768",
+    "created_at": "2026-05-05T05:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T06:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051535304373489768"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fkp4FqHWqA",
+          "end": 28,
+          "expanded_url": "https://x.com/Strf_9040C/status/2051535304373489768/photo/1",
+          "media_key": "3_2051535295141773312",
+          "start": 5,
+          "url": "https://t.co/fkp4FqHWqA"
+        },
+        {
+          "display_url": "x.com/senzhiwu/statu…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/senzhiwu/status/2050917601858244902",
+          "start": 29,
+          "url": "https://t.co/qnH7UkyfIg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051535304373489768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050917601858244902",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我看未必 https://t.co/fkp4FqHWqA https://t.co/qnH7UkyfIg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2051535304373489768].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2051535304373489768",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2051535304373489768"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1710,
+        "media_key": "3_2051535295141773312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHiEez8aAAAkK9F.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031270533359349761",
+        "conversation_id": "2050917601858244902",
+        "created_at": "2026-05-03T12:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T13:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050917601858244902"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050917601858244902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 11720,
+          "like_count": 112,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "药娘之胶真的淡如水诶😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A\n主人🥰@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              },
+              {
+                "end": 152,
+                "start": 143,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "2043259817121448322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 1943,
+          "like_count": 9268,
+          "listed_count": 0,
+          "media_count": 473,
+          "tweet_count": 918
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T07:27:30.000Z",
+        "description": "一个什么都不擅长的废物吧（或许❓）生产日期2008（真的重要吗🤔）mtx（为啥不是mtf😭）ENTP-T（不知道测了有啥用😇）究极大爱慕（真的能说吗😨）hrt 3.29（未免太短了吧😡）🇲🇾留学生/常驻南京 欢迎来吉隆坡和南京找我玩喵（谁会跟长相顺男玩呢😭） 碎碎念：好想被人爱",
+        "id": "2031270533359349761",
+        "location": "你家门口",
+        "name": "senzhiwu🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2050233709190959151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047353915830882304/u21sPFyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 220,
+          "like_count": 1469,
+          "listed_count": 4,
+          "media_count": 62,
+          "tweet_count": 1462
+        },
+        "username": "senzhiwu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1885364330809745706",
+    "created_at": "2025-01-31T16:31:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T17:31:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885365195809366235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1360522586317348865",
+          "start": 0,
+          "username": "mcew_233"
+        },
+        {
+          "end": 21,
+          "id": "1596652915959078913",
+          "start": 10,
+          "username": "nanami5513"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885365195809366235",
+    "in_reply_to_user_id": "1360522586317348865",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885364330809745706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mcew_233 @nanami5513 👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1885364330809745706",
+        "created_at": "2025-01-31T16:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T17:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885365195809366235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360522586317348865",
+              "start": 0,
+              "username": "mcew_233"
+            },
+            {
+              "end": 21,
+              "id": "1596652915959078913",
+              "start": 10,
+              "username": "nanami5513"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885365195809366235",
+        "in_reply_to_user_id": "1360522586317348865",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885364330809745706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mcew_233 @nanami5513 👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360522586317348865",
+        "conversation_id": "1885364330809745706",
+        "created_at": "2025-01-31T16:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T17:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885364330809745706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1596652915959078913",
+              "start": 4,
+              "username": "nanami5513"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885364330809745706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚和 @nanami5513 涩涩结束喵～ 事后关怀中～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 1553,
+          "like_count": 4143,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 484
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "是七海的主人~nanami~/infj/05年/ MtX/🍥/健全?/喜欢的/爱的/独占的/要一直陪帆的/对象/可爱猫猫 @nanami5513",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "nanami5513"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "name": "MCEW233",
+        "pinned_tweet_id": "1873639409519862230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883155190695755776/h78s62n0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 351,
+          "like_count": 37956,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1915
+        },
+        "username": "mcew_233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T23:51:38.000Z",
+        "description": "是主人的猫猫～mcew～ /ixxx(混沌)/05年MtF/大证/天残家长吓坏党/HRT 2024.9.9/重度抑郁/重度焦虑/双相/大抵是有BPD/自残警告/七海喜欢的/爱的/独占的/要一直陪七海的/对象/主人@mcew_233/捞七海回来的人@miya051223 /C&P在读/以后可能考408（大一试图跑路中）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 106,
+                "username": "mcew_233"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "miya051223"
+              }
+            ]
+          }
+        },
+        "id": "1596652915959078913",
+        "location": "主人衣服里",
+        "name": "七海🍥",
+        "pinned_tweet_id": "1877875953948414387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832845344121712640/7e-GXeYb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 307,
+          "like_count": 3233,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 1272
+        },
+        "username": "nanami5513",
+        "verified": true
+      }
+    ]
+  }
+}
