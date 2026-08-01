@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082681433366437888"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2082681439217455602",
+    "created_at": "2026-07-30T04:15:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T05:15:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082681439217455602"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JD4uZZDNjd",
+          "end": 23,
+          "expanded_url": "https://x.com/Strf_9040C/status/2082681439217455602/photo/1",
+          "media_key": "3_2082681433366437888",
+          "start": 0,
+          "url": "https://t.co/JD4uZZDNjd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082681439217455602",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/JD4uZZDNjd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1016,
+        "media_key": "3_2082681433366437888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOcruqgboAAh8Dj.jpg",
+        "width": 1798
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082681433366437888"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2082681439217455602",
+        "created_at": "2026-07-30T04:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T05:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082681439217455602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JD4uZZDNjd",
+              "end": 23,
+              "expanded_url": "https://x.com/Strf_9040C/status/2082681439217455602/photo/1",
+              "media_key": "3_2082681433366437888",
+              "start": 0,
+              "url": "https://t.co/JD4uZZDNjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082681439217455602",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JD4uZZDNjd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2076732270384464027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1630,
+          "following_count": 2478,
+          "like_count": 14353,
+          "listed_count": 2,
+          "media_count": 682,
+          "tweet_count": 1195
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

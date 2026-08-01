@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082583078971858944",
+        "3_2082583108927590400",
+        "3_2082583119685906432",
+        "3_2082583156025393152"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2082583181467992334",
+    "created_at": "2026-07-29T21:44:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T22:44:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082583181467992334"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cvMRp7evAA",
+          "end": 181,
+          "expanded_url": "https://x.com/Strf_9040C/status/2082583181467992334/photo/1",
+          "media_key": "3_2082583078971858944",
+          "start": 158,
+          "url": "https://t.co/cvMRp7evAA"
+        },
+        {
+          "display_url": "pic.x.com/cvMRp7evAA",
+          "end": 181,
+          "expanded_url": "https://x.com/Strf_9040C/status/2082583181467992334/photo/1",
+          "media_key": "3_2082583108927590400",
+          "start": 158,
+          "url": "https://t.co/cvMRp7evAA"
+        },
+        {
+          "display_url": "pic.x.com/cvMRp7evAA",
+          "end": 181,
+          "expanded_url": "https://x.com/Strf_9040C/status/2082583181467992334/photo/1",
+          "media_key": "3_2082583119685906432",
+          "start": 158,
+          "url": "https://t.co/cvMRp7evAA"
+        },
+        {
+          "display_url": "pic.x.com/cvMRp7evAA",
+          "end": 181,
+          "expanded_url": "https://x.com/Strf_9040C/status/2082583181467992334/photo/1",
+          "media_key": "3_2082583156025393152",
+          "start": 158,
+          "url": "https://t.co/cvMRp7evAA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082583181467992334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老一辈打法:\n不是说中国科技龙头企业吗？\n净利润，华为625.17亿人民币，台积电 1.17兆新台币（≈ 2,600亿 人民币）\n总资产，台积电1.49万亿人民币（华为1.29万亿）\n那为什么是华为不是台积电？\n如果不是，那就说明你不认为台湾是中国的\n如果是，那为什么是华为不是台积电？\n是不是认为台湾不是中国的？ https://t.co/cvMRp7evAA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2082583078971858944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HObSRr1bYAAPcjs.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2138,
+        "media_key": "3_2082583108927590400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HObSTbbbkAAK_9W.jpg",
+        "width": 1128
+      },
+      {
+        "alt_text": "华为",
+        "height": 2576,
+        "media_key": "3_2082583119685906432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HObSUDgacAABejS.jpg",
+        "width": 2809
+      },
+      {
+        "alt_text": "台积电",
+        "height": 2439,
+        "media_key": "3_2082583156025393152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HObSWK4bAAASd80.jpg",
+        "width": 2496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082583078971858944",
+            "3_2082583108927590400",
+            "3_2082583119685906432",
+            "3_2082583156025393152"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2082583181467992334",
+        "created_at": "2026-07-29T21:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T22:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082583181467992334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cvMRp7evAA",
+              "end": 181,
+              "expanded_url": "https://x.com/Strf_9040C/status/2082583181467992334/photo/1",
+              "media_key": "3_2082583078971858944",
+              "start": 158,
+              "url": "https://t.co/cvMRp7evAA"
+            },
+            {
+              "display_url": "pic.x.com/cvMRp7evAA",
+              "end": 181,
+              "expanded_url": "https://x.com/Strf_9040C/status/2082583181467992334/photo/1",
+              "media_key": "3_2082583108927590400",
+              "start": 158,
+              "url": "https://t.co/cvMRp7evAA"
+            },
+            {
+              "display_url": "pic.x.com/cvMRp7evAA",
+              "end": 181,
+              "expanded_url": "https://x.com/Strf_9040C/status/2082583181467992334/photo/1",
+              "media_key": "3_2082583119685906432",
+              "start": 158,
+              "url": "https://t.co/cvMRp7evAA"
+            },
+            {
+              "display_url": "pic.x.com/cvMRp7evAA",
+              "end": 181,
+              "expanded_url": "https://x.com/Strf_9040C/status/2082583181467992334/photo/1",
+              "media_key": "3_2082583156025393152",
+              "start": 158,
+              "url": "https://t.co/cvMRp7evAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082583181467992334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老一辈打法:\n不是说中国科技龙头企业吗？\n净利润，华为625.17亿人民币，台积电 1.17兆新台币（≈ 2,600亿 人民币）\n总资产，台积电1.49万亿人民币（华为1.29万亿）\n那为什么是华为不是台积电？\n如果不是，那就说明你不认为台湾是中国的\n如果是，那为什么是华为不是台积电？\n是不是认为台湾不是中国的？ https://t.co/cvMRp7evAA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2076732270384464027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 2478,
+          "like_count": 14352,
+          "listed_count": 2,
+          "media_count": 682,
+          "tweet_count": 1194
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

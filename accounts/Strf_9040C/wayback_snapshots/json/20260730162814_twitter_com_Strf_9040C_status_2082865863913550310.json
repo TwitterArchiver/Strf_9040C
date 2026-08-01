@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082865855927635968"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2082865863913550310",
+    "created_at": "2026-07-30T16:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T17:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082865863913550310"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WywdW4q8DK",
+          "end": 45,
+          "expanded_url": "https://x.com/Strf_9040C/status/2082865863913550310/photo/1",
+          "media_key": "3_2082865855927635968",
+          "start": 22,
+          "url": "https://t.co/WywdW4q8DK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082865863913550310",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个叫选择的国家不赖啊\n以后就移民到那里了 https://t.co/WywdW4q8DK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 205,
+        "media_key": "3_2082865855927635968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfTdeFbUAAQCa_.jpg",
+        "width": 403
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082865855927635968"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2082865863913550310",
+        "created_at": "2026-07-30T16:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082865863913550310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WywdW4q8DK",
+              "end": 45,
+              "expanded_url": "https://x.com/Strf_9040C/status/2082865863913550310/photo/1",
+              "media_key": "3_2082865855927635968",
+              "start": 22,
+              "url": "https://t.co/WywdW4q8DK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082865863913550310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个叫选择的国家不赖啊\n以后就移民到那里了 https://t.co/WywdW4q8DK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2076732270384464027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1630,
+          "following_count": 2482,
+          "like_count": 14377,
+          "listed_count": 2,
+          "media_count": 683,
+          "tweet_count": 1196
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}
