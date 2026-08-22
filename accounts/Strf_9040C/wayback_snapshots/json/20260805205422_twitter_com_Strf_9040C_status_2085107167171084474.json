@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085107161492045824"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2085107167171084474",
+    "created_at": "2026-08-05T20:54:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T21:54:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085107167171084474"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PexU9GhgiD",
+          "end": 23,
+          "expanded_url": "https://x.com/Strf_9040C/status/2085107167171084474/photo/1",
+          "media_key": "3_2085107161492045824",
+          "start": 0,
+          "url": "https://t.co/PexU9GhgiD"
+        },
+        {
+          "display_url": "x.com/Ak1raQ_love/st…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/Ak1raQ_love/status/2084825649928384673",
+          "start": 24,
+          "url": "https://t.co/0JH0EZBPZc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085107167171084474",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084825649928384673",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/PexU9GhgiD https://t.co/0JH0EZBPZc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1864,
+        "media_key": "3_2085107161492045824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO_J6n9bQAAbIpj.jpg",
+        "width": 1176
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085107161492045824"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2085107167171084474",
+        "created_at": "2026-08-05T20:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T21:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085107167171084474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PexU9GhgiD",
+              "end": 23,
+              "expanded_url": "https://x.com/Strf_9040C/status/2085107167171084474/photo/1",
+              "media_key": "3_2085107161492045824",
+              "start": 0,
+              "url": "https://t.co/PexU9GhgiD"
+            },
+            {
+              "display_url": "x.com/Ak1raQ_love/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Ak1raQ_love/status/2084825649928384673",
+              "start": 24,
+              "url": "https://t.co/0JH0EZBPZc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085107167171084474",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084825649928384673",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/PexU9GhgiD https://t.co/0JH0EZBPZc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2084825649928384673",
+        "created_at": "2026-08-05T02:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T03:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084825649928384673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 67,
+              "id": "1690570637499154432",
+              "start": 59,
+              "username": "zhwevea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084825649928384673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 67,
+                "id": "1690570637499154432",
+                "start": 59,
+                "username": "zhwevea"
+              }
+            ]
+          },
+          "text": "《对Zhi Wei是xyn身份的证明》\n本文将通过严谨的证明推断，向您证明Zhi Wei / Wai Eliya ( @zhwevea ) （以下简称zw）是xyn的事实。\n\n前言\n开始前我必须极其谴责zw。最近一段时间，zw总是发文说自己是「顺直男」，但这一切都是虚假的！而且，她一直说她很丑，但面过她的都知道，她实际上是很好看很pass声音好听的大美女！\n\n从规律推断\n事实上，一名xyn普遍具有以下特征：\n\n1. 说话喜欢带「喵」\n玩过中推的都知道，xyn说话的一大特点是说话在结尾加上「喵」。我们可爱的zw也是这样。虽然她会用「猫」来代替「喵」，但我觉得这更可爱了！\n\n2. 在计算机领域有擅长之处\n虽然目前暂无对此现象的合理解释，但是中推的一部分xyn的确有对此的不谋而合。zw作为一位刚上高中的学生，居然可以独立开发出Minecraft启动器OneLauncher，在github有34个star！还能抢先在AI Agent流行之前思考出类似的方案！这让我不得不佩服的五体投地！\n\n3. 有过hrt和rle\nzw在早些时间频繁发推说「自己雌爆了」，甚至就在刚刚她还把那些推文又转推了一遍，这足以说明直到现在她仍然很享受雌二醇流动身体带来的感觉。zw也发过「我觉得每次rle出门...」开头的帖子，rle的意思是trans的真实生活体验中，，而zw明确表示自己有过rle，这是顺直男不可能做出来的事情！\n\n4. 有女生的发型\n\n5. 穿过jk女装\n虽然她把女装照全部删掉了，但所不知道的事是我早就全部保存下来了，证据确凿！\n\n结论\nZhi Wei是xyn，内心有强烈的女性化倾向。虽然她嘴硬不承认，但她是xyn的概率是2147483647%！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1388,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "《对Zhi Wei是xyn身份的证明》\n本文将通过严谨的证明推断，向您证明Zhi Wei / Wai Eliya ( @zhwevea ) （以下简称zw）是xyn的事实。\n\n前言"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2076732270384464027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1632,
+          "following_count": 2495,
+          "like_count": 14647,
+          "listed_count": 2,
+          "media_count": 698,
+          "tweet_count": 1214
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/不是mtf/hrt 26.7.31/向往自由/#推友情況通報/#蓝v互关/原创meme/顺直女 @zhwevea/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              },
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "蓝v互关"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 67,
+                "start": 59,
+                "username": "zhwevea"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh3PSn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": " 苏州/厦门",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8868,
+          "following_count": 1227,
+          "like_count": 209716,
+          "listed_count": 6,
+          "media_count": 1095,
+          "tweet_count": 8484
+        },
+        "url": "https://t.co/ENDNzh3PSn",
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

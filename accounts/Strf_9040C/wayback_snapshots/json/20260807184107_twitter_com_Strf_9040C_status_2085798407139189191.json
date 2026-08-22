@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085798380048105472",
+        "3_2085798392761085952",
+        "3_2085798400067559424"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2085798407139189191",
+    "created_at": "2026-08-07T18:41:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T19:41:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085798407139189191"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WBZnygK490",
+          "end": 168,
+          "expanded_url": "https://x.com/Strf_9040C/status/2085798407139189191/photo/1",
+          "media_key": "3_2085798380048105472",
+          "start": 145,
+          "url": "https://t.co/WBZnygK490"
+        },
+        {
+          "display_url": "pic.x.com/WBZnygK490",
+          "end": 168,
+          "expanded_url": "https://x.com/Strf_9040C/status/2085798407139189191/photo/1",
+          "media_key": "3_2085798392761085952",
+          "start": 145,
+          "url": "https://t.co/WBZnygK490"
+        },
+        {
+          "display_url": "pic.x.com/WBZnygK490",
+          "end": 168,
+          "expanded_url": "https://x.com/Strf_9040C/status/2085798407139189191/photo/1",
+          "media_key": "3_2085798400067559424",
+          "start": 145,
+          "url": "https://t.co/WBZnygK490"
+        },
+        {
+          "display_url": "x.com/xx1012000456/s…",
+          "end": 192,
+          "expanded_url": "https://twitter.com/xx1012000456/status/2085790095496643063",
+          "start": 169,
+          "url": "https://t.co/SsKK3Acrrx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085798407139189191",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085790095496643063",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不建议贸然使用肽类比如替尔泊肽等药物减肥\n以替尔泊肽为例，其通过强大的生理效应，是引发饥饿性酮症酸中毒的“始动因素”和“核心推手”。\n其作用机制在于通过多重途径协同制造了一个极度的能量匮乏状态，当机体无法从外界获取足够葡萄糖时，便被迫启动脂肪分解来供能，最终导致酮体过量堆积（详见图 1） https://t.co/WBZnygK490 https://t.co/SsKK3Acrrx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1598,
+        "media_key": "3_2085798380048105472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPI-k1vaQAAdkYs.jpg",
+        "width": 1811
+      },
+      {
+        "height": 1528,
+        "media_key": "3_2085798392761085952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPI-llGa8AAg9zk.jpg",
+        "width": 1811
+      },
+      {
+        "height": 1569,
+        "media_key": "3_2085798400067559424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPI-mAUa4AA4EvU.jpg",
+        "width": 1811
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2085789072581353472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPI2HEuaYAAZRta.png",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2085789358716866560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPI2Xuqb0AARCbH.png",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2085789820266360832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPI2ymEaMAADl2n.png",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2085790081206616064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPI3ByJagAA56jy.png",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085798380048105472",
+            "3_2085798392761085952",
+            "3_2085798400067559424"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2085798407139189191",
+        "created_at": "2026-08-07T18:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T19:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085798407139189191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WBZnygK490",
+              "end": 168,
+              "expanded_url": "https://x.com/Strf_9040C/status/2085798407139189191/photo/1",
+              "media_key": "3_2085798380048105472",
+              "start": 145,
+              "url": "https://t.co/WBZnygK490"
+            },
+            {
+              "display_url": "pic.x.com/WBZnygK490",
+              "end": 168,
+              "expanded_url": "https://x.com/Strf_9040C/status/2085798407139189191/photo/1",
+              "media_key": "3_2085798392761085952",
+              "start": 145,
+              "url": "https://t.co/WBZnygK490"
+            },
+            {
+              "display_url": "pic.x.com/WBZnygK490",
+              "end": 168,
+              "expanded_url": "https://x.com/Strf_9040C/status/2085798407139189191/photo/1",
+              "media_key": "3_2085798400067559424",
+              "start": 145,
+              "url": "https://t.co/WBZnygK490"
+            },
+            {
+              "display_url": "x.com/xx1012000456/s…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/xx1012000456/status/2085790095496643063",
+              "start": 169,
+              "url": "https://t.co/SsKK3Acrrx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085798407139189191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085790095496643063",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不建议贸然使用肽类比如替尔泊肽等药物减肥\n以替尔泊肽为例，其通过强大的生理效应，是引发饥饿性酮症酸中毒的“始动因素”和“核心推手”。\n其作用机制在于通过多重途径协同制造了一个极度的能量匮乏状态，当机体无法从外界获取足够葡萄糖时，便被迫启动脂肪分解来供能，最终导致酮体过量堆积（详见图 1） https://t.co/WBZnygK490 https://t.co/SsKK3Acrrx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085789072581353472",
+            "3_2085789358716866560",
+            "3_2085789820266360832",
+            "3_2085790081206616064"
+          ]
+        },
+        "author_id": "1386670401422434304",
+        "conversation_id": "2085790095496643063",
+        "created_at": "2026-08-07T18:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T19:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085790095496643063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O5r4dRv0OO",
+              "end": 23,
+              "expanded_url": "https://x.com/xx1012000456/status/2085790095496643063/photo/1",
+              "media_key": "3_2085789072581353472",
+              "start": 0,
+              "url": "https://t.co/O5r4dRv0OO"
+            },
+            {
+              "display_url": "pic.x.com/O5r4dRv0OO",
+              "end": 23,
+              "expanded_url": "https://x.com/xx1012000456/status/2085790095496643063/photo/1",
+              "media_key": "3_2085789358716866560",
+              "start": 0,
+              "url": "https://t.co/O5r4dRv0OO"
+            },
+            {
+              "display_url": "pic.x.com/O5r4dRv0OO",
+              "end": 23,
+              "expanded_url": "https://x.com/xx1012000456/status/2085790095496643063/photo/1",
+              "media_key": "3_2085789820266360832",
+              "start": 0,
+              "url": "https://t.co/O5r4dRv0OO"
+            },
+            {
+              "display_url": "pic.x.com/O5r4dRv0OO",
+              "end": 23,
+              "expanded_url": "https://x.com/xx1012000456/status/2085790095496643063/photo/1",
+              "media_key": "3_2085790081206616064",
+              "start": 0,
+              "url": "https://t.co/O5r4dRv0OO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085790095496643063",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 64,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/O5r4dRv0OO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “№545” 🏳️‍⚧️",
+        "pinned_tweet_id": "2076732270384464027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1635,
+          "following_count": 2503,
+          "like_count": 14752,
+          "listed_count": 2,
+          "media_count": 701,
+          "tweet_count": 1219
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 703,
+          "like_count": 107,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 2140
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

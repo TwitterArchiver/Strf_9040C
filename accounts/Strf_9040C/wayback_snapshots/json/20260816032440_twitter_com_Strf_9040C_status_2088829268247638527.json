@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088829260337418240"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2088645143398436961",
+    "created_at": "2026-08-16T03:24:40.000Z",
+    "display_text_range": [
+      27,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T04:24:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088829268247638527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1823315089686142977",
+          "start": 0,
+          "username": "gm9178gm"
+        },
+        {
+          "end": 26,
+          "id": "1870315714638385152",
+          "start": 10,
+          "username": "Murong_WangKezi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YOpt9BJ0nh",
+          "end": 55,
+          "expanded_url": "https://x.com/Strf_9040C/status/2088829268247638527/photo/1",
+          "media_key": "3_2088829260337418240",
+          "start": 32,
+          "url": "https://t.co/YOpt9BJ0nh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088829268247638527",
+    "in_reply_to_user_id": "1823315089686142977",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088829260337418240"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088666424730386620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gm9178gm @Murong_WangKezi 举报不掉 https://t.co/YOpt9BJ0nh"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2088666424730386620].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2088666424730386620",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2088666424730386620"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1126,
+        "media_key": "3_2088829260337418240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0DJSrakAAAr8_.jpg",
+        "width": 752
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088829260337418240"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2088645143398436961",
+        "created_at": "2026-08-16T03:24:40.000Z",
+        "display_text_range": [
+          27,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T04:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088829268247638527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1823315089686142977",
+              "start": 0,
+              "username": "gm9178gm"
+            },
+            {
+              "end": 26,
+              "id": "1870315714638385152",
+              "start": 10,
+              "username": "Murong_WangKezi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YOpt9BJ0nh",
+              "end": 55,
+              "expanded_url": "https://x.com/Strf_9040C/status/2088829268247638527/photo/1",
+              "media_key": "3_2088829260337418240",
+              "start": 32,
+              "url": "https://t.co/YOpt9BJ0nh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088829268247638527",
+        "in_reply_to_user_id": "1823315089686142977",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088829260337418240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088666424730386620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gm9178gm @Murong_WangKezi 举报不掉 https://t.co/YOpt9BJ0nh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "is_identity_verified": false,
+        "location": "全真模拟 战区控制 瑞典",
+        "most_recent_tweet_id": "2088829268247638527",
+        "name": "STRIDSFORDON 9040C “№545” 🏳️‍⚧️",
+        "pinned_tweet_id": "2076732270384464027",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721895937357004800/1786049814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1642,
+          "following_count": 2515,
+          "like_count": 15146,
+          "listed_count": 2,
+          "media_count": 709,
+          "tweet_count": 1227
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-13T11:06:16.000Z",
+        "description": "滚木",
+        "id": "1823315089686142977",
+        "is_identity_verified": false,
+        "location": "滚木",
+        "most_recent_tweet_id": "2087719196520259844",
+        "name": "滚木",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1823315089686142977/1786628239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088474718492061696/RcFRwzta_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 113,
+          "like_count": 1900,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2031
+        },
+        "url": "",
+        "username": "gm9178gm",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（具体正式开始时间已不可考）\n业余摄影 | 偶尔发癫 | Minecraft | 好闺蜜@Murong_WangKezi |\n亲友互fo 欢迎扩列～\n清水推 如果你发现了我之前划手手的帖子请告诉我\n摄影作品二次使用请写明作者。\nNGL:https://t.co/3Qm6RekLRx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "Murong_WangKezi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/murong",
+                "end": 158,
+                "expanded_url": "https://ngl.link/murong",
+                "start": 135,
+                "url": "https://t.co/3Qm6RekLRx"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "is_identity_verified": false,
+        "location": "中国，陕西省西安市",
+        "most_recent_tweet_id": "2088645730919702743",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870315714638385152/1746972180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 125,
+          "like_count": 10522,
+          "listed_count": 2,
+          "media_count": 683,
+          "tweet_count": 4458
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086849627559718914"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2086849717229744539",
+    "created_at": "2026-08-10T16:18:39.000Z",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T17:18:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086849717229744539"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LaLQdR5BDs",
+          "end": 48,
+          "expanded_url": "https://x.com/Strf_9040C/status/2086849717229744539/photo/1",
+          "media_key": "3_2086849627559718914",
+          "start": 25,
+          "url": "https://t.co/LaLQdR5BDs"
+        },
+        {
+          "display_url": "x.com/Strf_9040C/sta…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/Strf_9040C/status/2085785351956947138",
+          "start": 49,
+          "url": "https://t.co/cEJxlZSzPk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086849717229744539",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086849627559718914"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085785351956947138",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我了豆包还会看 PsychonautWiki https://t.co/LaLQdR5BDs https://t.co/cEJxlZSzPk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2220,
+        "media_key": "3_2086849627559718914",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPX6rf5acAIwa-F.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2285,
+        "media_key": "3_2085785329303494656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIytL7bIAAjR7-.jpg",
+        "width": 1176
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086849627559718914"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2086849717229744539",
+        "created_at": "2026-08-10T16:18:39.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086849717229744539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LaLQdR5BDs",
+              "end": 48,
+              "expanded_url": "https://x.com/Strf_9040C/status/2086849717229744539/photo/1",
+              "media_key": "3_2086849627559718914",
+              "start": 25,
+              "url": "https://t.co/LaLQdR5BDs"
+            },
+            {
+              "display_url": "x.com/Strf_9040C/sta…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/Strf_9040C/status/2085785351956947138",
+              "start": 49,
+              "url": "https://t.co/cEJxlZSzPk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086849717229744539",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086849627559718914"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085785351956947138",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了豆包还会看 PsychonautWiki https://t.co/LaLQdR5BDs https://t.co/cEJxlZSzPk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085785329303494656"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2085785351956947138",
+        "created_at": "2026-08-07T17:49:14.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-07T18:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085785351956947138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vHcA19vbVG",
+              "end": 42,
+              "expanded_url": "https://x.com/Strf_9040C/status/2085785351956947138/photo/1",
+              "media_key": "3_2085785329303494656",
+              "start": 19,
+              "url": "https://t.co/vHcA19vbVG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085785351956947138",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2085785329303494656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 32551,
+          "like_count": 114,
+          "quote_count": 0,
+          "reply_count": 54,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "豆包是不是能翻墙啊\n她为什么能上维基 https://t.co/vHcA19vbVG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "is_identity_verified": false,
+        "location": "全真模拟 战区控制 瑞典",
+        "most_recent_tweet_id": "2086849717229744539",
+        "name": "STRIDSFORDON 9040C “№545” 🏳️‍⚧️",
+        "pinned_tweet_id": "2076732270384464027",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721895937357004800/1786049814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1639,
+          "following_count": 2503,
+          "like_count": 14899,
+          "listed_count": 2,
+          "media_count": 706,
+          "tweet_count": 1227
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

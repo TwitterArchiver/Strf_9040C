@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085472109569159168"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2085472115785105755",
+    "created_at": "2026-08-06T21:04:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T22:04:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085472115785105755"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SiYdyCjYK4",
+          "end": 30,
+          "expanded_url": "https://x.com/Strf_9040C/status/2085472115785105755/photo/1",
+          "media_key": "3_2085472109569159168",
+          "start": 7,
+          "url": "https://t.co/SiYdyCjYK4"
+        },
+        {
+          "display_url": "x.com/LingJiaXin233/…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/LingJiaXin233/status/2084870500568719600",
+          "start": 31,
+          "url": "https://t.co/L3WpVfYhfp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085472115785105755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084870500568719600",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是学化工的 https://t.co/SiYdyCjYK4 https://t.co/L3WpVfYhfp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2308,
+        "media_key": "3_2085472109569159168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPEV1ZfasAACDrq.jpg",
+        "width": 1176
+      },
+      {
+        "height": 1405,
+        "media_key": "3_2084870488002641920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO7yqagXwAA3m6i.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085472109569159168"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2085472115785105755",
+        "created_at": "2026-08-06T21:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T22:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085472115785105755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SiYdyCjYK4",
+              "end": 30,
+              "expanded_url": "https://x.com/Strf_9040C/status/2085472115785105755/photo/1",
+              "media_key": "3_2085472109569159168",
+              "start": 7,
+              "url": "https://t.co/SiYdyCjYK4"
+            },
+            {
+              "display_url": "x.com/LingJiaXin233/…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/LingJiaXin233/status/2084870500568719600",
+              "start": 31,
+              "url": "https://t.co/L3WpVfYhfp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085472115785105755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084870500568719600",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是学化工的 https://t.co/SiYdyCjYK4 https://t.co/L3WpVfYhfp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084870488002641920"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2084870500568719600",
+        "created_at": "2026-08-05T05:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T06:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084870500568719600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JivxyBUL2y",
+              "end": 49,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2084870500568719600/photo/1",
+              "media_key": "3_2084870488002641920",
+              "start": 26,
+              "url": "https://t.co/JivxyBUL2y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084870500568719600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 175855,
+          "like_count": 956,
+          "quote_count": 0,
+          "reply_count": 72,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "书上写着150度烤2分钟，我选择1500度烤12秒 https://t.co/JivxyBUL2y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “№545” 🏳️‍⚧️",
+        "pinned_tweet_id": "2076732270384464027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1634,
+          "following_count": 2499,
+          "like_count": 14724,
+          "listed_count": 2,
+          "media_count": 698,
+          "tweet_count": 1215
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！//无证含糖，研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//素材收集于网络，侵删私DM我🤒//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "凌嘉欣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8708,
+          "following_count": 548,
+          "like_count": 20387,
+          "listed_count": 18,
+          "media_count": 2818,
+          "tweet_count": 6444
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

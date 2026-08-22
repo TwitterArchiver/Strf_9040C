@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087959879969570816"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2087959896729989277",
+    "created_at": "2026-08-13T17:50:06.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T18:50:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087959896729989277"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iRBUPL3A2q",
+          "end": 28,
+          "expanded_url": "https://x.com/Strf_9040C/status/2087959896729989277/photo/1",
+          "media_key": "3_2087959879969570816",
+          "start": 5,
+          "url": "https://t.co/iRBUPL3A2q"
+        },
+        {
+          "display_url": "x.com/Shioochic_Xyn/…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/Shioochic_Xyn/status/2087900785468416253",
+          "start": 29,
+          "url": "https://t.co/ZiGbj7UA2C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087959896729989277",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087959879969570816"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087900785468416253",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "震感强烈 https://t.co/iRBUPL3A2q https://t.co/ZiGbj7UA2C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1137,
+        "media_key": "3_2087959879969570816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPnscsbagAArVq0.jpg",
+        "width": 784
+      },
+      {
+        "height": 3483,
+        "media_key": "3_2087900765482590208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPm2rxzbIAAYBzU.jpg",
+        "width": 1839
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087959879969570816"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2087959896729989277",
+        "created_at": "2026-08-13T17:50:06.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T18:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087959896729989277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iRBUPL3A2q",
+              "end": 28,
+              "expanded_url": "https://x.com/Strf_9040C/status/2087959896729989277/photo/1",
+              "media_key": "3_2087959879969570816",
+              "start": 5,
+              "url": "https://t.co/iRBUPL3A2q"
+            },
+            {
+              "display_url": "x.com/Shioochic_Xyn/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Shioochic_Xyn/status/2087900785468416253",
+              "start": 29,
+              "url": "https://t.co/ZiGbj7UA2C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087959896729989277",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087959879969570816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087900785468416253",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "震感强烈 https://t.co/iRBUPL3A2q https://t.co/ZiGbj7UA2C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087900765482590208"
+          ]
+        },
+        "author_id": "2033160782687731712",
+        "conversation_id": "2087900785468416253",
+        "created_at": "2026-08-13T13:55:13.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T14:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087900785468416253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yZZKJxLJe6",
+              "end": 98,
+              "expanded_url": "https://x.com/Shioochic_Xyn/status/2087900785468416253/photo/1",
+              "media_key": "3_2087900765482590208",
+              "start": 75,
+              "url": "https://t.co/yZZKJxLJe6"
+            },
+            {
+              "display_url": "x.com/Shioochic_Xyn/…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/Shioochic_Xyn/status/2087774023912697857",
+              "start": 99,
+              "url": "https://t.co/vZ28vNXdnM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087900785468416253",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087900765482590208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3077,
+          "like_count": 34,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087774023912697857",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "气笑了，deepseek 这波拉完了，惊天一条区，本来以为是个灰测那样的 fable 水平直接震惊瘫坐椅子爆炸的。\n我宣布梁文锋正式降为小难梁😡😡😡 https://t.co/yZZKJxLJe6 https://t.co/vZ28vNXdnM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "is_identity_verified": false,
+        "location": "全真模拟 战区控制 瑞典",
+        "most_recent_tweet_id": "2087959896729989277",
+        "name": "STRIDSFORDON 9040C “№545” 🏳️‍⚧️",
+        "pinned_tweet_id": "2076732270384464027",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721895937357004800/1786049814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1638,
+          "following_count": 2507,
+          "like_count": 15048,
+          "listed_count": 2,
+          "media_count": 708,
+          "tweet_count": 1227
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期 09 04 08｜hrt 25 07 20🍥｜小证 26 01 17｜ADHD｜choose life ?!｜抢🐔姐@hiotemaron41774｜友情链接:https://t.co/iIABjp0PAw（这并非我本人的博客）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "hiotemaron41774"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 117,
+                "expanded_url": "https://whatasiger.xyz",
+                "start": 94,
+                "url": "https://t.co/iIABjp0PAw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "is_identity_verified": true,
+        "location": "广州",
+        "most_recent_tweet_id": "2087957699694842198",
+        "name": "汐落 shio",
+        "pinned_tweet_id": "2061461592559239417",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2033160782687731712/1773578586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4818,
+          "following_count": 2246,
+          "like_count": 8877,
+          "listed_count": 7,
+          "media_count": 1187,
+          "tweet_count": 7327
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochic_Xyn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
