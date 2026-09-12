@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096187926740946944"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2096187932877221896",
+    "created_at": "2026-09-05T10:45:23.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T11:45:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096187932877221896"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Oio5WjNPtS",
+          "end": 43,
+          "expanded_url": "https://x.com/Strf_9040C/status/2096187932877221896/photo/1",
+          "media_key": "3_2096187926740946944",
+          "start": 20,
+          "url": "https://t.co/Oio5WjNPtS"
+        },
+        {
+          "display_url": "x.com/maipianaini093…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/maipianaini0930/status/2095974789987103052",
+          "start": 44,
+          "url": "https://t.co/6EjBF5NO16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096187932877221896",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096187926740946944"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095974789987103052",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我自己的（眼里发红或许是太用力弄哭了？ https://t.co/Oio5WjNPtS https://t.co/6EjBF5NO16"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1631,
+        "media_key": "3_2096187926740946944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcn0DPbUAAdw3Y.jpg",
+        "width": 1874
+      },
+      {
+        "height": 3120,
+        "media_key": "3_2095974778796679168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRZl9NRaoAAyYE_.jpg",
+        "width": 2340
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096187926740946944"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2096187932877221896",
+        "created_at": "2026-09-05T10:45:23.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096187932877221896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oio5WjNPtS",
+              "end": 43,
+              "expanded_url": "https://x.com/Strf_9040C/status/2096187932877221896/photo/1",
+              "media_key": "3_2096187926740946944",
+              "start": 20,
+              "url": "https://t.co/Oio5WjNPtS"
+            },
+            {
+              "display_url": "x.com/maipianaini093…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/maipianaini0930/status/2095974789987103052",
+              "start": 44,
+              "url": "https://t.co/6EjBF5NO16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096187932877221896",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096187926740946944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095974789987103052",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我自己的（眼里发红或许是太用力弄哭了？ https://t.co/Oio5WjNPtS https://t.co/6EjBF5NO16"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095974778796679168"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2095974789987103052",
+        "created_at": "2026-09-04T20:38:25.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T21:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095974789987103052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tcIMoiaCIb",
+              "end": 30,
+              "expanded_url": "https://x.com/maipianaini0930/status/2095974789987103052/photo/1",
+              "media_key": "3_2095974778796679168",
+              "start": 7,
+              "url": "https://t.co/tcIMoiaCIb"
+            },
+            {
+              "display_url": "x.com/maipianaini093…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/maipianaini0930/status/2095960465730068927",
+              "start": 31,
+              "url": "https://t.co/swipGJUDnT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095974789987103052",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095974778796679168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2020,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095960465730068927",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "做了个自己的 https://t.co/tcIMoiaCIb https://t.co/swipGJUDnT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "is_identity_verified": false,
+        "location": "全真模拟 战区控制 瑞典",
+        "most_recent_tweet_id": "2096187932877221896",
+        "name": "STRIDSFORDON 9040C “№545” 🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721895937357004800/1786049814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1703,
+          "following_count": 2544,
+          "like_count": 16226,
+          "listed_count": 2,
+          "media_count": 733,
+          "tweet_count": 1251
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "🦔@konakonalo\n同时带着自尊和傲慢自厌吧\n条子视奸死全家\n市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2096136816751681610",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2081564761158992370",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1787637826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092458759562084352/rDu7Kit5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 302,
+          "like_count": 11951,
+          "listed_count": 0,
+          "media_count": 832,
+          "tweet_count": 5501
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,667 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2085320451602124800"
+      ],
+      "media_source_tweet_id": [
+        "2085320462637334778"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "NHK",
+          "id": "1034881250840915968",
+          "name": "NHK"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "NHK",
+          "id": "1034881250840915968",
+          "name": "NHK"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447117297905665",
+          "name": "News outlets"
+        }
+      }
+    ],
+    "conversation_id": "2085868666533675291",
+    "created_at": "2026-08-07T23:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T00:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085868666533675291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "204245399",
+          "start": 3,
+          "username": "nhk_news"
+        }
+      ],
+      "urls": [
+        {
+          "description": "【NHK】熊本県八代市の中核病院のひとつ「熊本総合病院」は、地震のあと一般外来の診療を休止していましたが5日、通常診療を再開しました。 病院のカメラには地震発生時の手術室の緊迫した様子が残されていました。",
+          "display_url": "news.web.nhk/newsweb/na/na-…",
+          "end": 101,
+          "expanded_url": "https://news.web.nhk/newsweb/na/na-k10015198461000",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2085310691855212544/wTjcu3Wk?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2085310691855212544/wTjcu3Wk?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 78,
+          "status": 200,
+          "title": "熊本 八代 地震の瞬間 手術室は緊迫した状況に…【動画】 | NHKニュース",
+          "unwound_url": "https://news.web.nhk/newsweb/na/na-k10015198461000",
+          "url": "https://t.co/TS7biPg7wQ"
+        },
+        {
+          "display_url": "pic.x.com/mRtPFegV8B",
+          "end": 125,
+          "expanded_url": "https://x.com/nhk_news/status/2085320462637334778/video/1",
+          "media_key": "7_2085320451602124800",
+          "start": 102,
+          "url": "https://t.co/mRtPFegV8B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085868666533675291",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38363
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085320462637334778",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nhk_news: 通常診療を再開した熊本県八代市の「熊本総合病院」\n\n今回の熊本地震の瞬間、手術室の緊迫した様子が病院のカメラに映っていました↓\nhttps://t.co/TS7biPg7wQ https://t.co/mRtPFegV8B"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14975,
+        "height": 360,
+        "media_key": "7_2085320451602124800",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2085320451602124800/pu/img/J8mJKYzD9TDBdZF_.jpg",
+        "public_metrics": {
+          "view_count": 25432851
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2085320451602124800/pu/vid/avc1/480x270/ajzUnQD2Nl24ChBj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2085320451602124800/pu/vid/avc1/640x360/NZkzJCd_0y7V1N-c.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2085320451602124800/pu/pl/lZ76eur62IELlp7J.m3u8?tag=12"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2085320451602124800"
+          ]
+        },
+        "author_id": "204245399",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "NHK",
+              "id": "1034881250840915968",
+              "name": "NHK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NHK",
+              "id": "1034881250840915968",
+              "name": "NHK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "気象庁によれば、地震がありました。",
+              "id": "1374413205275996170",
+              "name": "地震のニュース（テスト）"
+            }
+          }
+        ],
+        "conversation_id": "2085320462637334778",
+        "created_at": "2026-08-06T11:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085320462637334778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "【NHK】熊本県八代市の中核病院のひとつ「熊本総合病院」は、地震のあと一般外来の診療を休止していましたが5日、通常診療を再開しました。 病院のカメラには地震発生時の手術室の緊迫した様子が残されていました。",
+              "display_url": "news.web.nhk/newsweb/na/na-…",
+              "end": 87,
+              "expanded_url": "https://news.web.nhk/newsweb/na/na-k10015198461000",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2085310691855212544/wTjcu3Wk?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2085310691855212544/wTjcu3Wk?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 64,
+              "status": 200,
+              "title": "熊本 八代 地震の瞬間 手術室は緊迫した状況に…【動画】 | NHKニュース",
+              "unwound_url": "https://news.web.nhk/newsweb/na/na-k10015198461000",
+              "url": "https://t.co/TS7biPg7wQ"
+            },
+            {
+              "display_url": "pic.x.com/mRtPFegV8B",
+              "end": 111,
+              "expanded_url": "https://x.com/nhk_news/status/2085320462637334778/video/1",
+              "media_key": "7_2085320451602124800",
+              "start": 88,
+              "url": "https://t.co/mRtPFegV8B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085320462637334778",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56624,
+          "impression_count": 62899750,
+          "like_count": 259463,
+          "quote_count": 9894,
+          "reply_count": 2563,
+          "retweet_count": 38362
+        },
+        "reply_settings": "everyone",
+        "text": "通常診療を再開した熊本県八代市の「熊本総合病院」\n\n今回の熊本地震の瞬間、手術室の緊迫した様子が病院のカメラに映っていました↓\nhttps://t.co/TS7biPg7wQ https://t.co/mRtPFegV8B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2085320451602124800"
+          ],
+          "media_source_tweet_id": [
+            "2085320462637334778"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "NHK",
+              "id": "1034881250840915968",
+              "name": "NHK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NHK",
+              "id": "1034881250840915968",
+              "name": "NHK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "2085868666533675291",
+        "created_at": "2026-08-07T23:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T00:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085868666533675291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "204245399",
+              "start": 3,
+              "username": "nhk_news"
+            }
+          ],
+          "urls": [
+            {
+              "description": "【NHK】熊本県八代市の中核病院のひとつ「熊本総合病院」は、地震のあと一般外来の診療を休止していましたが5日、通常診療を再開しました。 病院のカメラには地震発生時の手術室の緊迫した様子が残されていました。",
+              "display_url": "news.web.nhk/newsweb/na/na-…",
+              "end": 101,
+              "expanded_url": "https://news.web.nhk/newsweb/na/na-k10015198461000",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2085310691855212544/wTjcu3Wk?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2085310691855212544/wTjcu3Wk?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 78,
+              "status": 200,
+              "title": "熊本 八代 地震の瞬間 手術室は緊迫した状況に…【動画】 | NHKニュース",
+              "unwound_url": "https://news.web.nhk/newsweb/na/na-k10015198461000",
+              "url": "https://t.co/TS7biPg7wQ"
+            },
+            {
+              "display_url": "pic.x.com/mRtPFegV8B",
+              "end": 125,
+              "expanded_url": "https://x.com/nhk_news/status/2085320462637334778/video/1",
+              "media_key": "7_2085320451602124800",
+              "start": 102,
+              "url": "https://t.co/mRtPFegV8B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085868666533675291",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38363
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085320462637334778",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nhk_news: 通常診療を再開した熊本県八代市の「熊本総合病院」\n\n今回の熊本地震の瞬間、手術室の緊迫した様子が病院のカメラに映っていました↓\nhttps://t.co/TS7biPg7wQ https://t.co/mRtPFegV8B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “№545” 🏳️‍⚧️",
+        "pinned_tweet_id": "2076732270384464027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1633,
+          "following_count": 2505,
+          "like_count": 14776,
+          "listed_count": 2,
+          "media_count": 703,
+          "tweet_count": 1222
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-18T08:15:29.000Z",
+        "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nhk.jp/rules",
+                "end": 65,
+                "expanded_url": "http://nhk.jp/rules",
+                "start": 42,
+                "url": "https://t.co/X9ExoZ8ao6"
+              },
+              {
+                "display_url": "nhk.or.jp/css/",
+                "end": 109,
+                "expanded_url": "http://www.nhk.or.jp/css/",
+                "start": 86,
+                "url": "https://t.co/fMCPIt2S57"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nhk.jp/news",
+                "end": 23,
+                "expanded_url": "http://nhk.jp/news",
+                "start": 0,
+                "url": "https://t.co/bM6wmxNKVo"
+              }
+            ]
+          }
+        },
+        "id": "204245399",
+        "location": "東京都渋谷区神南2-2-1",
+        "name": "NHKニュース",
+        "pinned_tweet_id": "895196466859450368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039180025581490176/gWZQeu5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3461605,
+          "following_count": 19,
+          "like_count": 6,
+          "listed_count": 66293,
+          "media_count": 21015,
+          "tweet_count": 738922
+        },
+        "url": "https://t.co/bM6wmxNKVo",
+        "username": "nhk_news",
+        "verified": true
+      }
+    ]
+  }
+}

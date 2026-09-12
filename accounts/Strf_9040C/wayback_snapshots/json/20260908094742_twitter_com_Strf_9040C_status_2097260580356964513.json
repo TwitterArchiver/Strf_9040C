@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "2097204049359802548",
+    "created_at": "2026-09-08T09:47:42.000Z",
+    "display_text_range": [
+      12,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T10:47:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097260580356964513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2072208739281866752",
+          "start": 0,
+          "username": "jingzi6666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097260580356964513",
+    "in_reply_to_user_id": "2072208739281866752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097204049359802548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingzi6666 那油溶性肯定会黄啊\n油作为基质然后加苯甲醇\n颜色突然变深/棕黑、浑浊、大量沉淀、油水分层、酸败油耗味才是不正常"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1184,
+        "media_key": "3_2097204040539291649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrD9qHbwAE6HX3.jpg",
+        "width": 2105
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "2097204049359802548",
+        "created_at": "2026-09-08T09:47:42.000Z",
+        "display_text_range": [
+          12,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T10:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097260580356964513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2072208739281866752",
+              "start": 0,
+              "username": "jingzi6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097260580356964513",
+        "in_reply_to_user_id": "2072208739281866752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097204049359802548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingzi6666 那油溶性肯定会黄啊\n油作为基质然后加苯甲醇\n颜色突然变深/棕黑、浑浊、大量沉淀、油水分层、酸败油耗味才是不正常"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097204040539291649"
+          ]
+        },
+        "author_id": "2072208739281866752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2097204049359802548",
+        "created_at": "2026-09-08T06:03:04.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T07:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097204049359802548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yV5aUX35hG",
+              "end": 98,
+              "expanded_url": "https://x.com/jingzi6666/status/2097204049359802548/photo/1",
+              "media_key": "3_2097204040539291649",
+              "start": 75,
+              "url": "https://t.co/yV5aUX35hG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097204049359802548",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097204040539291649"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4749,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "左边是通过100ml兽用注射液后的滤纸（已废弃）\n（有一些开瓶时产生的玻璃碎屑，不影响使用，\n剩下的黄色物质我也不知道是什么）\n右边是没用过的滤纸🫪 https://t.co/yV5aUX35hG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "is_identity_verified": false,
+        "location": "全真模拟 战区控制 瑞典",
+        "most_recent_tweet_id": "2097260580356964513",
+        "name": "STRIDSFORDON 9040C “№545” 🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721895937357004800/1786049814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1703,
+          "following_count": 2545,
+          "like_count": 16379,
+          "listed_count": 2,
+          "media_count": 729,
+          "tweet_count": 1251
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-01T06:42:47.000Z",
+        "description": "176/65，胸90/腰72/臀91，在减了🙂\n90后江苏农村贫苦mtf🥲\n靠打零工，做脱毛，赛博要饭，泰国旅游变性，\n卖雌二醇，泌乳药，减肥产品等维持生活😮‍💨\n我还要再存5万才够srs🙂‍↕️",
+        "id": "2072208739281866752",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097225696192163868",
+        "name": "京子🍥（糖商）",
+        "pinned_tweet_id": "2073341408740884941",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2072208739281866752/1783156555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073338424229240833/qrruTRLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 1691,
+          "like_count": 46,
+          "listed_count": 4,
+          "media_count": 36,
+          "tweet_count": 242
+        },
+        "url": "",
+        "username": "jingzi6666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094549969625812992"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2094549975678214364",
+    "created_at": "2026-08-31T22:16:43.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T23:16:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094549975678214364"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Av1qEouthq",
+          "end": 28,
+          "expanded_url": "https://x.com/Strf_9040C/status/2094549975678214364/photo/1",
+          "media_key": "3_2094549969625812992",
+          "start": 5,
+          "url": "https://t.co/Av1qEouthq"
+        },
+        {
+          "display_url": "x.com/EzraRan__/stat…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/EzraRan__/status/2094330859553960176",
+          "start": 29,
+          "url": "https://t.co/APDznkBeqN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094549975678214364",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094549969625812992"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094330859553960176",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "新话词典 https://t.co/Av1qEouthq https://t.co/APDznkBeqN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 575,
+        "media_key": "3_2094549969625812992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRFWGZfaEAAd_FL.jpg",
+        "width": 392
+      },
+      {
+        "height": 1254,
+        "media_key": "3_2094330849844174848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCOz8saoAAiHMp.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094549969625812992"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094549975678214364",
+        "created_at": "2026-08-31T22:16:43.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T23:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094549975678214364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Av1qEouthq",
+              "end": 28,
+              "expanded_url": "https://x.com/Strf_9040C/status/2094549975678214364/photo/1",
+              "media_key": "3_2094549969625812992",
+              "start": 5,
+              "url": "https://t.co/Av1qEouthq"
+            },
+            {
+              "display_url": "x.com/EzraRan__/stat…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/EzraRan__/status/2094330859553960176",
+              "start": 29,
+              "url": "https://t.co/APDznkBeqN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094549975678214364",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094549969625812992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094330859553960176",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "新话词典 https://t.co/Av1qEouthq https://t.co/APDznkBeqN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094330849844174848"
+          ]
+        },
+        "author_id": "1968187553695272960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094330859553960176",
+        "created_at": "2026-08-31T07:46:02.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T08:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094330859553960176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cMSL88QuJq",
+              "end": 25,
+              "expanded_url": "https://x.com/EzraRan__/status/2094330859553960176/photo/1",
+              "media_key": "3_2094330849844174848",
+              "start": 2,
+              "url": "https://t.co/cMSL88QuJq"
+            },
+            {
+              "display_url": "x.com/xixi5089562416…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/xixi50895624162/status/2094310987700789729",
+              "start": 26,
+              "url": "https://t.co/9WDJuYmCTP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094330859553960176",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2094330849844174848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 17228,
+          "like_count": 471,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094310987700789729",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🙂 https://t.co/cMSL88QuJq https://t.co/9WDJuYmCTP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "is_identity_verified": false,
+        "location": "全真模拟 战区控制 瑞典",
+        "most_recent_tweet_id": "2094549975678214364",
+        "name": "STRIDSFORDON 9040C “№545” 🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721895937357004800/1786049814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1679,
+          "following_count": 2528,
+          "like_count": 15880,
+          "listed_count": 2,
+          "media_count": 727,
+          "tweet_count": 1246
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-17T05:37:44.000Z",
+        "description": "高強度上網衝浪，過激評論可能，海涵。\n#StandWithUkraine 🇺🇦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 19,
+                "tag": "StandWithUkraine"
+              }
+            ]
+          }
+        },
+        "id": "1968187553695272960",
+        "is_identity_verified": false,
+        "location": "亞太",
+        "most_recent_tweet_id": "2094485473188319322",
+        "name": "漣 絵樹羅Ezra",
+        "pinned_tweet_id": "2067193313460195625",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1968187553695272960/1781639025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993195957132181506/QEgIPinV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 2561,
+          "like_count": 34062,
+          "listed_count": 6,
+          "media_count": 1257,
+          "tweet_count": 10146
+        },
+        "url": "",
+        "username": "EzraRan__",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

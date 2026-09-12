@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087796771946983424",
+        "3_2087796787642093568",
+        "3_2087796800833155072",
+        "3_2087796813185384448"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2087796824057028628",
+    "created_at": "2026-08-13T07:02:06.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T08:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087796824057028628"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/e3Z5ZFWfST",
+          "end": 36,
+          "expanded_url": "https://x.com/Strf_9040C/status/2087796824057028628/photo/1",
+          "media_key": "3_2087796771946983424",
+          "start": 13,
+          "url": "https://t.co/e3Z5ZFWfST"
+        },
+        {
+          "display_url": "pic.x.com/e3Z5ZFWfST",
+          "end": 36,
+          "expanded_url": "https://x.com/Strf_9040C/status/2087796824057028628/photo/1",
+          "media_key": "3_2087796787642093568",
+          "start": 13,
+          "url": "https://t.co/e3Z5ZFWfST"
+        },
+        {
+          "display_url": "pic.x.com/e3Z5ZFWfST",
+          "end": 36,
+          "expanded_url": "https://x.com/Strf_9040C/status/2087796824057028628/photo/1",
+          "media_key": "3_2087796800833155072",
+          "start": 13,
+          "url": "https://t.co/e3Z5ZFWfST"
+        },
+        {
+          "display_url": "pic.x.com/e3Z5ZFWfST",
+          "end": 36,
+          "expanded_url": "https://x.com/Strf_9040C/status/2087796824057028628/photo/1",
+          "media_key": "3_2087796813185384448",
+          "start": 13,
+          "url": "https://t.co/e3Z5ZFWfST"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087796824057028628",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087796771946983424"
+      },
+      {
+        "media_key": "3_2087796787642093568"
+      },
+      {
+        "media_key": "3_2087796800833155072"
+      },
+      {
+        "media_key": "3_2087796813185384448"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "飞利浦你的滤波器有点幽默 https://t.co/e3Z5ZFWfST"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3600,
+        "media_key": "3_2087796771946983424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlYGjsbcAAkqTG.jpg",
+        "width": 3000
+      },
+      {
+        "height": 3600,
+        "media_key": "3_2087796787642093568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlYHeKb0AAbCMf.jpg",
+        "width": 3000
+      },
+      {
+        "height": 3600,
+        "media_key": "3_2087796800833155072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlYIPTbcAAA07V.jpg",
+        "width": 3000
+      },
+      {
+        "height": 3600,
+        "media_key": "3_2087796813185384448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlYI9UbgAAXm82.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087796771946983424",
+            "3_2087796787642093568",
+            "3_2087796800833155072",
+            "3_2087796813185384448"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2087796824057028628",
+        "created_at": "2026-08-13T07:02:06.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T08:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087796824057028628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e3Z5ZFWfST",
+              "end": 36,
+              "expanded_url": "https://x.com/Strf_9040C/status/2087796824057028628/photo/1",
+              "media_key": "3_2087796771946983424",
+              "start": 13,
+              "url": "https://t.co/e3Z5ZFWfST"
+            },
+            {
+              "display_url": "pic.x.com/e3Z5ZFWfST",
+              "end": 36,
+              "expanded_url": "https://x.com/Strf_9040C/status/2087796824057028628/photo/1",
+              "media_key": "3_2087796787642093568",
+              "start": 13,
+              "url": "https://t.co/e3Z5ZFWfST"
+            },
+            {
+              "display_url": "pic.x.com/e3Z5ZFWfST",
+              "end": 36,
+              "expanded_url": "https://x.com/Strf_9040C/status/2087796824057028628/photo/1",
+              "media_key": "3_2087796800833155072",
+              "start": 13,
+              "url": "https://t.co/e3Z5ZFWfST"
+            },
+            {
+              "display_url": "pic.x.com/e3Z5ZFWfST",
+              "end": 36,
+              "expanded_url": "https://x.com/Strf_9040C/status/2087796824057028628/photo/1",
+              "media_key": "3_2087796813185384448",
+              "start": 13,
+              "url": "https://t.co/e3Z5ZFWfST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087796824057028628",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087796771946983424"
+          },
+          {
+            "media_key": "3_2087796787642093568"
+          },
+          {
+            "media_key": "3_2087796800833155072"
+          },
+          {
+            "media_key": "3_2087796813185384448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "飞利浦你的滤波器有点幽默 https://t.co/e3Z5ZFWfST"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "is_identity_verified": false,
+        "location": "全真模拟 战区控制 瑞典",
+        "most_recent_tweet_id": "2087796824057028628",
+        "name": "STRIDSFORDON 9040C “№545” 🏳️‍⚧️",
+        "pinned_tweet_id": "2076732270384464027",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721895937357004800/1786049814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1642,
+          "following_count": 2509,
+          "like_count": 15029,
+          "listed_count": 2,
+          "media_count": 706,
+          "tweet_count": 1225
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

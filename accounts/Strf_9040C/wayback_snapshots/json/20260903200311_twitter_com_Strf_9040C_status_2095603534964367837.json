@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095603512789135360"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2095603534964367837",
+    "created_at": "2026-09-03T20:03:11.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T21:03:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095603534964367837"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/U0fBDKqAWm",
+          "end": 36,
+          "expanded_url": "https://x.com/Strf_9040C/status/2095603534964367837/photo/1",
+          "media_key": "3_2095603512789135360",
+          "start": 13,
+          "url": "https://t.co/U0fBDKqAWm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095603534964367837",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095603512789135360"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天是坦克酱的生日🥺👉👈 https://t.co/U0fBDKqAWm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1639,
+        "media_key": "3_2095603512789135360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRUUSrnbcAAz5yU.jpg",
+        "width": 1635
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095603512789135360"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2095603534964367837",
+        "created_at": "2026-09-03T20:03:11.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T21:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095603534964367837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U0fBDKqAWm",
+              "end": 36,
+              "expanded_url": "https://x.com/Strf_9040C/status/2095603534964367837/photo/1",
+              "media_key": "3_2095603512789135360",
+              "start": 13,
+              "url": "https://t.co/U0fBDKqAWm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095603534964367837",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095603512789135360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是坦克酱的生日🥺👉👈 https://t.co/U0fBDKqAWm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "is_identity_verified": false,
+        "location": "全真模拟 战区控制 瑞典",
+        "most_recent_tweet_id": "2095603534964367837",
+        "name": "STRIDSFORDON 9040C “№545” 🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721895937357004800/1786049814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1696,
+          "following_count": 2542,
+          "like_count": 16123,
+          "listed_count": 2,
+          "media_count": 730,
+          "tweet_count": 1248
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
