@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100764786040721408",
+        "3_2100764792843853824",
+        "3_2100764798984368128",
+        "3_2100764806102061056"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2100764811743379467",
+    "created_at": "2026-09-18T01:52:16.000Z",
+    "display_text_range": [
+      0,
+      198
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T02:52:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100764811743379467"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7pQQ9QGzJj",
+          "end": 222,
+          "expanded_url": "https://x.com/Strf_9040C/status/2100764811743379467/photo/1",
+          "media_key": "3_2100764786040721408",
+          "start": 199,
+          "url": "https://t.co/7pQQ9QGzJj"
+        },
+        {
+          "display_url": "pic.x.com/7pQQ9QGzJj",
+          "end": 222,
+          "expanded_url": "https://x.com/Strf_9040C/status/2100764811743379467/photo/1",
+          "media_key": "3_2100764792843853824",
+          "start": 199,
+          "url": "https://t.co/7pQQ9QGzJj"
+        },
+        {
+          "display_url": "pic.x.com/7pQQ9QGzJj",
+          "end": 222,
+          "expanded_url": "https://x.com/Strf_9040C/status/2100764811743379467/photo/1",
+          "media_key": "3_2100764798984368128",
+          "start": 199,
+          "url": "https://t.co/7pQQ9QGzJj"
+        },
+        {
+          "display_url": "pic.x.com/7pQQ9QGzJj",
+          "end": 222,
+          "expanded_url": "https://x.com/Strf_9040C/status/2100764811743379467/photo/1",
+          "media_key": "3_2100764806102061056",
+          "start": 199,
+          "url": "https://t.co/7pQQ9QGzJj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100764811743379467",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100764786040721408"
+      },
+      {
+        "media_key": "3_2100764792843853824"
+      },
+      {
+        "media_key": "3_2100764798984368128"
+      },
+      {
+        "media_key": "3_2100764806102061056"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "飞机讲解:\n注册号：N552AA / 制造商序列号：53034 / 生产线编号：1826\n- 机型：McDonnell Douglas MD-82（DC-9-82）\n\n​交付美航：1990年12月，机龄约28.7年\n​无重大事故记录，安全服役全程\n美航MD-80机队统一退役：2019年9月4日（最后一班“Flight 80”DFW→ORD）\nN552AA：2019年退役，飞往 ROS → 拆解 https://t.co/7pQQ9QGzJj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 666,
+        "media_key": "3_2100764786040721408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSdqcUybUAA1IAl.jpg",
+        "width": 1024
+      },
+      {
+        "height": 784,
+        "media_key": "3_2100764792843853824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSdqcuIa4AACWiH.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2100764798984368128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSdqdFAbsAAftVi.jpg",
+        "width": 1600
+      },
+      {
+        "height": 785,
+        "media_key": "3_2100764806102061056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSdqdfhbEAAUTN5.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100764786040721408",
+            "3_2100764792843853824",
+            "3_2100764798984368128",
+            "3_2100764806102061056"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2100764811743379467",
+        "created_at": "2026-09-18T01:52:16.000Z",
+        "display_text_range": [
+          0,
+          198
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T02:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100764811743379467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7pQQ9QGzJj",
+              "end": 222,
+              "expanded_url": "https://x.com/Strf_9040C/status/2100764811743379467/photo/1",
+              "media_key": "3_2100764786040721408",
+              "start": 199,
+              "url": "https://t.co/7pQQ9QGzJj"
+            },
+            {
+              "display_url": "pic.x.com/7pQQ9QGzJj",
+              "end": 222,
+              "expanded_url": "https://x.com/Strf_9040C/status/2100764811743379467/photo/1",
+              "media_key": "3_2100764792843853824",
+              "start": 199,
+              "url": "https://t.co/7pQQ9QGzJj"
+            },
+            {
+              "display_url": "pic.x.com/7pQQ9QGzJj",
+              "end": 222,
+              "expanded_url": "https://x.com/Strf_9040C/status/2100764811743379467/photo/1",
+              "media_key": "3_2100764798984368128",
+              "start": 199,
+              "url": "https://t.co/7pQQ9QGzJj"
+            },
+            {
+              "display_url": "pic.x.com/7pQQ9QGzJj",
+              "end": 222,
+              "expanded_url": "https://x.com/Strf_9040C/status/2100764811743379467/photo/1",
+              "media_key": "3_2100764806102061056",
+              "start": 199,
+              "url": "https://t.co/7pQQ9QGzJj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100764811743379467",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100764786040721408"
+          },
+          {
+            "media_key": "3_2100764792843853824"
+          },
+          {
+            "media_key": "3_2100764798984368128"
+          },
+          {
+            "media_key": "3_2100764806102061056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "飞机讲解:\n注册号：N552AA / 制造商序列号：53034 / 生产线编号：1826\n- 机型：McDonnell Douglas MD-82（DC-9-82）\n\n​交付美航：1990年12月，机龄约28.7年\n​无重大事故记录，安全服役全程\n美航MD-80机队统一退役：2019年9月4日（最后一班“Flight 80”DFW→ORD）\nN552AA：2019年退役，飞往 ROS → 拆解 https://t.co/7pQQ9QGzJj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "is_identity_verified": false,
+        "location": "全真模拟 战区控制 瑞典",
+        "most_recent_tweet_id": "2100764811743379467",
+        "name": "STRIDSFORDON 9040C “№545” 🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721895937357004800/1786049814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1793,
+          "following_count": 2554,
+          "like_count": 16754,
+          "listed_count": 2,
+          "media_count": 734,
+          "tweet_count": 1251
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

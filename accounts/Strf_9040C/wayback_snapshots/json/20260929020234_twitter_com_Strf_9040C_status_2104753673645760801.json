@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104753639667736576"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2104473392116359201",
+    "created_at": "2026-09-29T02:02:34.000Z",
+    "display_text_range": [
+      15,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T03:02:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104753673645760801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1868647785438003200",
+          "start": 0,
+          "username": "GreyWallStoss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/edfEkmInTa",
+          "end": 69,
+          "expanded_url": "https://x.com/Strf_9040C/status/2104753673645760801/photo/1",
+          "media_key": "3_2104753639667736576",
+          "start": 46,
+          "url": "https://t.co/edfEkmInTa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104753673645760801",
+    "in_reply_to_user_id": "1868647785438003200",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104753639667736576"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104473392116359201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GreyWallStoss 半衰期太短导致的，有时候窝涩涩一次的时长都能比这个药半衰期长 https://t.co/edfEkmInTa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2453,
+        "media_key": "3_2104753639667736576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTWWSKgbIAAf76O.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104753639667736576"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2104473392116359201",
+        "created_at": "2026-09-29T02:02:34.000Z",
+        "display_text_range": [
+          15,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T03:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104753673645760801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1868647785438003200",
+              "start": 0,
+              "username": "GreyWallStoss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/edfEkmInTa",
+              "end": 69,
+              "expanded_url": "https://x.com/Strf_9040C/status/2104753673645760801/photo/1",
+              "media_key": "3_2104753639667736576",
+              "start": 46,
+              "url": "https://t.co/edfEkmInTa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104753673645760801",
+        "in_reply_to_user_id": "1868647785438003200",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104753639667736576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104473392116359201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GreyWallStoss 半衰期太短导致的，有时候窝涩涩一次的时长都能比这个药半衰期长 https://t.co/edfEkmInTa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868647785438003200",
+        "conversation_id": "2104473392116359201",
+        "created_at": "2026-09-28T07:28:50.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T08:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104473392116359201"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104473392116359201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 659,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "扎来普隆和唑吡坦\n\n都是Z药…\n为什么能差这么多…\n\n再也不要吃这个破药了\n\n睡也睡不着\n\n睡着了也睡不好…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "is_identity_verified": false,
+        "location": "全真模拟 战区控制 瑞典",
+        "most_recent_tweet_id": "2104753673645760801",
+        "name": "STRIDSFORDON 9040C “№545” 🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721895937357004800/1786049814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1828,
+          "following_count": 2602,
+          "like_count": 17339,
+          "listed_count": 1,
+          "media_count": 747,
+          "tweet_count": 1264
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-16T13:22:16.000Z",
+        "description": "决定开一个号发一些大号不方便发的东西/和大号画风不符合的东西/药物/音乐/什么的/如果私自回关老师们造成不安很抱歉！老师们可以直接关注",
+        "id": "1868647785438003200",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104747126584652001",
+        "name": "撞擊灰色的牆",
+        "pinned_tweet_id": "1868666322785341698",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868647785438003200/1734360151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869716680596697088/q_IADrcu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 206,
+          "like_count": 1854,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 599
+        },
+        "url": "",
+        "username": "GreyWallStoss",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

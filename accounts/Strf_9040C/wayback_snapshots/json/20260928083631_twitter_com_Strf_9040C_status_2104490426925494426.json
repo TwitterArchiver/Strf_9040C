@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104489952679723008",
+        "3_2104490363797069825",
+        "3_2104490378745516032",
+        "3_2104490413843435520"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2104490426925494426",
+    "created_at": "2026-09-28T08:36:31.000Z",
+    "display_text_range": [
+      0,
+      141
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T09:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104490426925494426"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qKZnIgTq9B",
+          "end": 165,
+          "expanded_url": "https://x.com/Strf_9040C/status/2104490426925494426/photo/1",
+          "media_key": "3_2104489952679723008",
+          "start": 142,
+          "url": "https://t.co/qKZnIgTq9B"
+        },
+        {
+          "display_url": "pic.x.com/qKZnIgTq9B",
+          "end": 165,
+          "expanded_url": "https://x.com/Strf_9040C/status/2104490426925494426/photo/1",
+          "media_key": "3_2104490363797069825",
+          "start": 142,
+          "url": "https://t.co/qKZnIgTq9B"
+        },
+        {
+          "display_url": "pic.x.com/qKZnIgTq9B",
+          "end": 165,
+          "expanded_url": "https://x.com/Strf_9040C/status/2104490426925494426/photo/1",
+          "media_key": "3_2104490378745516032",
+          "start": 142,
+          "url": "https://t.co/qKZnIgTq9B"
+        },
+        {
+          "display_url": "pic.x.com/qKZnIgTq9B",
+          "end": 165,
+          "expanded_url": "https://x.com/Strf_9040C/status/2104490426925494426/photo/1",
+          "media_key": "3_2104490413843435520",
+          "start": 142,
+          "url": "https://t.co/qKZnIgTq9B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104490426925494426",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104489952679723008"
+      },
+      {
+        "media_key": "3_2104490363797069825"
+      },
+      {
+        "media_key": "3_2104490378745516032"
+      },
+      {
+        "media_key": "3_2104490413843435520"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "与引起毒性反应的物质接触可导致中毒。症状各不相同，但某些常见综合征表明接触了特定类别的毒物\n中毒通常为临床诊断，但对某些毒物可进行实验室检测且具有临床价值\n多数中毒病例以支持治疗为主\n仅特定毒物需使用特效解毒剂。预防措施包括给药品加上清楚的标签并将毒物放置在可能中毒者不易触及的地方 https://t.co/qKZnIgTq9B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2104489952679723008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTSmdj7agAAF-Jf.jpg",
+        "width": 3748
+      },
+      {
+        "height": 3453,
+        "media_key": "3_2104490363797069825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTSm1fdbYAEUS1c.jpg",
+        "width": 2236
+      },
+      {
+        "height": 2501,
+        "media_key": "3_2104490378745516032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTSm2XJakAACCHP.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1494,
+        "media_key": "3_2104490413843435520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTSm4Z5aUAAmF31.jpg",
+        "width": 2252
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104489952679723008",
+            "3_2104490363797069825",
+            "3_2104490378745516032",
+            "3_2104490413843435520"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2104490426925494426",
+        "created_at": "2026-09-28T08:36:31.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T09:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104490426925494426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qKZnIgTq9B",
+              "end": 165,
+              "expanded_url": "https://x.com/Strf_9040C/status/2104490426925494426/photo/1",
+              "media_key": "3_2104489952679723008",
+              "start": 142,
+              "url": "https://t.co/qKZnIgTq9B"
+            },
+            {
+              "display_url": "pic.x.com/qKZnIgTq9B",
+              "end": 165,
+              "expanded_url": "https://x.com/Strf_9040C/status/2104490426925494426/photo/1",
+              "media_key": "3_2104490363797069825",
+              "start": 142,
+              "url": "https://t.co/qKZnIgTq9B"
+            },
+            {
+              "display_url": "pic.x.com/qKZnIgTq9B",
+              "end": 165,
+              "expanded_url": "https://x.com/Strf_9040C/status/2104490426925494426/photo/1",
+              "media_key": "3_2104490378745516032",
+              "start": 142,
+              "url": "https://t.co/qKZnIgTq9B"
+            },
+            {
+              "display_url": "pic.x.com/qKZnIgTq9B",
+              "end": 165,
+              "expanded_url": "https://x.com/Strf_9040C/status/2104490426925494426/photo/1",
+              "media_key": "3_2104490413843435520",
+              "start": 142,
+              "url": "https://t.co/qKZnIgTq9B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104490426925494426",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104489952679723008"
+          },
+          {
+            "media_key": "3_2104490363797069825"
+          },
+          {
+            "media_key": "3_2104490378745516032"
+          },
+          {
+            "media_key": "3_2104490413843435520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "与引起毒性反应的物质接触可导致中毒。症状各不相同，但某些常见综合征表明接触了特定类别的毒物\n中毒通常为临床诊断，但对某些毒物可进行实验室检测且具有临床价值\n多数中毒病例以支持治疗为主\n仅特定毒物需使用特效解毒剂。预防措施包括给药品加上清楚的标签并将毒物放置在可能中毒者不易触及的地方 https://t.co/qKZnIgTq9B"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "is_identity_verified": false,
+        "location": "全真模拟 战区控制 瑞典",
+        "most_recent_tweet_id": "2104490426925494426",
+        "name": "STRIDSFORDON 9040C “№545” 🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721895937357004800/1786049814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1827,
+          "following_count": 2595,
+          "like_count": 17254,
+          "listed_count": 1,
+          "media_count": 742,
+          "tweet_count": 1259
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

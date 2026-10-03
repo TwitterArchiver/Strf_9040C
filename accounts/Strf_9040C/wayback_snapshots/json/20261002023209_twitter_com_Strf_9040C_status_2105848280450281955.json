@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "2105848280450281955",
+    "created_at": "2026-10-02T02:32:09.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T03:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105848280450281955"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Strf_9040C/sta…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/Strf_9040C/status/2105667544573210658",
+          "start": 42,
+          "url": "https://t.co/NztTfZ8lZg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105848280450281955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105667544573210658",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "西医治标，中医治本，中西合治，治成标本；\n急病靠拖，慢病靠磨，绝症靠佛，最后靠火。 https://t.co/NztTfZ8lZg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1745,
+        "media_key": "3_2105667533403750400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTjVdx-agAAbJD7.jpg",
+        "width": 1624
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "2105848280450281955",
+        "created_at": "2026-10-02T02:32:09.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T03:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105848280450281955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Strf_9040C/sta…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/Strf_9040C/status/2105667544573210658",
+              "start": 42,
+              "url": "https://t.co/NztTfZ8lZg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105848280450281955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105667544573210658",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "西医治标，中医治本，中西合治，治成标本；\n急病靠拖，慢病靠磨，绝症靠佛，最后靠火。 https://t.co/NztTfZ8lZg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105667533403750400"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2105667544573210658",
+        "created_at": "2026-10-01T14:33:58.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T15:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105667544573210658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hbYkg6dYug",
+              "end": 32,
+              "expanded_url": "https://x.com/Strf_9040C/status/2105667544573210658/photo/1",
+              "media_key": "3_2105667533403750400",
+              "start": 9,
+              "url": "https://t.co/hbYkg6dYug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105667544573210658",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105667533403750400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 320,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "老祖宗智慧这一块 https://t.co/hbYkg6dYug"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "is_identity_verified": false,
+        "location": "全真模拟 战区控制 瑞典",
+        "most_recent_tweet_id": "2105848280450281955",
+        "name": "STRIDSFORDON 9040C “№545” 🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721895937357004800/1786049814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1838,
+          "following_count": 2613,
+          "like_count": 17469,
+          "listed_count": 1,
+          "media_count": 753,
+          "tweet_count": 1272
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

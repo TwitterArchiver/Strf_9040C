@@ -1,0 +1,437 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104738672918814720",
+        "3_2104738685241659392",
+        "3_2104738700257361920",
+        "3_2104738714308231168"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2104738726161310205",
+    "created_at": "2026-09-29T01:03:11.000Z",
+    "display_text_range": [
+      0,
+      143
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T02:03:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104738726161310205"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NjYXTKwCS8",
+          "end": 167,
+          "expanded_url": "https://x.com/Strf_9040C/status/2104738726161310205/photo/1",
+          "media_key": "3_2104738672918814720",
+          "start": 144,
+          "url": "https://t.co/NjYXTKwCS8"
+        },
+        {
+          "display_url": "pic.x.com/NjYXTKwCS8",
+          "end": 167,
+          "expanded_url": "https://x.com/Strf_9040C/status/2104738726161310205/photo/1",
+          "media_key": "3_2104738685241659392",
+          "start": 144,
+          "url": "https://t.co/NjYXTKwCS8"
+        },
+        {
+          "display_url": "pic.x.com/NjYXTKwCS8",
+          "end": 167,
+          "expanded_url": "https://x.com/Strf_9040C/status/2104738726161310205/photo/1",
+          "media_key": "3_2104738700257361920",
+          "start": 144,
+          "url": "https://t.co/NjYXTKwCS8"
+        },
+        {
+          "display_url": "pic.x.com/NjYXTKwCS8",
+          "end": 167,
+          "expanded_url": "https://x.com/Strf_9040C/status/2104738726161310205/photo/1",
+          "media_key": "3_2104738714308231168",
+          "start": 144,
+          "url": "https://t.co/NjYXTKwCS8"
+        },
+        {
+          "display_url": "x.com/Strf_9040C/sta…",
+          "end": 191,
+          "expanded_url": "https://twitter.com/Strf_9040C/status/2104490426925494426",
+          "start": 168,
+          "url": "https://t.co/Le4NpzUY76"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104738726161310205",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104738672918814720"
+      },
+      {
+        "media_key": "3_2104738685241659392"
+      },
+      {
+        "media_key": "3_2104738700257361920"
+      },
+      {
+        "media_key": "3_2104738714308231168"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104490426925494426",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "识别中毒综合征（如抗胆碱能、毒蕈碱胆碱能、烟碱胆碱能、拟交感神经、戒断综合征）有助于缩小鉴别诊断的范围\n毒性可能是延迟的（如：对乙酰氨基酚, 铁, 鹅膏蕈 造成延迟肝毒性的蘑菇）或仅在再次暴露后才表现\n所有存在无法解释意识改变的患者都要考虑中毒可能，且应最大化辨识中毒症状和确认中毒物质 https://t.co/NjYXTKwCS8 https://t.co/Le4NpzUY76"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3635,
+        "media_key": "3_2104738672918814720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTWIq_BaYAALKi9.jpg",
+        "width": 1811
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2104738685241659392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTWIrs7aEAAFdSU.jpg",
+        "width": 2793
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2104738700257361920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTWIsk3bgAAJPF3.jpg",
+        "width": 2791
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2104738714308231168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTWItZNawAACIdP.jpg",
+        "width": 2775
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2104489952679723008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTSmdj7agAAF-Jf.jpg",
+        "width": 3748
+      },
+      {
+        "height": 3453,
+        "media_key": "3_2104490363797069825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTSm1fdbYAEUS1c.jpg",
+        "width": 2236
+      },
+      {
+        "height": 2501,
+        "media_key": "3_2104490378745516032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTSm2XJakAACCHP.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1494,
+        "media_key": "3_2104490413843435520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTSm4Z5aUAAmF31.jpg",
+        "width": 2252
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104738672918814720",
+            "3_2104738685241659392",
+            "3_2104738700257361920",
+            "3_2104738714308231168"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2104738726161310205",
+        "created_at": "2026-09-29T01:03:11.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T02:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104738726161310205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NjYXTKwCS8",
+              "end": 167,
+              "expanded_url": "https://x.com/Strf_9040C/status/2104738726161310205/photo/1",
+              "media_key": "3_2104738672918814720",
+              "start": 144,
+              "url": "https://t.co/NjYXTKwCS8"
+            },
+            {
+              "display_url": "pic.x.com/NjYXTKwCS8",
+              "end": 167,
+              "expanded_url": "https://x.com/Strf_9040C/status/2104738726161310205/photo/1",
+              "media_key": "3_2104738685241659392",
+              "start": 144,
+              "url": "https://t.co/NjYXTKwCS8"
+            },
+            {
+              "display_url": "pic.x.com/NjYXTKwCS8",
+              "end": 167,
+              "expanded_url": "https://x.com/Strf_9040C/status/2104738726161310205/photo/1",
+              "media_key": "3_2104738700257361920",
+              "start": 144,
+              "url": "https://t.co/NjYXTKwCS8"
+            },
+            {
+              "display_url": "pic.x.com/NjYXTKwCS8",
+              "end": 167,
+              "expanded_url": "https://x.com/Strf_9040C/status/2104738726161310205/photo/1",
+              "media_key": "3_2104738714308231168",
+              "start": 144,
+              "url": "https://t.co/NjYXTKwCS8"
+            },
+            {
+              "display_url": "x.com/Strf_9040C/sta…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/Strf_9040C/status/2104490426925494426",
+              "start": 168,
+              "url": "https://t.co/Le4NpzUY76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104738726161310205",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104738672918814720"
+          },
+          {
+            "media_key": "3_2104738685241659392"
+          },
+          {
+            "media_key": "3_2104738700257361920"
+          },
+          {
+            "media_key": "3_2104738714308231168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104490426925494426",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "识别中毒综合征（如抗胆碱能、毒蕈碱胆碱能、烟碱胆碱能、拟交感神经、戒断综合征）有助于缩小鉴别诊断的范围\n毒性可能是延迟的（如：对乙酰氨基酚, 铁, 鹅膏蕈 造成延迟肝毒性的蘑菇）或仅在再次暴露后才表现\n所有存在无法解释意识改变的患者都要考虑中毒可能，且应最大化辨识中毒症状和确认中毒物质 https://t.co/NjYXTKwCS8 https://t.co/Le4NpzUY76"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104489952679723008",
+            "3_2104490363797069825",
+            "3_2104490378745516032",
+            "3_2104490413843435520"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2104490426925494426",
+        "created_at": "2026-09-28T08:36:31.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T09:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104490426925494426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qKZnIgTq9B",
+              "end": 165,
+              "expanded_url": "https://x.com/Strf_9040C/status/2104490426925494426/photo/1",
+              "media_key": "3_2104489952679723008",
+              "start": 142,
+              "url": "https://t.co/qKZnIgTq9B"
+            },
+            {
+              "display_url": "pic.x.com/qKZnIgTq9B",
+              "end": 165,
+              "expanded_url": "https://x.com/Strf_9040C/status/2104490426925494426/photo/1",
+              "media_key": "3_2104490363797069825",
+              "start": 142,
+              "url": "https://t.co/qKZnIgTq9B"
+            },
+            {
+              "display_url": "pic.x.com/qKZnIgTq9B",
+              "end": 165,
+              "expanded_url": "https://x.com/Strf_9040C/status/2104490426925494426/photo/1",
+              "media_key": "3_2104490378745516032",
+              "start": 142,
+              "url": "https://t.co/qKZnIgTq9B"
+            },
+            {
+              "display_url": "pic.x.com/qKZnIgTq9B",
+              "end": 165,
+              "expanded_url": "https://x.com/Strf_9040C/status/2104490426925494426/photo/1",
+              "media_key": "3_2104490413843435520",
+              "start": 142,
+              "url": "https://t.co/qKZnIgTq9B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104490426925494426",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104489952679723008"
+          },
+          {
+            "media_key": "3_2104490363797069825"
+          },
+          {
+            "media_key": "3_2104490378745516032"
+          },
+          {
+            "media_key": "3_2104490413843435520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 600,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "与引起毒性反应的物质接触可导致中毒。症状各不相同，但某些常见综合征表明接触了特定类别的毒物\n中毒通常为临床诊断，但对某些毒物可进行实验室检测且具有临床价值\n多数中毒病例以支持治疗为主\n仅特定毒物需使用特效解毒剂。预防措施包括给药品加上清楚的标签并将毒物放置在可能中毒者不易触及的地方 https://t.co/qKZnIgTq9B"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "is_identity_verified": false,
+        "location": "全真模拟 战区控制 瑞典",
+        "most_recent_tweet_id": "2104738726161310205",
+        "name": "STRIDSFORDON 9040C “№545” 🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721895937357004800/1786049814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1828,
+          "following_count": 2601,
+          "like_count": 17333,
+          "listed_count": 1,
+          "media_count": 746,
+          "tweet_count": 1263
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

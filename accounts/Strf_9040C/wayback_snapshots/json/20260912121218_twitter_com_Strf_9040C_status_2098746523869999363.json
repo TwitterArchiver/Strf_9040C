@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2098746310535090176"
+      ]
+    },
+    "author_id": "1721895937357004800",
+    "conversation_id": "2098746523869999363",
+    "created_at": "2026-09-12T12:12:18.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T13:12:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098746523869999363"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/I4xTzF5Hf9",
+          "end": 41,
+          "expanded_url": "https://x.com/Strf_9040C/status/2098746523869999363/video/1",
+          "media_key": "13_2098746310535090176",
+          "start": 18,
+          "url": "https://t.co/I4xTzF5Hf9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098746523869999363",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2098746310535090176"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "归档：\n衡水第二中学举报录音\n转载 https://t.co/I4xTzF5Hf9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 114080,
+        "height": 720,
+        "media_key": "13_2098746310535090176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098746310535090176/img/j1dWUvgWaro1CqHG.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098746310535090176/vid/avc1/320x320/NhXw34Q3AREihG85.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098746310535090176/vid/avc1/540x540/LZ3rYr8H9A7D0io1.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098746310535090176/vid/avc1/720x720/FN-20V70BD3Odd2g.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098746310535090176/pl/h8bL3Yb0Rt_Dvr4Q.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098746310535090176"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2098746523869999363",
+        "created_at": "2026-09-12T12:12:18.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T13:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098746523869999363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I4xTzF5Hf9",
+              "end": 41,
+              "expanded_url": "https://x.com/Strf_9040C/status/2098746523869999363/video/1",
+              "media_key": "13_2098746310535090176",
+              "start": 18,
+              "url": "https://t.co/I4xTzF5Hf9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098746523869999363",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2098746310535090176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "归档：\n衡水第二中学举报录音\n转载 https://t.co/I4xTzF5Hf9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "is_identity_verified": false,
+        "location": "全真模拟 战区控制 瑞典",
+        "most_recent_tweet_id": "2098746523869999363",
+        "name": "STRIDSFORDON 9040C “№545” 🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721895937357004800/1786049814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1708,
+          "following_count": 2556,
+          "like_count": 16487,
+          "listed_count": 2,
+          "media_count": 733,
+          "tweet_count": 1256
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

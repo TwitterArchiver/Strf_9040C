@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721895937357004800",
+    "conversation_id": "1886243545037836470",
+    "created_at": "2025-02-03T02:41:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T03:41:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886243545037836470"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Allenium114/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Allenium114/status/1886098916766343391",
+          "start": 7,
+          "url": "https://t.co/zyxF3qPgC0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886243545037836470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886098916766343391",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "关注翎谢谢喵 https://t.co/zyxF3qPgC0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1886243545037836470",
+        "created_at": "2025-02-03T02:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T03:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886243545037836470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Allenium114/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Allenium114/status/1886098916766343391",
+              "start": 7,
+              "url": "https://t.co/zyxF3qPgC0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886243545037836470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886098916766343391",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关注翎谢谢喵 https://t.co/zyxF3qPgC0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886098907454939136"
+          ]
+        },
+        "author_id": "1807107145756008448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1886098916766343391",
+        "created_at": "2025-02-02T17:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T18:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886098916766343391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1683441735144439808",
+              "start": 25,
+              "username": "TheSolipsism"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/930ncjqohI",
+              "end": 94,
+              "expanded_url": "https://x.com/Allenium114/status/1886098916766343391/photo/1",
+              "media_key": "3_1886098907454939136",
+              "start": 71,
+              "url": "https://t.co/930ncjqohI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886098916766343391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 9544,
+          "like_count": 101,
+          "quote_count": 5,
+          "reply_count": 30,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "情况说明：\n推主：翎.𝟙𝕞𝕞∅ℝ𝕥𝕒𝕃🍥\n原账号：@TheSolipsism 遭到无理由封禁\n原 5kfo 账号基本上废了\n\n关注小号谢谢喵 https://t.co/930ncjqohI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 1590,
+          "like_count": 4629,
+          "listed_count": 1,
+          "media_count": 236,
+          "tweet_count": 530
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "🏳️‍⚧️🍥hrt2024.4.20/持“證”ADHD💯/常驻川渝/小证持有⁉️/178cm57kg/A-Level🇭🇰/🔞08 年 16 岁小登♿️/前osw编辑/需要促智/美白/减肥/HRT等药物找@Minokakay喵 /舞萌w3神人/Sis:@beijieyoufengle💤💤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "Minokakay"
+              },
+              {
+                "end": 141,
+                "start": 125,
+                "username": "beijieyoufengle"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "Tsuen Wan District, Hong Kong",
+        "name": "翎.𝟙𝕞𝕞∅ℝ𝕥𝕒𝕃🍥（5kfo 前世被封）",
+        "pinned_tweet_id": "1842819783219376461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886145434009436160/H41JRjBR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 164,
+          "like_count": 1367,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 176
+        },
+        "username": "Allenium114",
+        "verified": false
+      }
+    ]
+  }
+}
